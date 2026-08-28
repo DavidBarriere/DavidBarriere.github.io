@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover" />
+<title>Pig — Sus scrofa domesticus — Interactive brain atlas</title>
+<meta name="description" content="Interactive 3D pig (Sus scrofa domesticus) brain MRI template and atlas viewer, with region-by-region descriptions." />
+<link rel="stylesheet" href="./assets/css/style.css?v=11" />
+</head>
+<body>
+<div id="app"></div>
+
+<script type="module">
+  import { initBrainViewer } from "./assets/js/viewer.js?v=9";
+
+  const V = "5";
+  initBrainViewer({
+    rootId: "app",
+    defaultLang: "en",
+    labName: "DABLab",
+    labInitials: "DAB",
+    logoUrl: null,
+    cnrsLogoUrl: "./assets/img/cnrs.svg",
+    siteHomeUrl: "./tools.html",
+    commonName: { en: "Pig", fr: "Cochon" },
+    latinName: "Sus scrofa domesticus",
+    atlasName: "Turone Pig Brain Template and Atlas (TPBTA)",
+    atlasSpecs: {
+      en: "Template TPBTA. Strain: . Age: . Sex: . Number of animals: . Acquisition: 3 T. Weighting: T1. Spatial resolution: isotropic. In vivo.\n\nSaikali Atlas. Strain: Large White. Age: 6 months. Sex: female. Acquisition: 4.7 T. Weighting: T2*. Spatial resolution: 100 μm × 100 μm × 306 μm. Ex vivo.",
+      fr: "Template TPBTA. Souche : . Âge : . Sexe : . Nombre d'animaux : . Acquisition : 3 T. Pondération : T1. Résolution spatiale : isotropique. In vivo.\n\nSaikali Atlas. Souche : Large White. Âge : 6 mois. Sexe : femelle. Acquisition : 4,7 T. Pondération : T2*. Résolution spatiale : 100 μm × 100 μm × 306 μm. Ex vivo.",
+    },
+    atlasReferences: [
+      { text: "Saikali S, Meurice P, Sauleau P, Eliat PA, Bellaud P, Randuineau G, Vérin M, Malbert CH. (2010) A three-dimensional digital segmented and deformable brain atlas of the domestic pig. Journal of Neuroscience Methods 192(1):102-109. doi:10.1016/j.jneumeth.2010.07.041. PMID:20692291", url: "https://doi.org/10.1016/j.jneumeth.2010.07.041" },
+    ],
+    atlasInfo: {
+      en: "The Turone Pig Brain Template and Atlas (TPBTA) resources offer the preclinical neuroimaging community a unified and standardised framework for the analysis of multimodal pig brain data, allowing results to be reported in the coordinate system of the Saikali S et al. atlas, the reference in the field. The TPBTA resources were developed using the laboratory's own funding.",
+      fr: "Les ressources Turone Pig Brain Template and Atlas (TPBTA) offrent à la communauté de la neuro-imagerie préclinique un cadre unifié et standardisé pour l'analyse de données multimodales du cerveau du cochon, permettant de rapporter les résultats dans le système de coordonnées de l'atlas de Saikali S et al., qui est la référence dans le domaine. Les ressources TPBTA ont été développées sur fonds propres.",
+    },
+    templateUrl: `./data/swine/template.nii.gz?v=${V}`,
+    templateCalMin: 0,
+    templateCalMax: 27000,
+    atlasUrl: `./data/swine/atlas.nii.gz?v=${V}`,
+    atlasWithBordersUrl: `./data/swine/atlasAndBorders.nii.gz?v=${V}`,
+    lutUrl: `./data/swine/atlas_lut.json?v=${V}`,
+    regionsUrl: `./data/swine/regions.json?v=${V}`,
+    descriptionsUrl: `./data/swine/descriptions.json?v=${V}`,
+    defaultAtlasOpacity: 0.5,
+    pubmedContext: "pig brain",
+  });
+</script>
+</body>
+</html>

@@ -1,0 +1,1419 @@
+{
+  "Abducens nucleus": {
+    "en": "The abducens nucleus is a paired motor nucleus in the medial pontine tegmentum, just ventral to the floor of the fourth ventricle, marked by the overlying facial colliculus formed by the looping facial nerve axons. Its motor neurons innervate the lateral rectus muscle for outward eye movement, while its internuclear neurons project to the contralateral oculomotor nucleus to drive the medial rectus, together producing conjugate horizontal gaze. It receives vestibulo-ocular and saccadic inputs from the vestibular nuclei, prepositus hypoglossi, and pontine reticular formation.",
+    "fr": "Le noyau abducens est un noyau moteur pair situé dans la partie médiale de la calotte pontique, juste ventralement au plancher du quatrième ventricule, repéré par le colliculus facial formé par les axones du nerf facial qui l'entourent. Ses motoneurones innervent le muscle droit latéral pour l'abduction de l'œil, tandis que ses neurones internucléaires projettent vers le noyau oculomoteur controlatéral pour activer le muscle droit médial, produisant ensemble un regard horizontal conjugué. Il reçoit des afférences vestibulo-oculaires et saccadiques des noyaux vestibulaires, du noyau prepositus hypoglossi et de la formation réticulée pontique.",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Abducens Nucleus - StatPearls",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK544265/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "mouse:Abducens nucleus"
+  },
+  "Accumbens nucleus": {
+    "en": "The nucleus accumbens is a ventral striatal nucleus located at the junction of the caudate nucleus and putamen, ventral to the anterior limb of the internal capsule, and is subdivided into a core and a shell subregion with distinct connectivity. It receives dense glutamatergic afferents from the prefrontal cortex, hippocampus, amygdala and thalamus, and dopaminergic input from the ventral tegmental area, and its GABAergic medium spiny neurons project onward to the ventral pallidum and midbrain. Functionally it acts as an interface between limbic and motor systems, driving motivated behaviours such as feeding, reward seeking and reinforcement learning. In the pig, a species increasingly used as a large-animal neuroscience model, the accumbens is markedly larger relative to brain size than in rodents and has been anatomically segmented into core-like and shell-like territories using retrograde tracing, supporting its use in deep-brain-stimulation research on reward and addiction circuits.",
+    "fr": "Le noyau accumbens est un noyau du striatum ventral situé à la jonction du noyau caudé et du putamen, ventralement au bras antérieur de la capsule interne ; il se subdivise en une partie centrale (core) et une coque (shell) aux connexions distinctes. Il reçoit de denses afférences glutamatergiques du cortex préfrontal, de l'hippocampe, de l'amygdale et du thalamus, ainsi qu'une innervation dopaminergique issue de l'aire tegmentale ventrale, et ses neurones épineux GABAergiques projettent vers le pallidum ventral et le mésencéphale. Sur le plan fonctionnel, il constitue une interface entre les systèmes limbique et moteur, orientant les comportements motivés tels que l'alimentation, la recherche de récompense et l'apprentissage par renforcement. Chez le porc, espèce de plus en plus utilisée comme modèle de gros animal en neurosciences, le noyau accumbens est proportionnellement plus volumineux que chez le rongeur et a pu être subdivisé en territoires de type core et shell par traçage rétrograde, ce qui soutient son utilisation dans la recherche sur la stimulation cérébrale profonde liée à la récompense et à l'addiction.",
+    "sources": [
+      {
+        "title": "The Retrograde Connections and Anatomical Segregation of the Göttingen Minipig Nucleus Accumbens",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5136552/"
+      },
+      {
+        "title": "Brain-Wide Mapping of Afferent Inputs to Accumbens Nucleus Core Subdomains and Accumbens Nucleus Subnuclei",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7150367/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Amygdala": {
+    "en": "The amygdala is an almond-shaped complex of more than ten interconnected nuclei in the medial temporal lobe, receiving input from the orbitofrontal and piriform cortex, hypothalamus, thalamus and all sensory modalities. As a core node of the limbic system it drives the processing of emotionally salient stimuli, notably fear learning and its extinction, and its dysfunction is implicated in anxiety-related conditions.",
+    "fr": "L'amygdale est un complexe en forme d'amande regroupant plus de dix noyaux interconnectés dans le lobe temporal médian, recevant des afférences du cortex orbitofrontal, du cortex piriforme, de l'hypothalamus, du thalamus et de toutes les modalités sensorielles. Nœud central du système limbique, elle pilote le traitement des stimuli à valeur émotionnelle, notamment l'apprentissage et l'extinction de la peur, et son dysfonctionnement est impliqué dans les troubles anxieux.",
+    "sources": [
+      {
+        "title": "Unraveling the amygdala: A review of its anatomy and functions",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11953536/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "sheep:Amygdala"
+  },
+  "Anterior commissure": {
+    "en": "The anterior commissure is a compact, transversely oriented white-matter bundle that crosses the midline anterior to the fornical columns, interconnecting the two temporal lobes, piriform cortices and amygdalae, with a smaller anterior limb serving the olfactory bulbs and tracts. It provides a bilateral communication channel supporting olfaction, and contributes to memory, emotion and interhemispheric integration of temporal-lobe information.",
+    "fr": "La commissure antérieure est un faisceau de substance blanche compact, orienté transversalement, qui croise la ligne médiane en avant des piliers du fornix, reliant les deux lobes temporaux, les cortex piriformes et les amygdales, avec un contingent antérieur plus petit desservant les bulbes et tractus olfactifs. Elle constitue un canal de communication bilatéral impliqué dans l'olfaction et contribue à la mémoire, à l'émotion et à l'intégration interhémisphérique de l'information temporale.",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Anterior White Commissure",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK546614/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "sheep:Anterior commissure"
+  },
+  "Anterior entorhinal cortex": {
+    "en": "The entorhinal cortex occupies the rostral medial temporal lobe and forms the principal gateway between the neocortex and the hippocampus; its anterior (or anterolateral, in primates) subdivision borders the perirhinal cortex and receives predominantly object-related, non-spatial sensory information. It projects via the perforant path to the dentate gyrus and CA fields of the hippocampus and receives reciprocal hippocampal output, placing it at the core of the circuit for episodic memory formation and consolidation. Grid-cell-like spatially tuned neurons have been described in this region across several mammalian species, complementing its role in object and item memory. Comparative anatomical studies show the basic entorhinal-hippocampal loop is highly conserved across mammals, including ungulates such as the pig, even though most detailed functional recordings come from rodents and primates.",
+    "fr": "Le cortex entorhinal occupe la partie rostrale du lobe temporal médian et constitue la principale porte d'entrée entre le néocortex et l'hippocampe ; sa subdivision antérieure (ou antérolatérale chez les primates) borde le cortex périrhinal et reçoit majoritairement des informations sensorielles non spatiales liées aux objets. Il projette via la voie perforante vers le gyrus denté et les champs CA de l'hippocampe et reçoit en retour des efférences hippocampiques, le plaçant au cœur du circuit de formation et de consolidation de la mémoire épisodique. Des neurones à sélectivité spatiale de type « cellules de grille » ont été décrits dans cette région chez plusieurs espèces de mammifères, complétant son rôle dans la mémoire des objets. Les études anatomiques comparatives montrent que la boucle entorhino-hippocampique de base est hautement conservée chez les mammifères, y compris les ongulés comme le porc, même si la plupart des enregistrements fonctionnels détaillés proviennent des rongeurs et des primates.",
+    "sources": [
+      {
+        "title": "Anatomy and Function of the Primate Entorhinal Cortex",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32580662/"
+      },
+      {
+        "title": "Functional subregions of the human entorhinal cortex",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4458841/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Anterior hypothalamic area": {
+    "en": "The anterior hypothalamic area lies in the rostral hypothalamus, dorsal to the optic chiasm and lateral to the third ventricle, adjacent to the preoptic area with which it shares many thermoregulatory and autonomic functions. It sends efferent projections rostrally to the lateral septum and caudally to the posterior hypothalamic area, dorsal premammillary nucleus and periaqueductal grey, and receives input from the limbic forebrain and brainstem autonomic centres. Functionally it is central to thermoregulation (cooling responses such as cutaneous vasodilation and sweating), and its neurons also modulate defensive, reproductive and feeding behaviours as well as panic-like escape responses when activated. Because this region is essential for core body-temperature homeostasis and autonomic balance, its basic organisation is well conserved among mammals, including large domestic species used in thermoregulation and stress-physiology research.",
+    "fr": "L'aire hypothalamique antérieure est située dans l'hypothalamus rostral, dorsalement au chiasma optique et latéralement au troisième ventricule, à proximité de l'aire préoptique avec laquelle elle partage de nombreuses fonctions thermorégulatrices et autonomes. Elle envoie des projections efférentes rostralement vers le septum latéral et caudalement vers l'aire hypothalamique postérieure, le noyau prémamillaire dorsal et la substance grise périaqueducale, et reçoit des afférences du cerveau limbique et des centres autonomes du tronc cérébral. Sur le plan fonctionnel, elle joue un rôle central dans la thermorégulation (réponses de refroidissement telles que la vasodilatation cutanée et la sudation), et ses neurones modulent également les comportements défensifs, reproducteurs et alimentaires ainsi que les réponses de fuite de type panique lorsqu'ils sont activés. Cette région étant essentielle à l'homéostasie thermique centrale et à l'équilibre autonome, son organisation de base est bien conservée chez les mammifères, y compris les grandes espèces domestiques utilisées en recherche sur la thermorégulation et la physiologie du stress.",
+    "sources": [
+      {
+        "title": "Efferent connections of the anterior hypothalamic nucleus: a biocytin study in the cat",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/10718514/"
+      },
+      {
+        "title": "Anterior hypothalamic nucleus",
+        "url": "https://en.wikipedia.org/wiki/Anterior_hypothalamic_nucleus"
+      }
+    ],
+    "status": "documented"
+  },
+  "Anterior prefrontal cortex": {
+    "en": "The anterior (frontopolar) prefrontal cortex occupies the most rostral pole of the frontal lobe, corresponding to Brodmann area 10, and is one of the most recently evolved and least understood regions of the primate cortex. It is reciprocally connected with other prefrontal regions, the anterior cingulate cortex and multimodal association areas, but has comparatively sparse direct sensory or motor connections, consistent with its role in integrating rather than directly processing information. Functionally, it supports the highest levels of cognitive control, including maintaining a main goal in mind while exploring or pursuing secondary sub-goals, relational and analogical reasoning, and multitasking. This region is greatly expanded in humans, and while a comparable frontal-pole territory is identifiable across gyrencephalic mammals such as the pig, most direct functional evidence again derives from primate studies.",
+    "fr": "Le cortex préfrontal antérieur (ou frontopolaire) occupe le pôle le plus rostral du lobe frontal, correspondant à l'aire de Brodmann 10, et constitue l'une des régions du cortex des primates les plus récemment apparues sur le plan évolutif et les moins bien comprises. Il est réciproquement connecté à d'autres régions préfrontales, au cortex cingulaire antérieur et à des aires associatives multimodales, mais possède relativement peu de connexions sensorielles ou motrices directes, cohérent avec son rôle d'intégration plutôt que de traitement direct de l'information. Sur le plan fonctionnel, il sous-tend les niveaux les plus élevés de contrôle cognitif, notamment le maintien d'un objectif principal en mémoire tout en explorant ou poursuivant des sous-objectifs secondaires, le raisonnement relationnel et analogique, ainsi que le multitâche. Cette région est fortement développée chez l'humain, et bien qu'un territoire de pôle frontal comparable soit identifiable chez les mammifères gyrencéphales tels que le porc, la majorité des données fonctionnelles directes provient encore d'études chez les primates.",
+    "sources": [
+      {
+        "title": "Anterior prefrontal cortex: insights into function from anatomy and neuroimaging",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/14976518/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Anteroventral thalamic nucleus": {
+    "en": "The anteroventral nucleus is the largest of the three anterior thalamic nuclei, lying within the Y-shaped internal medullary lamina at the rostral pole of the thalamus, alongside the anteromedial and anterodorsal nuclei. It receives its principal input from the medial mammillary nucleus via the mammillothalamic tract and projects onward to the cingulate cortex through the thalamocingulate tract, forming a key relay of the Papez circuit alongside dense reciprocal connections with the hippocampal formation. Neurons here integrate head-direction and theta-rhythm signals and are essential for spatial navigation, and lesions of this nucleus produce severe anterograde amnesia comparable to hippocampal damage. Its position within the anterior thalamic-hippocampal-cingulate network makes it a critical node for learning, memory and goal-directed spatial behaviour across mammals.",
+    "fr": "Le noyau antéroventral est le plus volumineux des trois noyaux thalamiques antérieurs ; il se situe dans la lame médullaire interne en forme de Y, au pôle rostral du thalamus, aux côtés des noyaux antéromédian et antérodorsal. Il reçoit son afférence principale du noyau mamillaire médian via le tractus mamillo-thalamique et projette vers le cortex cingulaire par le tractus thalamo-cingulaire, formant un relais clé du circuit de Papez, en plus de connexions réciproques denses avec la formation hippocampique. Ses neurones intègrent les signaux de direction céphalique et de rythme thêta et sont essentiels à la navigation spatiale ; des lésions de ce noyau entraînent une amnésie antérograde sévère comparable à celle observée après lésion hippocampique. Sa position au sein du réseau thalamo-hippocampo-cingulaire en fait un nœud critique pour l'apprentissage, la mémoire et le comportement spatial orienté vers un but chez les mammifères.",
+    "sources": [
+      {
+        "title": "The anterior thalamus provides a subcortical circuit supporting memory and spatial navigation",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3757326/"
+      },
+      {
+        "title": "Papez's Forgotten Tract: 80 Years of Unreconciled Findings Concerning the Thalamocingulate Tract",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6388660/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Associative visual cortex": {
+    "en": "Associative (extrastriate) visual cortex comprises the cortical territory surrounding the primary visual cortex, receiving processed visual input relayed from striate cortex rather than direct retinal projections. It is organised into two broad functional streams: a ventral stream running toward the temporal lobe that supports object recognition and form vision, and a dorsal stream running toward the parietal lobe that supports spatial analysis, motion processing and visuomotor guidance. Multiple retinotopically organised areas (analogous to V2, V3, V4 and V5/MT in primates) contribute to increasingly complex and integrated representations of the visual scene. This hierarchical organisation of striate and surrounding extrastriate visual areas is a conserved feature of the mammalian visual system, underlying object identification, spatial vision and visually guided behaviour.",
+    "fr": "Le cortex visuel associatif (extrastrié) correspond au territoire cortical entourant le cortex visuel primaire ; il reçoit une information visuelle déjà traitée relayée par le cortex strié plutôt que des projections rétiniennes directes. Il s'organise en deux grandes voies fonctionnelles : une voie ventrale se dirigeant vers le lobe temporal, impliquée dans la reconnaissance des objets et la perception des formes, et une voie dorsale se dirigeant vers le lobe pariétal, impliquée dans l'analyse spatiale, le traitement du mouvement et le guidage visuomoteur. Plusieurs aires organisées rétinotopiquement (analogues aux aires V2, V3, V4 et V5/MT chez les primates) contribuent à des représentations de plus en plus complexes et intégrées de la scène visuelle. Cette organisation hiérarchique du cortex strié et des aires visuelles extrastriées environnantes est une caractéristique conservée du système visuel des mammifères, sous-tendant l'identification des objets, la vision spatiale et le comportement guidé par la vision.",
+    "sources": [
+      {
+        "title": "The Functional Organization of Extrastriate Visual Areas — Neuroscience (NCBI Bookshelf)",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK10884/"
+      },
+      {
+        "title": "Association and intrinsic connections of human extrastriate visual cortex",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/8090794/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Auditory cortex": {
+    "en": "The auditory cortex occupies the superior temporal region and is organised into a primary core area, tonotopically mapped according to sound frequency, surrounded by secondary belt and parabelt fields with progressively more complex, less strictly tonotopic response properties. It receives its principal ascending input from the medial geniculate nucleus of the thalamus and is reciprocally connected with prefrontal, parietal and limbic regions, allowing sound information to be integrated with attention, memory and multisensory processing. Functionally, the auditory cortex decodes the spectral and temporal features, source location and behavioural significance of sounds, supporting communication, sound localisation and species-specific vocalization processing. This core-belt-parabelt organisation and thalamocortical wiring pattern is conserved across mammals, from rodents to ungulates and primates.",
+    "fr": "Le cortex auditif occupe la région temporale supérieure et s'organise en une aire primaire (core), cartographiée tonotopiquement selon la fréquence sonore, entourée d'aires secondaires (belt) puis tertiaires (parabelt) aux propriétés de réponse de plus en plus complexes et moins strictement tonotopiques. Il reçoit son afférence ascendante principale du noyau géniculé médian du thalamus et est réciproquement connecté à des régions préfrontales, pariétales et limbiques, permettant d'intégrer l'information sonore à l'attention, à la mémoire et au traitement multisensoriel. Sur le plan fonctionnel, le cortex auditif décode les caractéristiques spectrales et temporelles, la localisation et la signification comportementale des sons, ce qui sous-tend la communication, la localisation sonore et le traitement des vocalisations spécifiques à l'espèce. Cette organisation en aires core-belt-parabelt et ce câblage thalamo-cortical sont conservés chez les mammifères, des rongeurs aux ongulés et aux primates.",
+    "sources": [
+      {
+        "title": "Function and connectivity in human primary auditory cortex: a combined fMRI and DTI study at 3 Tesla",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17190967/"
+      },
+      {
+        "title": "Anatomical connections suitable for the direct processing of neuronal information of different modalities via the rodent primary auditory cortex",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19446016/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Caudate nucleus": {
+    "en": "The caudate nucleus is a C-shaped, comma-like component of the dorsal striatum with a head, body and tail that curves around the thalamus alongside the lateral ventricle, and it is separated from the putamen by the internal capsule while remaining continuous with it ventrally through the nucleus accumbens. It receives topographically organised glutamatergic input from wide areas of association and prefrontal cortex, together with dopaminergic input from the substantia nigra, and its GABAergic projection neurons feed into cortico-striato-thalamo-cortical loops via the globus pallidus and substantia nigra pars reticulata. Functionally the caudate contributes to action selection and goal-directed behaviour, procedural and habit learning, and cognitive functions such as working memory and behavioural flexibility. Dysfunction of caudate circuits is implicated in movement disorders (Parkinson's and Huntington's disease) as well as obsessive-compulsive and attention disorders, reflecting its integrative role between cognition and motor control.",
+    "fr": "Le noyau caudé est une structure en forme de C, composante du striatum dorsal, comprenant une tête, un corps et une queue qui s'enroulent autour du thalamus le long du ventricule latéral ; il est séparé du putamen par la capsule interne tout en restant en continuité avec lui ventralement via le noyau accumbens. Il reçoit des afférences glutamatergiques organisées topographiquement en provenance de vastes territoires du cortex associatif et préfrontal, ainsi qu'une innervation dopaminergique issue de la substance noire, et ses neurones de projection GABAergiques alimentent les boucles cortico-striato-thalamo-corticales via le globus pallidus et la substance noire réticulée. Sur le plan fonctionnel, le noyau caudé participe à la sélection de l'action et au comportement orienté vers un but, à l'apprentissage procédural et des habitudes, ainsi qu'à des fonctions cognitives telles que la mémoire de travail et la flexibilité comportementale. Un dysfonctionnement des circuits du noyau caudé est impliqué dans des troubles du mouvement (maladies de Parkinson et de Huntington) ainsi que dans des troubles obsessionnels-compulsifs et attentionnels, reflétant son rôle intégrateur entre cognition et contrôle moteur.",
+    "sources": [
+      {
+        "title": "The Caudate Nucleus: Its Connections, Surgical Implications, and Related Complications",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32311569/"
+      },
+      {
+        "title": "The cognitive functions of the caudate nucleus",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18824075/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Central thalamic area": {
+    "en": "The central thalamic area comprises the rostral intralaminar nuclei (central lateral, paracentral and central medial nuclei) situated within and adjacent to the internal medullary lamina, together with related midline structures. These nuclei receive convergent input from ascending brainstem arousal systems and spinal pain pathways, and they project widely to the striatum and to associative and limbic cortical areas, including the entorhinal cortex and cingulate cortex. Functionally, the central thalamus is central to maintaining cortical and striatal arousal, alertness and integrated network activity, and it contributes to executive cognitive functions and the processing of visceral and nociceptive information. Damage to this region is strongly associated with disorders of consciousness, underscoring its role as a hub linking brainstem arousal systems to forebrain cognitive networks.",
+    "fr": "L'aire thalamique centrale regroupe les noyaux intralaminaires rostraux (noyaux centro-latéral, paracentral et centromédian) situés dans et à proximité de la lame médullaire interne, ainsi que des structures médianes apparentées. Ces noyaux reçoivent des afférences convergentes des systèmes d'éveil ascendants du tronc cérébral et des voies spinales de la douleur, et projettent largement vers le striatum ainsi que vers des aires corticales associatives et limbiques, notamment le cortex entorhinal et le cortex cingulaire. Sur le plan fonctionnel, le thalamus central est essentiel au maintien de l'éveil cortical et striatal, de la vigilance et d'une activité de réseau intégrée, et contribue aux fonctions cognitives exécutives ainsi qu'au traitement des informations viscérales et nociceptives. Une lésion de cette région est fortement associée à des troubles de la conscience, soulignant son rôle de relais entre les systèmes d'éveil du tronc cérébral et les réseaux cognitifs du prosencéphale.",
+    "sources": [
+      {
+        "title": "Central thalamic contributions to arousal regulation and neurological disorders of consciousness",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/18591473/"
+      },
+      {
+        "title": "The structural connectivity mapping of the intralaminar thalamic nuclei",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10366221/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Cerebellar lobule i,ii": {
+    "en": "Lobules I and II form the most rostral part of the cerebellar vermis, constituting the lingula and adjoining lobulus centralis at the very tip of the anterior lobe, just caudal to the anterior medullary velum. As part of the anterior lobe, they belong to the spinocerebellum and receive dense somatosensory and proprioceptive input via spinocerebellar pathways, together with vestibular afferents reflecting their position close to the vestibulocerebellar territory. Functionally these lobules contribute to the fine control of posture, axial muscle tone and balance-related reflexes rather than to cognitive processing. Because this region is one of the phylogenetically oldest parts of the cerebellum, its basic organisation and spinocerebellar input pattern are well conserved across mammals, including the pig.",
+    "fr": "Les lobules I et II forment la partie la plus rostrale du vermis cérébelleux, constituant la lingula et le lobule central adjacent, à l'extrémité du lobe antérieur, juste caudalement au voile médullaire antérieur. En tant que composants du lobe antérieur, ils appartiennent au spinocervelet et reçoivent de denses afférences somatosensorielles et proprioceptives via les voies spinocérébelleuses, ainsi que des afférences vestibulaires reflétant leur proximité avec le territoire vestibulo-cérébelleux. Sur le plan fonctionnel, ces lobules contribuent au contrôle fin de la posture, du tonus musculaire axial et des réflexes liés à l'équilibre, plutôt qu'au traitement cognitif. Cette région étant l'une des parties phylogénétiquement les plus anciennes du cervelet, son organisation de base et son profil d'afférences spinocérébelleuses sont bien conservés chez les mammifères, y compris le porc.",
+    "sources": [
+      {
+        "title": "A third somatomotor representation in the human cerebellum",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9576182/"
+      },
+      {
+        "title": "Whole-body somatotopic maps in the cerebellum revealed with 7T fMRI",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32058002/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Cerebellar lobule iii": {
+    "en": "Lobule III lies within the anterior lobe of the cerebellar vermis, forming the rostral part of the culmen just caudal to the central lobule (lobules I-II) and rostral to lobule IV. Like the rest of the anterior lobe, it is a core component of the spinocerebellum, receiving major somatosensory and proprioceptive input relayed by the spinocerebellar tracts, with the hindlimb classically represented at this rostral level of the anterior-lobe body map. It participates in a coarse but reliable somatotopic map of the body used for the online, feedback-based correction of posture and locomotion. This anterior-lobe somatotopy and its predominantly sensorimotor role are consistent findings across quadrupedal mammals, in which limb and trunk coordination place particularly high demands on this cerebellar territory.",
+    "fr": "Le lobule III se situe dans le lobe antérieur du vermis cérébelleux, formant la partie rostrale du culmen, juste caudalement au lobule central (lobules I-II) et rostralement au lobule IV. Comme le reste du lobe antérieur, il constitue une composante centrale du spinocervelet, recevant une importante afférence somatosensorielle et proprioceptive relayée par les voies spinocérébelleuses, le membre postérieur étant classiquement représenté à ce niveau rostral de la carte corporelle du lobe antérieur. Il participe à une cartographie somatotopique grossière mais fiable du corps, utilisée pour la correction en temps réel, fondée sur le retour sensoriel, de la posture et de la locomotion. Cette somatotopie du lobe antérieur et son rôle principalement sensorimoteur sont des constantes observées chez les mammifères quadrupèdes, chez qui la coordination des membres et du tronc sollicite fortement ce territoire cérébelleux.",
+    "sources": [
+      {
+        "title": "A third somatomotor representation in the human cerebellum",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9576182/"
+      },
+      {
+        "title": "Whole-body somatotopic maps in the cerebellum revealed with 7T fMRI",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32058002/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Cerebellar lobule iv": {
+    "en": "Lobule IV occupies the caudal culmen of the anterior cerebellar vermis, between lobule III rostrally and lobule V at the boundary with the primary fissure. It continues the anterior-lobe somatotopic representation of the body, with the forelimb classically represented across lobules IV and V, integrating proprioceptive and cutaneous afferents relayed through the spinocerebellar and cuneocerebellar pathways. Along with the neighbouring anterior-lobe lobules, it contributes Purkinje-cell output, via the deep cerebellar and vestibular nuclei, to the ongoing adjustment of muscle tone, gait and stance. Its predominantly sensorimotor role reflects the general anterior lobe/spinocerebellum functional division that is conserved throughout mammalian evolution.",
+    "fr": "Le lobule IV occupe la partie caudale du culmen, dans le vermis cérébelleux antérieur, entre le lobule III rostralement et le lobule V à la limite de la fissure primaire. Il prolonge la représentation somatotopique du corps propre au lobe antérieur, le membre antérieur étant classiquement représenté au niveau des lobules IV et V, intégrant des afférences proprioceptives et cutanées relayées par les voies spinocérébelleuses et cunéocérébelleuses. Avec les lobules voisins du lobe antérieur, il contribue, via les noyaux cérébelleux profonds et vestibulaires, à l'ajustement continu du tonus musculaire, de la démarche et de la station. Son rôle principalement sensorimoteur reflète la division fonctionnelle générale lobe antérieur/spinocervelet conservée au cours de l'évolution des mammifères.",
+    "sources": [
+      {
+        "title": "A third somatomotor representation in the human cerebellum",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9576182/"
+      },
+      {
+        "title": "Whole-body somatotopic maps in the cerebellum revealed with 7T fMRI",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32058002/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Cerebellar lobule ix": {
+    "en": "Lobule IX, the uvula, forms the most caudal part of the posterior cerebellar vermis, immediately rostral to the nodulus (lobule X) and the flocculonodular lobe. It receives strong vestibular mossy-fibre input, together with visual and optokinetic signals, positioning it functionally alongside the vestibulocerebellum despite its anatomical inclusion in the posterior lobe. Beyond its established role in balance and vestibulo-ocular control, the caudal vermis including lobule IX has also been shown to participate in the dorsal attentional network, linking it to visuospatial attention processing. This combination of vestibular and attentional functions illustrates the graded, rather than sharply divided, functional organisation of the caudal cerebellar vermis.",
+    "fr": "Le lobule IX, ou uvula, forme la partie la plus caudale du vermis cérébelleux postérieur, immédiatement rostral au nodulus (lobule X) et au lobe flocculo-nodulaire. Il reçoit une forte afférence vestibulaire par fibres moussues, ainsi que des signaux visuels et optocinétiques, le plaçant fonctionnellement aux côtés du vestibulocervelet malgré son inclusion anatomique dans le lobe postérieur. Au-delà de son rôle établi dans l'équilibre et le contrôle vestibulo-oculaire, le vermis caudal, dont le lobule IX, participe également au réseau attentionnel dorsal, le reliant au traitement de l'attention visuospatiale. Cette combinaison de fonctions vestibulaires et attentionnelles illustre l'organisation fonctionnelle graduelle, plutôt que nettement cloisonnée, du vermis cérébelleux caudal.",
+    "sources": [
+      {
+        "title": "Participation of the caudal cerebellar lobule IX to the dorsal attentional network",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6003008/"
+      },
+      {
+        "title": "Adaptive Balance in Posterior Cerebellum",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7985352/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Cerebellar lobule v": {
+    "en": "Lobule V forms the most caudal segment of the anterior cerebellar lobe, immediately rostral to the primary fissure that separates it from lobule VI, and contains one of the densest somatotopic representations of the limbs in the cerebellar vermis. It receives extensive spinocerebellar input and is heavily interconnected with motor cortex via cortico-ponto-cerebellar pathways, making it a key node for the real-time coordination of limb movement. Functionally, lobule V is implicated in fine motor coordination and in cerebellar contributions to skilled and learned movements, in addition to its baseline postural role. In quadrupedal mammals, including ungulates such as the pig, this heavily limb-related zone is proportionally prominent given the biomechanical demands of quadrupedal locomotion.",
+    "fr": "Le lobule V constitue le segment le plus caudal du lobe antérieur du cervelet, immédiatement rostral à la fissure primaire qui le sépare du lobule VI, et contient l'une des représentations somatotopiques des membres les plus denses du vermis cérébelleux. Il reçoit une importante afférence spinocérébelleuse et est fortement interconnecté avec le cortex moteur via les voies cortico-ponto-cérébelleuses, ce qui en fait un nœud clé de la coordination en temps réel des mouvements des membres. Sur le plan fonctionnel, le lobule V est impliqué dans la coordination motrice fine et dans la contribution du cervelet aux mouvements appris et habiles, en plus de son rôle postural de base. Chez les mammifères quadrupèdes, y compris les ongulés comme le porc, cette zone fortement liée aux membres est proportionnellement importante en raison des exigences biomécaniques de la locomotion quadrupède.",
+    "sources": [
+      {
+        "title": "A third somatomotor representation in the human cerebellum",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9576182/"
+      },
+      {
+        "title": "Whole-body somatotopic maps in the cerebellum revealed with 7T fMRI",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32058002/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Cerebellar lobule vi": {
+    "en": "Lobule VI, also known as the declive, forms the first lobule of the posterior cerebellar lobe, immediately caudal to the primary fissure, and is a paravermal transition zone between purely sensorimotor and cognitive cerebellar territories. It is anatomically and functionally linked to Crus I and lobule VIIb, together forming part of the cerebro-cerebellar loop that connects the cerebellum with prefrontal and parietal association cortex. Functionally, lobule VI contributes to eyeblink conditioning and other forms of cerebellar motor learning, while also participating in executive functions such as working memory, planning and cognitive flexibility. This dual sensorimotor/cognitive profile makes the declive one of the more functionally versatile lobules of the cerebellar vermis.",
+    "fr": "Le lobule VI, également appelé déclive, forme le premier lobule du lobe postérieur du cervelet, immédiatement caudal à la fissure primaire, et constitue une zone paravermienne de transition entre les territoires cérébelleux purement sensorimoteurs et cognitifs. Il est anatomiquement et fonctionnellement lié au Crus I et au lobule VIIb, formant ensemble une partie de la boucle cérébello-cérébrale qui relie le cervelet au cortex associatif préfrontal et pariétal. Sur le plan fonctionnel, le lobule VI contribue au conditionnement du réflexe de clignement palpébral et à d'autres formes d'apprentissage moteur cérébelleux, tout en participant à des fonctions exécutives telles que la mémoire de travail, la planification et la flexibilité cognitive. Ce double profil sensorimoteur et cognitif fait du déclive l'un des lobules les plus fonctionnellement polyvalents du vermis cérébelleux.",
+    "sources": [
+      {
+        "title": "Roles of the Declive, Folium, and Tuber Cerebellar Vermian Lobules in Sportspeople",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5765239/"
+      },
+      {
+        "title": "The indispensable role of the cerebellum in visual divergent thinking",
+        "url": "https://www.nature.com/articles/s41598-020-73679-9"
+      }
+    ],
+    "status": "documented"
+  },
+  "Cerebellar lobule viib": {
+    "en": "Lobule VIIb lies in the posterior cerebellar lobe, between lobule VI and lobule VIIIa, in the region classically termed the tuber (with the adjoining folium sometimes designated VIIa). Together with the neighbouring Crus I/II and lobule VI, it forms a core component of the 'cognitive cerebellum', with dense reciprocal connectivity to prefrontal and parietal association cortex via the pons and thalamus. Functional imaging shows lobule VIIb/VIIIa activity accurately tracks the content of visual working memory and contributes to verbal working memory and voluntary eye-movement control. Its position at the interface of sensorimotor and associative cerebellar zones reflects the layered, task-specific organisation that has been increasingly recognised within the primate and non-primate cerebellum alike.",
+    "fr": "Le lobule VIIb se situe dans le lobe postérieur du cervelet, entre le lobule VI et le lobule VIIIa, dans la région classiquement appelée tuber (le folium adjacent étant parfois désigné VIIa). Avec les Crus I/II voisins et le lobule VI, il forme une composante centrale du « cervelet cognitif », avec une riche connectivité réciproque vers le cortex associatif préfrontal et pariétal via le pont et le thalamus. L'imagerie fonctionnelle montre que l'activité des lobules VIIb/VIIIa reflète fidèlement le contenu de la mémoire de travail visuelle et contribue à la mémoire de travail verbale ainsi qu'au contrôle des mouvements oculaires volontaires. Sa position à l'interface des zones cérébelleuses sensorimotrices et associatives illustre l'organisation en couches, spécifique à certaines tâches, de plus en plus reconnue dans le cervelet des primates comme des autres mammifères.",
+    "sources": [
+      {
+        "title": "Stimulus-Specific Visual Working Memory Representations in Human Cerebellar Lobule VIIb/VIIIa",
+        "url": "https://www.jneurosci.org/content/41/5/1033"
+      },
+      {
+        "title": "Roles of the Declive, Folium, and Tuber Cerebellar Vermian Lobules in Sportspeople",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5765239/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Cerebellar lobule viiia": {
+    "en": "Lobule VIIIa forms part of the pyramis in the posterior cerebellar vermis, situated between lobule VIIb rostrally and lobule VIIIb caudally, and contains a second, more caudal somatotopic body map distinct from the primary map in the anterior lobe. Alongside its role in sensorimotor re-representation, this lobule shows delay-period activity that reliably encodes the content of visual working memory tasks, linking it functionally to the neighbouring cognitive lobule VIIb. It receives converging spinocerebellar, pontocerebellar and vestibular inputs, situating it at a functional crossroads between motor and cognitive cerebellar processing. This dual role illustrates how posterior-lobe lobules can support both classical sensorimotor functions and higher-order cognitive processing.",
+    "fr": "Le lobule VIIIa fait partie de la pyramide, dans le vermis cérébelleux postérieur, situé entre le lobule VIIb rostralement et le lobule VIIIb caudalement, et contient une seconde carte somatotopique du corps, plus caudale, distincte de la carte principale du lobe antérieur. Outre son rôle dans cette re-représentation sensorimotrice, ce lobule présente une activité pendant la période de rétention qui code fidèlement le contenu de tâches de mémoire de travail visuelle, le liant fonctionnellement au lobule cognitif voisin VIIb. Il reçoit des afférences convergentes spinocérébelleuses, pontocérébelleuses et vestibulaires, le plaçant à un carrefour fonctionnel entre traitement moteur et cognitif du cervelet. Ce double rôle illustre comment les lobules du lobe postérieur peuvent soutenir à la fois des fonctions sensorimotrices classiques et un traitement cognitif de plus haut niveau.",
+    "sources": [
+      {
+        "title": "Stimulus-Specific Visual Working Memory Representations in Human Cerebellar Lobule VIIb/VIIIa",
+        "url": "https://www.jneurosci.org/content/41/5/1033"
+      },
+      {
+        "title": "Adaptive Balance in Posterior Cerebellum",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7985352/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Cerebellar lobule viiib": {
+    "en": "Lobule VIIIb continues the pyramis of the posterior cerebellar vermis caudal to lobule VIIIa, and together with it forms the second somatotopic representation of the body within the posterior lobe. It receives substantial spinocerebellar and vestibular input and, through its projections to the deep cerebellar and vestibular nuclei, contributes to postural control, gait regulation and balance. Along with the neighbouring lobule IX, it lies close to the transition toward the more purely vestibular posterior and flocculonodular territories of the cerebellum. Its predominantly sensorimotor and balance-related role is consistent with the general caudal-vermis specialization for postural and vestibular processing seen across mammals.",
+    "fr": "Le lobule VIIIb prolonge la pyramide du vermis cérébelleux postérieur, caudalement au lobule VIIIa, et forme avec lui la seconde représentation somatotopique du corps au sein du lobe postérieur. Il reçoit une importante afférence spinocérébelleuse et vestibulaire et, par ses projections vers les noyaux cérébelleux profonds et vestibulaires, contribue au contrôle postural, à la régulation de la démarche et à l'équilibre. Avec le lobule IX voisin, il se situe à proximité de la transition vers les territoires postérieurs et flocculo-nodulaires plus purement vestibulaires du cervelet. Son rôle principalement sensorimoteur et lié à l'équilibre est cohérent avec la spécialisation générale du vermis caudal pour le traitement postural et vestibulaire observée chez les mammifères.",
+    "sources": [
+      {
+        "title": "Adaptive Balance in Posterior Cerebellum",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7985352/"
+      },
+      {
+        "title": "Participation of the caudal cerebellar lobule IX to the dorsal attentional network",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6003008/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Cerebellar lobule x": {
+    "en": "Lobule X, comprising the nodulus in the vermis and the flocculus in the hemispheres, constitutes the flocculonodular lobe, the phylogenetically oldest part of the cerebellum and the anatomical core of the vestibulocerebellum. It receives direct primary vestibular afferents from the vestibular nerve and nuclei, and its Purkinje cells project back onto the vestibular nuclei rather than via the deep cerebellar nuclei, an unusual direct circuit reserved for this lobe. Functionally, lobule X is essential for the vestibulo-ocular reflex, gaze stabilisation, postural balance and adaptation of eye movements to head motion. Because of its fundamental role in balance, this lobe is remarkably resistant to many forms of cerebellar pathology relative to other lobules, reflecting its early developmental and evolutionary conservation.",
+    "fr": "Le lobule X, comprenant le nodulus dans le vermis et le flocculus dans les hémisphères, constitue le lobe flocculo-nodulaire, la partie phylogénétiquement la plus ancienne du cervelet et le cœur anatomique du vestibulocervelet. Il reçoit des afférences vestibulaires primaires directes issues du nerf et des noyaux vestibulaires, et ses cellules de Purkinje projettent directement vers les noyaux vestibulaires plutôt que via les noyaux cérébelleux profonds, un circuit direct inhabituel réservé à ce lobe. Sur le plan fonctionnel, le lobule X est essentiel au réflexe vestibulo-oculaire, à la stabilisation du regard, à l'équilibre postural et à l'adaptation des mouvements oculaires aux mouvements de la tête. En raison de son rôle fondamental dans l'équilibre, ce lobe est remarquablement résistant à de nombreuses formes de pathologie cérébelleuse par rapport aux autres lobules, reflétant sa conservation développementale et évolutive précoce.",
+    "sources": [
+      {
+        "title": "Lobe X of the Cerebellum: A Natural Neuro-Resistant Region",
+        "url": "https://www.mdpi.com/2813-0545/2/1/5"
+      }
+    ],
+    "status": "documented"
+  },
+  "Claustrum": {
+    "en": "The claustrum is a thin sheet of gray matter lying between the insular cortex and the striatum (external/extreme capsules), with among the densest and most widespread reciprocal connectivity with cortex of any structure relative to its size. In the mouse it is strongly interconnected with anterior cingulate and insular cortex, and it has been proposed to coordinate cross-modal sensory integration, attention, and states such as sleep.",
+    "fr": "Le claustrum est une fine lame de substance grise située entre le cortex insulaire et le striatum (capsules externe/extrême), présentant, relativement à sa taille, l'une des connectivités réciproques avec le cortex les plus denses et les plus étendues. Chez la souris, il est fortement interconnecté avec le cortex cingulaire antérieur et le cortex insulaire, et il a été proposé qu'il coordonne l'intégration sensorielle multimodale, l'attention et certains états tels que le sommeil.",
+    "sources": [
+      {
+        "title": "Structural Connectivity of the Anterior Cingulate Cortex, Claustrum, and the Anterior Insula of the Mouse",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6276828/"
+      },
+      {
+        "title": "Changing the Cortical Conductor's Tempo: Neuromodulation of the Claustrum",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8155375/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "mouse:Claustrum"
+  },
+  "Corpus callosum": {
+    "en": "The corpus callosum is the brain's largest commissural white-matter tract, comprising roughly 200 million myelinated axons that interconnect homotopic and heterotopic regions of the two cerebral hemispheres, with a broadly anteroposterior topography (frontal/motor fibers anteriorly, visual fibers via the splenium posteriorly). It integrates and transfers sensory, motor and higher cognitive information between hemispheres, enabling coordinated bilateral brain function.",
+    "fr": "Le corps calleux est le plus important faisceau commissural de substance blanche du cerveau, comprenant environ 200 millions d'axones myélinisés qui relient des régions homotopiques et hétérotopiques des deux hémisphères cérébraux, selon une topographie globalement antéropostérieure (fibres frontales/motrices en avant, fibres visuelles via le splénium en arrière). Il intègre et transfère l'information sensorielle, motrice et cognitive supérieure entre les hémisphères, permettant un fonctionnement cérébral bilatéral coordonné.",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Corpus Callosum",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK448209/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "sheep:Corpus Callosum"
+  },
+  "Crus 1 of the ansiform lobule": {
+    "en": "Crus I is a large hemispheric lobule of the posterior cerebellum, lying between lobule VI/simple lobule rostrally and Crus II caudally, and forming (together with Crus II) the ansiform lobule. It is heavily interconnected with prefrontal, parietal and temporal association cortex through cortico-ponto-cerebellar and cerebello-thalamo-cortical loops, rather than with primary sensorimotor cortex, making it a core component of the 'cognitive cerebellum'. Functional studies implicate Crus I in working memory, language processing, planning and cognitive flexibility, and it is one of the most expanded cerebellar regions in association with the growth of prefrontal cortex across mammalian evolution, though a homologous territory has been anatomically identified in rodents and other non-primate mammals. Its close functional coupling with prefrontal networks parallels the way sensorimotor lobules couple with motor cortex.",
+    "fr": "Le Crus I est un large lobule hémisphérique du cervelet postérieur, situé entre le lobule VI (lobule simple) rostralement et le Crus II caudalement, formant avec ce dernier le lobule ansiforme. Il est fortement interconnecté avec le cortex associatif préfrontal, pariétal et temporal via les boucles cortico-ponto-cérébelleuses et cérébello-thalamo-corticales, plutôt qu'avec le cortex sensorimoteur primaire, ce qui en fait une composante centrale du « cervelet cognitif ». Les études fonctionnelles impliquent le Crus I dans la mémoire de travail, le traitement du langage, la planification et la flexibilité cognitive ; c'est l'une des régions cérébelleuses les plus développées en lien avec l'expansion du cortex préfrontal au cours de l'évolution des mammifères, bien qu'un territoire homologue ait été identifié anatomiquement chez les rongeurs et d'autres mammifères non primates. Son fort couplage fonctionnel avec les réseaux préfrontaux fait écho à la manière dont les lobules sensorimoteurs se couplent au cortex moteur.",
+    "sources": [
+      {
+        "title": "Crus I in the Rodent Cerebellum: Its Homology to Crus I and II in the Primate Cerebellum and Its Anatomical Uniqueness Among Neighboring Lobules",
+        "url": "https://link.springer.com/article/10.1007/s12311-017-0911-4"
+      }
+    ],
+    "status": "documented"
+  },
+  "Crus 2 of the ansiform lobule": {
+    "en": "Crus II is the hemispheric lobule immediately caudal to Crus I, together forming the ansiform lobule of the posterior cerebellum, and it maintains similarly dense connections with prefrontal and parietal association cortex rather than primary motor regions. Meta-analytic functional imaging work identifies Crus II as particularly specialised for social mentalizing and the processing of emotional self-experience, in addition to contributing to cognitive flexibility and working memory alongside Crus I. This social-cognitive specialisation, superimposed on the broader cognitive-cerebellum network shared with Crus I and lobule VIIb, illustrates the fine-grained functional parcellation that exists within the cerebellar hemispheres. As with Crus I, most of this detailed functional evidence comes from primate and human neuroimaging, with a homologous anatomical territory identified in other mammals including rodents.",
+    "fr": "Le Crus II est le lobule hémisphérique immédiatement caudal au Crus I, formant avec lui le lobule ansiforme du cervelet postérieur, et maintient des connexions tout aussi denses avec le cortex associatif préfrontal et pariétal plutôt qu'avec les régions motrices primaires. Des travaux de méta-analyse en imagerie fonctionnelle identifient le Crus II comme particulièrement spécialisé dans la mentalisation sociale et le traitement de l'expérience émotionnelle de soi, en plus de contribuer, avec le Crus I, à la flexibilité cognitive et à la mémoire de travail. Cette spécialisation sociocognitive, superposée au réseau plus large du « cervelet cognitif » partagé avec le Crus I et le lobule VIIb, illustre la parcellisation fonctionnelle fine existant au sein des hémisphères cérébelleux. Comme pour le Crus I, l'essentiel de ces données fonctionnelles détaillées provient de l'imagerie chez les primates et l'humain, un territoire anatomique homologue ayant été identifié chez d'autres mammifères, y compris les rongeurs.",
+    "sources": [
+      {
+        "title": "The posterior crus II cerebellum is specialized for social mentalizing and emotional self-experiences: a meta-analysis",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7851889/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Cuneate nucleus": {
+    "en": "The cuneate nucleus, in the dorsal caudal medulla, is the second-order relay of the dorsal column-medial lemniscus pathway for the upper body and forelimb: it receives fine touch, vibration and proprioceptive afferents via the cuneate fascicle and projects, as internal arcuate/medial lemniscus fibers, to the contralateral thalamus.",
+    "fr": "Le noyau cunéiforme, dans la partie dorso-caudale du bulbe, est le relais de second ordre de la voie des cordons dorsaux-lemnisque médian pour le haut du corps et le membre antérieur : il reçoit les afférences de tact fin, de vibration et de proprioception via le faisceau cunéiforme et projette, sous forme de fibres arquées internes/lemnisque médian, vers le thalamus controlatéral.",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Nucleus Gracilis",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK546640/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "mouse:Cuneate nucleus"
+  },
+  "Dorsal anterior cingulate cortex": {
+    "en": "The dorsal anterior cingulate cortex (dACC) occupies the dorsal bank of the cingulate gyrus on the medial cerebral wall, rostral to the genu of the corpus callosum, and corresponds broadly to Brodmann areas 24 and 32. It is densely interconnected with the prefrontal and orbitofrontal cortex, motor and premotor areas, the amygdala and the hypothalamus, and forms a key node of the brain's salience network, in addition to having direct projections to the spinal cord. Functionally, the dACC is central to executive control, conflict monitoring and error detection, reward-based decision-making, and the integration of cognitive, motor and autonomic/affective information to guide adaptive behaviour. Its role as an interface between cognition, action and autonomic regulation is conserved across mammals, supporting its use as a translational region of interest in large-animal models such as the pig.",
+    "fr": "Le cortex cingulaire antérieur dorsal (dACC) occupe la berge dorsale du gyrus cingulaire sur la face médiale du cerveau, rostralement au genou du corps calleux, et correspond globalement aux aires de Brodmann 24 et 32. Il est densément interconnecté avec le cortex préfrontal et orbitofrontal, les aires motrices et prémotrices, l'amygdale et l'hypothalamus, et forme un nœud clé du réseau de la saillance du cerveau, en plus de projections directes vers la moelle épinière. Sur le plan fonctionnel, le dACC est central pour le contrôle exécutif, la surveillance des conflits et la détection des erreurs, la prise de décision fondée sur la récompense, ainsi que l'intégration des informations cognitives, motrices et autonomes/affectives afin de guider un comportement adapté. Son rôle d'interface entre cognition, action et régulation autonome est conservé chez les mammifères, ce qui justifie son utilisation comme région d'intérêt translationnelle dans les modèles de gros animaux tels que le porc.",
+    "sources": [
+      {
+        "title": "Differential engagement of anterior cingulate cortex subdivisions for cognitive and emotional function",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/17433093/"
+      },
+      {
+        "title": "Spatial and Temporal Distribution of Information Processing in the Human Dorsal Anterior Cingulate Cortex",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8973009/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Dorsal posterior cingular cortex": {
+    "en": "The dorsal posterior cingulate cortex forms the caudal, dorsal portion of the cingulate gyrus, wrapping around the splenium of the corpus callosum and marked histologically by a thick granular layer IV that distinguishes it from the agranular anterior cingulate cortex. It is reciprocally connected with the hippocampal formation, anterior thalamic nuclei, parietal cortex and retrosplenial cortex, placing it at the interface between limbic memory circuits and higher-order association cortex. Functionally it supports the integration of executive, mnemonic and visuospatial processing, contributing to episodic memory retrieval, self-referential thought and spatial orientation as part of the broader posterior cingulate/default-mode network. Lesions or dysfunction in this region are associated with impaired autobiographical memory and disorientation.",
+    "fr": "Le cortex cingulaire postérieur dorsal forme la portion caudale et dorsale du gyrus cingulaire, entourant le splénium du corps calleux et se distinguant histologiquement par une couche granulaire IV épaisse, à l'inverse du cortex cingulaire antérieur agranulaire. Il est connecté de façon réciproque à la formation hippocampique, aux noyaux thalamiques antérieurs, au cortex pariétal et au cortex rétrosplénial, le plaçant à l'interface entre les circuits limbiques de mémoire et le cortex associatif de haut niveau. Sur le plan fonctionnel, il participe à l'intégration des processus exécutifs, mnésiques et visuospatiaux, contribuant à la récupération de la mémoire épisodique, à la pensée autoréférentielle et à l'orientation spatiale au sein du réseau cingulaire postérieur/mode par défaut. Des lésions de cette région sont associées à des troubles de la mémoire autobiographique et à une désorientation.",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Cingulate Cortex - StatPearls - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK537077/"
+      },
+      {
+        "title": "A tripartite view of the posterior cingulate cortex - Nature Reviews Neuroscience",
+        "url": "https://www.nature.com/articles/s41583-022-00661-x"
+      }
+    ],
+    "status": "documented"
+  },
+  "Dorsolateral prefrontal cortex": {
+    "en": "The dorsolateral prefrontal cortex occupies the dorsal and lateral surface of the anterior frontal lobe, anterior to the premotor cortex, and is part of a domain-general network of frontal, parietal and insular regions recruited during demanding cognitive tasks. It receives input from posterior parietal association cortex and projects heavily to premotor and motor planning areas, as well as maintaining reciprocal connections with the mediodorsal thalamic nucleus. Functionally it is central to executive control, including working memory, task switching, planning, response inhibition and top-down modulation of attention and decision-making. It exerts top-down modulatory control over sensory and motor systems to guide goal-directed behaviour.",
+    "fr": "Le cortex préfrontal dorsolatéral occupe la surface dorsale et latérale de la partie antérieure du lobe frontal, en avant du cortex prémoteur, et appartient à un réseau généraliste de régions frontales, pariétales et insulaires recrutées lors des tâches cognitivement exigeantes. Il reçoit des afférences du cortex associatif pariétal postérieur et projette fortement vers les aires de planification prémotrices et motrices, tout en maintenant des connexions réciproques avec le noyau thalamique médiodorsal. Sur le plan fonctionnel, il est central pour le contrôle exécutif, incluant la mémoire de travail, le changement de tâche, la planification, l'inhibition de la réponse et la modulation descendante de l'attention et de la prise de décision. Il exerce un contrôle modulateur descendant sur les systèmes sensoriels et moteurs afin de guider le comportement dirigé vers un but.",
+    "sources": [
+      {
+        "title": "The Dorsolateral Prefrontal Cortex, a Dynamic Cortical Area to Enhance Top-Down Attentional Control - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6596925/"
+      },
+      {
+        "title": "Cognitive Functions and Neurodevelopmental Disorders Involving the Prefrontal Cortex and Mediodorsal Thalamus - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5808198/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Ectosplenial area": {
+    "en": "The ectosplenial area (cytoarchitectonic area 26) is a thin strip of periallocortex lying adjacent to the splenium of the corpus callosum, immediately bordering the retrosplenial and cingulate cortices. It has a primitive laminar organisation comprising a molecular layer, a cell-dense external layer of small pyramidal neurons, and an inner layer resembling layer VI of the isocortex. Along with the retrosplenial cortex proper, it is reciprocally connected with the hippocampal formation, anterior thalamic nuclei and visual cortex, positioning it within the extended hippocampal-cingulate memory and navigation network. It is thought to contribute to spatial and contextual memory processing as part of this retrosplenial-cingulate axis.",
+    "fr": "L'aire ectosplénique (aire cytoarchitectonique 26) est une fine bande de périallocortex située contre le splénium du corps calleux, bordant immédiatement les cortex rétrosplénial et cingulaire. Elle présente une organisation laminaire primitive comprenant une couche moléculaire, une couche externe dense en petits neurones pyramidaux, et une couche interne ressemblant à la couche VI de l'isocortex. Avec le cortex rétrosplénial proprement dit, elle est connectée de façon réciproque à la formation hippocampique, aux noyaux thalamiques antérieurs et au cortex visuel, la plaçant dans le réseau étendu hippocampo-cingulaire de mémoire et de navigation. Elle est considérée comme participant au traitement de la mémoire spatiale et contextuelle au sein de cet axe rétrosplénio-cingulaire.",
+    "sources": [
+      {
+        "title": "The retrosplenial cortex and long-term spatial memory: from the cell to the network - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7374566/"
+      },
+      {
+        "title": "Contributions of the rodent cingulate-retrosplenial cortical axis - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8511298/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Facial nucleus": {
+    "en": "The facial nucleus is a motor nucleus located in the caudal pontine tegmentum, divided into dorsal and ventral subgroups, whose looping axons (the internal genu) wrap around the abducens nucleus to form the facial colliculus on the floor of the fourth ventricle. It receives upper motor neuron input via the corticobulbar tract, arriving bilaterally to the neurons controlling the upper face and predominantly contralaterally to those controlling the lower face. Its special visceral efferent fibers innervate the muscles of facial expression along with the stapedius, stylohyoid and posterior digastric muscles, making it essential for facial movement, expression and protection of the middle ear. Because of its close relationship with the abducens nucleus, lesions in this region can produce combined facial and abducens palsies.",
+    "fr": "Le noyau facial est un noyau moteur situé dans le tegmentum pontique caudal, divisé en sous-groupes dorsal et ventral, dont les axones en boucle (genou interne) contournent le noyau abducens pour former le colliculus facial sur le plancher du quatrième ventricule. Il reçoit des afférences du motoneurone supérieur via le tractus corticobulbaire, de façon bilatérale pour les neurones contrôlant la face supérieure et principalement controlatérale pour ceux contrôlant la face inférieure. Ses fibres efférentes viscérales spéciales innervent les muscles de l'expression faciale ainsi que le muscle stapédien, le stylohyoïdien et le ventre postérieur du digastrique, le rendant essentiel au mouvement facial, à l'expression et à la protection de l'oreille moyenne. En raison de sa relation étroite avec le noyau abducens, des lésions de cette région peuvent produire des paralysies faciale et abducens combinées.",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Facial Colliculus - StatPearls - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK555907/"
+      },
+      {
+        "title": "Neuroanatomy, Cranial Nerve 7 (Facial) - StatPearls - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK526119/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Fourth ventricle": {
+    "en": "The fourth ventricle is the diamond-shaped CSF-filled cavity between the brainstem (pons/medulla) and the cerebellum, continuous with the cerebral aqueduct rostrally and the central canal caudally. Choroid plexus in its roof produces cerebrospinal fluid, which cushions the CNS, provides immune surveillance, clears metabolic waste and distributes neuromodulators; the ventricle communicates with the subarachnoid space via the median and lateral apertures (foramina of Magendie and Luschka).",
+    "fr": "Le quatrième ventricule est la cavité losangique remplie de LCS, située entre le tronc cérébral (pont/bulbe) et le cervelet, se prolongeant en amont par l'aqueduc cérébral et en aval par le canal central. Le plexus choroïde de son toit produit le liquide céphalorachidien, qui amortit le système nerveux central, assure une surveillance immunitaire, élimine les déchets métaboliques et distribue des neuromodulateurs ; le ventricule communique avec l'espace sous-arachnoïdien par les ouvertures médiane et latérales (foramens de Magendie et de Luschka).",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Fourth Ventricle - StatPearls",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK546577/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "mouse:Fourth ventricle"
+  },
+  "Fusiform gyrus": {
+    "en": "The fusiform gyrus, also called the occipitotemporal gyrus, spans the basal surface of the temporal and occipital lobes and is divided by the midfusiform sulcus into medial and lateral occipitotemporal subregions, tapering at both ends in its characteristic spindle shape. It sits within the ventral visual stream, receiving highly processed visual input from earlier occipital and temporal areas. Functionally it is a key structure for high-level vision, supporting face perception, object and body-part recognition, and reading, and its activity is also strongly linked to semantic and language processing. Damage to this region can produce prosopagnosia (face-recognition impairment) and other visual object-recognition deficits.",
+    "fr": "Le gyrus fusiforme, également appelé gyrus occipitotemporal, s'étend sur la surface basale des lobes temporal et occipital et est divisé par le sillon fusiforme médian en sous-régions occipitotemporales médiale et latérale, s'effilant à ses deux extrémités selon sa forme fuselée caractéristique. Il s'inscrit dans la voie visuelle ventrale, recevant des informations visuelles hautement traitées provenant des aires occipitales et temporales en amont. Sur le plan fonctionnel, il s'agit d'une structure clé de la vision de haut niveau, soutenant la perception des visages, la reconnaissance d'objets et de parties du corps, et la lecture ; son activité est également fortement liée au traitement sémantique et langagier. Une atteinte de cette région peut provoquer une prosopagnosie (trouble de la reconnaissance des visages) et d'autres déficits de reconnaissance visuelle des objets.",
+    "sources": [
+      {
+        "title": "The anatomical and functional specialization of the fusiform gyrus - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4714959/"
+      },
+      {
+        "title": "Neuroanatomy, Temporal Lobe - StatPearls - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK519512/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Geniculate nuclei": {
+    "en": "The geniculate nuclei comprise the lateral geniculate nucleus (LGN) and medial geniculate nucleus (MGN), paired thalamic relay stations located in the posteroventral thalamus adjacent to the pulvinar. The LGN receives direct retinal input via the optic tract and relays visual information to the primary visual cortex, while the MGN receives ascending auditory input from the inferior colliculus and projects it to the primary auditory cortex. Both nuclei are organised tonotopically or retinotopically and act as essential gatekeepers between subcortical sensory pathways and their respective cortical targets, also receiving substantial cortico-thalamic feedback that modulates sensory processing. Damage to either nucleus produces modality-specific sensory deficits, such as visual field loss (LGN) or auditory processing impairment (MGN).",
+    "fr": "Les noyaux géniculés comprennent le noyau géniculé latéral (NGL) et le noyau géniculé médian (NGM), stations thalamiques de relais appariées situées dans le thalamus postéro-ventral, à proximité du pulvinar. Le NGL reçoit des afférences rétiniennes directes via le tractus optique et relaie l'information visuelle vers le cortex visuel primaire, tandis que le NGM reçoit des afférences auditives ascendantes du colliculus inférieur et les projette vers le cortex auditif primaire. Les deux noyaux sont organisés de façon tonotopique ou rétinotopique et agissent comme des relais essentiels entre les voies sensorielles sous-corticales et leurs cibles corticales respectives, tout en recevant d'importantes rétroactions cortico-thalamiques modulant le traitement sensoriel. Une atteinte de l'un ou l'autre noyau entraîne des déficits sensoriels spécifiques à la modalité, tels qu'une perte du champ visuel (NGL) ou un trouble du traitement auditif (NGM).",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Nucleus Lateral Geniculate - StatPearls - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK541137/"
+      },
+      {
+        "title": "Neuroanatomy, Thalamic Nuclei - StatPearls - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK549908/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Globus pallidus": {
+    "en": "The globus pallidus is a basal ganglia nucleus lying medial to the putamen, with which it forms the lentiform nucleus beneath the insula; it is subdivided into an external segment (GPe) and an internal segment (GPi) separated by the medial medullary lamina. The GPe receives GABAergic input from the striatum and projects mainly to the subthalamic nucleus, forming part of the indirect basal ganglia pathway, while the GPi is a major basal ganglia output nucleus projecting to the thalamus (ventral anterior and ventral lateral nuclei). Functionally the globus pallidus is central to the direct and indirect pathways that regulate voluntary movement, modulating thalamocortical motor circuits to permit or suppress movement. Dysfunction of this nucleus is implicated in movement disorders such as Parkinsonism and dystonia.",
+    "fr": "Le globus pallidus est un noyau des ganglions de la base situé médialement au putamen, avec lequel il forme le noyau lenticulaire sous l'insula ; il est subdivisé en un segment externe (GPe) et un segment interne (GPi) séparés par la lame médullaire médiale. Le GPe reçoit des afférences GABAergiques du striatum et projette principalement vers le noyau sous-thalamique, faisant partie de la voie indirecte des ganglions de la base, tandis que le GPi est un noyau de sortie majeur des ganglions de la base projetant vers le thalamus (noyaux ventral antérieur et ventral latéral). Sur le plan fonctionnel, le globus pallidus est central dans les voies directe et indirecte qui régulent le mouvement volontaire, modulant les circuits thalamocorticaux moteurs pour permettre ou supprimer le mouvement. Un dysfonctionnement de ce noyau est impliqué dans des troubles du mouvement tels que le parkinsonisme et la dystonie.",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Globus Pallidus - StatPearls - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK557755/"
+      },
+      {
+        "title": "Neuroanatomy, Basal Ganglia - StatPearls - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK537141/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Habenular nuclei": {
+    "en": "The habenular nuclei are small, paired structures in the dorsal epithalamus, divided into medial and lateral divisions and connected to each other via the habenular commissure. The medial habenula is a densely packed mass of cholinergic neurons while the lateral habenula is more dispersed and contains dopaminergic and serotonergic afferent targets; together they form the core of the dorsal diencephalic conduction system, receiving forebrain input via the stria medullaris and sending efferents to midbrain and hindbrain targets via the fasciculus retroflexus. Functionally, the habenula plays a crucial role in reward processing, aversive learning, motivation and modulation of monoaminergic (dopaminergic and serotonergic) systems. Dysfunction of the habenular complex has been linked to depression, addiction and other affective disorders.",
+    "fr": "Les noyaux habénulaires sont de petites structures appariées de l'épithalamus dorsal, divisées en subdivisions médiale et latérale et reliées entre elles par la commissure habénulaire. L'habénula médiale est une masse dense de neurones cholinergiques tandis que l'habénula latérale est plus dispersée et contient des cibles afférentes dopaminergiques et sérotoninergiques ; ensemble, elles forment le cœur du système de conduction diencéphalique dorsal, recevant des afférences du cerveau antérieur via la strie médullaire et envoyant des efférences vers des cibles mésencéphaliques et rhombencéphaliques via le faisceau rétroflexe. Sur le plan fonctionnel, l'habénula joue un rôle crucial dans le traitement de la récompense, l'apprentissage aversif, la motivation et la modulation des systèmes monoaminergiques (dopaminergique et sérotoninergique). Un dysfonctionnement du complexe habénulaire a été associé à la dépression, à l'addiction et à d'autres troubles affectifs.",
+    "sources": [
+      {
+        "title": "The Neuroanatomy of the Habenular Complex and Its Role in the Regulation of Affective Behaviors - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10801627/"
+      },
+      {
+        "title": "The habenular nuclei: a conserved asymmetric relay station in the vertebrate brain - PMC",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2666075/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Hippocampus": {
+    "en": "The hippocampal formation is an allocortical structure of the medial temporal lobe comprising the dentate gyrus, the CA fields (Ammon's horn) and the subiculum, interconnected via the trisynaptic circuit and communicating with cortex through the entorhinal cortex, fimbria/fornix and alveus. It is essential for spatial navigation and the encoding and consolidation of declarative (episodic and spatial) memory.",
+    "fr": "La formation hippocampique est une structure allocorticale du lobe temporal médian comprenant le gyrus denté, les champs CA (corne d'Ammon) et le subiculum, interconnectés via le circuit trisynaptique et communiquant avec le cortex par l'intermédiaire du cortex entorhinal, de la fimbria/fornix et de l'alvéus. Elle est essentielle à la navigation spatiale ainsi qu'à l'encodage et la consolidation de la mémoire déclarative (épisodique et spatiale).",
+    "sources": [
+      {
+        "title": "Anatomy and function of the hippocampal formation (mouse atlas review)",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4104804/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "sheep:Hippocampus"
+  },
+  "Hypoglossal nucleus": {
+    "en": "The hypoglossal nucleus lies in the caudal medulla beneath the floor of the fourth ventricle and contains the motor neurons of the hypoglossal nerve (cranial nerve XII), which innervates the intrinsic and most extrinsic muscles of the tongue. It is essential for tongue movements involved in feeding, swallowing and, in rodents, licking, and is a widely used model for studying motor neuron development and disease.",
+    "fr": "Le noyau hypoglosse est situé dans la moelle allongée caudale, sous le plancher du quatrième ventricule, et contient les motoneurones du nerf hypoglosse (nerf crânien XII), qui innerve les muscles intrinsèques et la plupart des muscles extrinsèques de la langue. Il est essentiel aux mouvements de la langue impliqués dans l'alimentation, la déglutition et, chez les rongeurs, le léchage, et constitue un modèle largement utilisé pour l'étude du développement et des maladies des motoneurones.",
+    "sources": [
+      {
+        "title": "Developmental changes in the morphology of mouse hypoglossal motor neurons",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5009180/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "mouse:Hypoglossal nucleus"
+  },
+  "Inferior cerebellar peduncle": {
+    "en": "The inferior cerebellar peduncle (restiform body plus juxtarestiform body) is a large fiber bundle connecting the medulla and spinal cord to the cerebellum. It is largely an afferent pathway, carrying the dorsal spinocerebellar tract, olivocerebellar fibers from the contralateral inferior olive, cuneocerebellar/trigeminocerebellar tracts and external arcuate fibers, integrating proprioceptive and vestibular information for balance and posture.",
+    "fr": "Le pédoncule cérébelleux inférieur (corps restiforme et corps juxtarestiforme) est un large faisceau de fibres reliant le bulbe rachidien et la moelle épinière au cervelet. Il s'agit essentiellement d'une voie afférente, transportant le faisceau spinocérébelleux dorsal, les fibres olivo-cérébelleuses de l'olive inférieure controlatérale, les faisceaux cunéo-cérébelleux/trigémino-cérébelleux et les fibres arquées externes, intégrant les informations proprioceptives et vestibulaires pour l'équilibre et la posture.",
+    "sources": [
+      {
+        "title": "Inferior cerebellar peduncle",
+        "url": "https://en.wikipedia.org/wiki/Inferior_cerebellar_peduncle"
+      },
+      {
+        "title": "Restiform bodies",
+        "url": "https://en.wikipedia.org/wiki/Restiform_bodies"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "rat:inferior cerebellar peduncle"
+  },
+  "Inferior colliculus": {
+    "en": "The inferior colliculus is a paired midbrain structure forming the caudal pair of the corpora quadrigemina, and serves as an obligatory relay for nearly all ascending auditory information travelling from the brainstem auditory nuclei to the auditory thalamus (medial geniculate nucleus). It is the first site at which inputs carrying horizontal and vertical sound-localisation cues from each ear converge, making it central to binaural sound localisation. Beyond relaying auditory information, it contributes to the acoustic startle reflex, orienting responses toward sound sources, and discrimination of pitch and rhythm. Its principal efferent projections travel to the medial geniculate nucleus and back to the brainstem nuclei that provide its afferents.",
+    "fr": "Le colliculus inférieur est une structure mésencéphalique appariée formant la paire caudale des tubercules quadrijumeaux, et sert de relais obligatoire pour la quasi-totalité de l'information auditive ascendante circulant des noyaux auditifs du tronc cérébral vers le thalamus auditif (noyau géniculé médian). Il constitue le premier site où convergent les informations de localisation sonore horizontale et verticale provenant de chaque oreille, le rendant central pour la localisation sonore binaurale. Au-delà du relais de l'information auditive, il contribue au réflexe de sursaut acoustique, aux réponses d'orientation vers les sources sonores, et à la discrimination du timbre et du rythme. Ses principales projections efférentes se dirigent vers le noyau géniculé médian et en retour vers les noyaux du tronc cérébral qui lui fournissent ses afférences.",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Inferior Colliculus - StatPearls - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK554468/"
+      },
+      {
+        "title": "Neuroanatomy, Inferior Colliculus - PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32119355/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Inferior temporal gyrus": {
+    "en": "The inferior temporal gyrus is the most ventral of the three lateral temporal gyri, lying below the middle temporal gyrus and continuous posteriorly with the inferior occipital gyrus, bordered inferomedially by the fusiform gyrus. It occupies a high level of the ventral visual processing stream, receiving extensively processed visual information from earlier occipitotemporal areas. Functionally it is heavily involved in visual object recognition, representing the identity of objects, faces, places, colours and words largely independent of their exact retinal position or size. It works closely with the adjacent fusiform gyrus in supporting complex visual discrimination and recognition memory.",
+    "fr": "Le gyrus temporal inférieur est le plus ventral des trois gyrus temporaux latéraux, situé sous le gyrus temporal moyen et se prolongeant en arrière avec le gyrus occipital inférieur, bordé en inféro-médial par le gyrus fusiforme. Il occupe un niveau élevé de la voie de traitement visuel ventrale, recevant des informations visuelles fortement traitées provenant des aires occipitotemporales en amont. Sur le plan fonctionnel, il est fortement impliqué dans la reconnaissance visuelle des objets, représentant l'identité des objets, des visages, des lieux, des couleurs et des mots de façon largement indépendante de leur position ou taille rétinienne exacte. Il travaille en étroite collaboration avec le gyrus fusiforme adjacent pour soutenir la discrimination visuelle complexe et la mémoire de reconnaissance.",
+    "sources": [
+      {
+        "title": "Inferior temporal gyrus - e-Anatomy - IMAIOS",
+        "url": "https://www.imaios.com/en/e-anatomy/anatomical-structures/inferior-temporal-gyrus-1553798940"
+      },
+      {
+        "title": "Neuroanatomy, Temporal Lobe - StatPearls - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK519512/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Insular cortex": {
+    "en": "The insular cortex is a cortical region buried within the lateral (Sylvian) sulcus, richly interconnected with sensory, limbic and frontal areas, and is considered the primary interoceptive cortex supporting self-monitoring of internal bodily states. Its anterior portion contributes to emotional awareness, decision-making and interoception, while its posterior portion is more closely tied to somatosensory and pain processing.",
+    "fr": "Le cortex insulaire est une région corticale enfouie dans le sillon latéral (sylvien), richement connectée aux aires sensorielles, limbiques et frontales, et est considéré comme le cortex interoceptif primaire soutenant l'auto-surveillance des états corporels internes. Sa partie antérieure contribue à la conscience émotionnelle, à la prise de décision et à l'interoception, tandis que sa partie postérieure est davantage liée au traitement somatosensoriel et à la douleur.",
+    "sources": [
+      {
+        "title": "The Insular Cortex: An Interface Between Sensation, Emotion and Cognition",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11607240/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "sheep:Insular cortex"
+  },
+  "Interpeduncular nucleus": {
+    "en": "The interpeduncular nucleus (IPN) is a midline midbrain structure and the principal output target of the medial habenula, receiving cholinergic and glutamatergic fibers via the fasciculus retroflexus. The habenula-IPN pathway is highly conserved across vertebrates and regulates fear, anxiety, nicotine-related behaviors (reinforcement, aversion, withdrawal), and social dominance outcomes.",
+    "fr": "Le noyau interpédonculaire (IPN) est une structure médiane du mésencéphale et la principale cible de sortie de l'habenula médiale, recevant des fibres cholinergiques et glutamatergiques via le faisceau rétroflexe. La voie habenula-IPN est hautement conservée chez les vertébrés et régule la peur, l'anxiété, les comportements liés à la nicotine (renforcement, aversion, sevrage) et l'issue des conflits de dominance sociale.",
+    "sources": [
+      {
+        "title": "Genetic dissection of medial habenula-interpeduncular nucleus pathway function in mice",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3594921/"
+      },
+      {
+        "title": "Medial Habenula Output Circuit Mediated by α5 Nicotinic Receptor-Expressing GABAergic Neurons in the Interpeduncular Nucleus",
+        "url": "https://www.jneurosci.org/content/33/46/18022"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "mouse:Interpeduncular nucleus"
+  },
+  "Interposed cerebellar nucleus": {
+    "en": "The interposed cerebellar nucleus (comprising the anterior emboliform and posterior globose subnuclei) lies in the paravermal (intermediate) zone of the cerebellum, between the medial fastigial nucleus and the lateral dentate nucleus. It receives afferents primarily from the anterior lobe of the cerebellar cortex and spinocerebellar pathways carrying limb proprioceptive information, and it sends its principal efferents to the contralateral red nucleus, giving rise to the rubrospinal tract. Functionally the interposed nucleus is involved in the coordination and fine control of proximal limb movements, integrating sensory feedback to correct ongoing motor commands. This corresponds to the homologous deep cerebellar nucleus organisation conserved across mammals, including the pig.",
+    "fr": "Le noyau cérébelleux interposé (comprenant les sous-noyaux emboliforme antérieur et globuleux postérieur) se situe dans la zone paravermienne (intermédiaire) du cervelet, entre le noyau fastigial médial et le noyau denté latéral. Il reçoit des afférences principalement du lobe antérieur du cortex cérébelleux et des voies spinocérébelleuses véhiculant l'information proprioceptive des membres, et envoie ses principales efférences vers le noyau rouge controlatéral, donnant naissance au tractus rubrospinal. Sur le plan fonctionnel, le noyau interposé est impliqué dans la coordination et le contrôle fin des mouvements des membres proximaux, intégrant les retours sensoriels pour corriger les commandes motrices en cours. Cela correspond à l'organisation homologue des noyaux cérébelleux profonds conservée chez les mammifères, y compris le porc.",
+    "sources": [
+      {
+        "title": "Deep Cerebellar Nuclei - an overview | ScienceDirect Topics",
+        "url": "https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/deep-cerebellar-nuclei"
+      },
+      {
+        "title": "Neuroanatomy, Dentate Nucleus - StatPearls - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK554381/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Lateral cerebellar nucleus": {
+    "en": "The lateral cerebellar nucleus, homologous to the primate dentate nucleus, is the largest and most laterally positioned of the deep cerebellar nuclei, situated within the cerebellar hemispheres. It receives afferents from the lateral cerebellar cortex (the phylogenetically newer cerebrocerebellum) and projects via the superior cerebellar peduncle mainly to the contralateral ventral lateral and ventral anterior thalamic nuclei, which relay to motor and premotor cortex. Its dorsal portion is involved in the planning, initiation and online control of voluntary, especially distal limb, movements, while its ventral portion contributes to non-motor functions such as cognition and visuospatial processing. This nucleus corresponds to the dentate nucleus described in primates and is conserved in general organisation across mammals, including the pig.",
+    "fr": "Le noyau cérébelleux latéral, homologue du noyau denté des primates, est le plus grand et le plus latéralement positionné des noyaux cérébelleux profonds, situé au sein des hémisphères cérébelleux. Il reçoit des afférences du cortex cérébelleux latéral (le cérébrocervelet, phylogénétiquement plus récent) et projette via le pédoncule cérébelleux supérieur principalement vers les noyaux thalamiques ventral latéral et ventral antérieur controlatéraux, qui relaient vers le cortex moteur et prémoteur. Sa portion dorsale est impliquée dans la planification, l'initiation et le contrôle en temps réel des mouvements volontaires, en particulier des membres distaux, tandis que sa portion ventrale contribue à des fonctions non motrices telles que la cognition et le traitement visuospatial. Ce noyau correspond au noyau denté décrit chez les primates et son organisation générale est conservée chez les mammifères, y compris le porc.",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Dentate Nucleus - StatPearls - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK554381/"
+      },
+      {
+        "title": "Dentate nucleus - e-Anatomy - IMAIOS",
+        "url": "https://www.imaios.com/en/e-anatomy/anatomical-structures/dentate-nucleus-1553805248"
+      }
+    ],
+    "status": "documented"
+  },
+  "Lateral ventricle": {
+    "en": "The lateral ventricles are the two largest cavities of the brain's ventricular system, one within each cerebral hemisphere, lined by ependyma and containing a choroid plexus that produces cerebrospinal fluid (CSF). CSF from the lateral ventricles flows through the interventricular foramina into the third ventricle, providing cushioning, nutrient supply, and waste clearance for the brain.",
+    "fr": "Les ventricules latéraux sont les deux plus grandes cavités du système ventriculaire cérébral, une dans chaque hémisphère, tapissées d'épendyme et contenant un plexus choroïde produisant le liquide céphalo-rachidien (LCR). Le LCR des ventricules latéraux s'écoule par les foramens interventriculaires vers le troisième ventricule, assurant amortissement mécanique, apport de nutriments et élimination des déchets pour le cerveau.",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Choroid Plexus",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK538156/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "mouse:Lateral Ventricle"
+  },
+  "Laterodorsal thalamic nucleus": {
+    "en": "The anterodorsal thalamic nucleus is one of three anterior thalamic nuclei (with the anteroventral and anteromedial nuclei) that relay information between the hippocampal formation, mammillary bodies and cingulate cortex. It is the main subcortical source of head-direction signals, receiving vestibular and visual landmark information via the lateral mammillary nucleus, and lesions of the anterior thalamic nuclei markedly impair spatial learning and memory.",
+    "fr": "Le noyau thalamique antérodorsal est l'un des trois noyaux thalamiques antérieurs (avec les noyaux antéroventral et antéromédian) qui relaient l'information entre la formation hippocampique, les corps mamillaires et le cortex cingulaire. Il constitue la principale source sous-corticale du signal de direction de la tête, recevant des informations vestibulaires et visuelles de repères via le noyau mamillaire latéral ; les lésions des noyaux thalamiques antérieurs altèrent nettement l'apprentissage et la mémoire spatiale.",
+    "sources": [
+      {
+        "title": "The anterior thalamus provides a subcortical circuit supporting memory and spatial navigation",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3757326/"
+      },
+      {
+        "title": "The anterior thalamic nuclei: core components of a tripartite episodic memory system",
+        "url": "https://www.nature.com/articles/s41583-022-00591-8"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "rat:Anterodorsal thalamic nucleus"
+  },
+  "Mammillary body": {
+    "en": "The mammillary bodies are paired, rounded nuclei situated on the posteroinferior aspect of the hypothalamus, at the caudal end of the fornix, and are subdivided into medial and lateral mammillary nuclei. They receive a major hippocampal input via the postcommissural fornix and constitute one of the key relay stations of the Papez circuit, projecting via the mammillothalamic tract to the anterior thalamic nuclei and, via the mammillotegmental tract, to the midbrain tegmentum. Their principal function is in recollective (episodic) memory consolidation, and they also contribute to integrating reward-related signals with memory processing through reciprocal connections with the ventral tegmental area. Damage to the mammillary bodies, classically from thiamine deficiency, produces the profound anterograde amnesia characteristic of Korsakoff's syndrome.",
+    "fr": "Les corps mamillaires sont des noyaux arrondis et appariés situés sur la face postéro-inférieure de l'hypothalamus, à l'extrémité caudale du fornix, et se subdivisent en noyaux mamillaires médial et latéral. Ils reçoivent une afférence hippocampique majeure via le fornix post-commissural et constituent l'un des relais clés du circuit de Papez, projetant via le tractus mamillothalamique vers les noyaux thalamiques antérieurs et, via le tractus mamillotegmental, vers le tegmentum mésencéphalique. Leur fonction principale concerne la consolidation de la mémoire épisodique (de rappel), et ils contribuent également à intégrer les signaux liés à la récompense avec le traitement mnésique par des connexions réciproques avec l'aire tegmentale ventrale. Une atteinte des corps mamillaires, classiquement due à une carence en thiamine, produit l'amnésie antérograde profonde caractéristique du syndrome de Korsakoff.",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Mammillary Bodies - StatPearls - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK537192/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Medial cerebellar nucleus": {
+    "en": "The medial cerebellar nucleus, homologous to the fastigial nucleus of primates, is the most medially placed of the deep cerebellar nuclei, lying close to the midline within the roof of the fourth ventricle. It receives afferents chiefly from the vermal cerebellar cortex and vestibular/spinocerebellar pathways, and projects to the vestibular nuclei and, via the ventral lateral thalamic nucleus, ultimately reaches the precentral (motor) cortex. Functionally it is principally concerned with control of axial and trunk musculature, postural stability and balance, integrating vestibular and proprioceptive information to maintain equilibrium. This corresponds to the fastigial nucleus described in humans and is conserved in general organisation across mammals, including the pig.",
+    "fr": "Le noyau cérébelleux médial, homologue du noyau fastigial des primates, est le plus médialement placé des noyaux cérébelleux profonds, situé près de la ligne médiane dans le toit du quatrième ventricule. Il reçoit des afférences principalement du cortex cérébelleux vermien et des voies vestibulaires/spinocérébelleuses, et projette vers les noyaux vestibulaires puis, via le noyau thalamique ventral latéral, atteint finalement le cortex précentral (moteur). Sur le plan fonctionnel, il est principalement concerné par le contrôle de la musculature axiale et du tronc, la stabilité posturale et l'équilibre, intégrant les informations vestibulaires et proprioceptives pour maintenir l'équilibre. Cela correspond au noyau fastigial décrit chez l'humain et son organisation générale est conservée chez les mammifères, y compris le porc.",
+    "sources": [
+      {
+        "title": "Deep Cerebellar Nuclei - an overview | ScienceDirect Topics",
+        "url": "https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/deep-cerebellar-nuclei"
+      },
+      {
+        "title": "Deep cerebellar nuclei - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Deep_cerebellar_nuclei"
+      }
+    ],
+    "status": "documented"
+  },
+  "Medial cerebellar peduncle": {
+    "en": "The medial (middle) cerebellar peduncle is the largest of the three cerebellar peduncles, located laterally and composed almost entirely of afferent pontocerebellar fibres. These fibres originate from the pontine nuclei, which themselves receive input from the contralateral primary motor and supplementary motor cortices; after decussating within the pons, most fibres cross to enter the contralateral cerebellar hemisphere, with a smaller uncrossed component reaching the ipsilateral hemisphere. Functionally the peduncle relays cortically-derived motor planning information to the cerebellar cortex, allowing the cerebellum to compare intended movement with ongoing sensory feedback for smooth motor coordination. It is supplied primarily by the anterior inferior cerebellar artery.",
+    "fr": "Le pédoncule cérébelleux moyen est le plus volumineux des trois pédoncules cérébelleux, situé latéralement et composé presque entièrement de fibres pontocérébelleuses afférentes. Ces fibres proviennent des noyaux pontiques, qui reçoivent eux-mêmes des afférences des cortex moteur primaire et moteur supplémentaire controlatéraux ; après décussation au sein du pont, la majorité des fibres croisent pour entrer dans l'hémisphère cérébelleux controlatéral, une composante non croisée plus modeste atteignant l'hémisphère ipsilatéral. Sur le plan fonctionnel, le pédoncule relaie l'information de planification motrice d'origine corticale vers le cortex cérébelleux, permettant au cervelet de comparer le mouvement voulu avec le retour sensoriel en cours pour une coordination motrice fluide. Il est principalement vascularisé par l'artère cérébelleuse antéro-inférieure.",
+    "sources": [
+      {
+        "title": "Middle cerebellar peduncle - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Middle_cerebellar_peduncle"
+      },
+      {
+        "title": "Middle cerebellar peduncles: Magnetic resonance imaging - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4697118/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Medial hypothalamic area": {
+    "en": "The medial hypothalamic area occupies the zone bordered laterally by the fornix and mammillothalamic tract, and is subdivided rostrocaudally into the preoptic, supraoptic (anterior), tuberal and mammillary regions, each containing several distinct nuclei. Together with the adjacent periventricular zone, it contains most of the hypothalamic nuclei responsible for coordinating autonomic and neuroendocrine output, including nuclei governing thermoregulation, fluid balance, feeding, sleep-wake regulation and reproductive/circadian rhythms. It receives extensive limbic, brainstem and retinal inputs and projects to the pituitary, brainstem autonomic centres and thalamus, integrating internal and environmental signals to maintain homeostasis. Distinct medial hypothalamic nuclei, such as the paraventricular, ventromedial and dorsomedial nuclei, subserve largely separable homeostatic functions.",
+    "fr": "L'aire hypothalamique médiale occupe la zone bordée latéralement par le fornix et le tractus mamillothalamique, et se subdivise selon l'axe rostro-caudal en régions préoptique, supraoptique (antérieure), tubérale et mamillaire, chacune contenant plusieurs noyaux distincts. Avec la zone périventriculaire adjacente, elle contient la plupart des noyaux hypothalamiques responsables de la coordination des sorties autonomes et neuroendocriniennes, y compris les noyaux régissant la thermorégulation, l'équilibre hydrique, l'alimentation, la régulation veille-sommeil et les rythmes reproductifs/circadiens. Elle reçoit d'importantes afférences limbiques, du tronc cérébral et rétiniennes, et projette vers l'hypophyse, les centres autonomes du tronc cérébral et le thalamus, intégrant les signaux internes et environnementaux pour maintenir l'homéostasie. Des noyaux hypothalamiques médians distincts, tels que les noyaux paraventriculaire, ventromédian et dorsomédian, assurent des fonctions homéostatiques largement séparables.",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Hypothalamus - StatPearls - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK525993/"
+      },
+      {
+        "title": "Functional Anatomy of the Hypothalamus and Pituitary - Endotext - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK279126/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Mediodorsal thalamic nucleus": {
+    "en": "The mediodorsal thalamic nucleus lies medially within the thalamus adjacent to the third ventricle and is subdivided into medial, central and lateral parts, which in rodents are poorly segregated at the molecular level. It establishes extensive reciprocal connections with virtually all areas of the prefrontal cortex, as well as afferents from the amygdala, basal ganglia and olfactory cortex. Functionally, rather than acting merely as a passive relay, it actively regulates the plasticity and flexibility of prefrontal-dependent cognitive functions, contributing to working memory, cognitive flexibility, planning and decision-making, particularly through its circuit with the basolateral amygdala and prefrontal cortex. Dysfunction of this nucleus and its prefrontal connections has been implicated in cognitive deficits observed in schizophrenia.",
+    "fr": "Le noyau thalamique médiodorsal se situe médialement dans le thalamus, à proximité du troisième ventricule, et se subdivise en parties médiale, centrale et latérale, qui sont peu ségrégées au niveau moléculaire chez les rongeurs. Il établit de vastes connexions réciproques avec pratiquement toutes les aires du cortex préfrontal, ainsi que des afférences provenant de l'amygdale, des ganglions de la base et du cortex olfactif. Sur le plan fonctionnel, plutôt que d'agir comme un simple relais passif, il régule activement la plasticité et la flexibilité des fonctions cognitives dépendantes du cortex préfrontal, contribuant à la mémoire de travail, à la flexibilité cognitive, à la planification et à la prise de décision, notamment via son circuit avec l'amygdale basolatérale et le cortex préfrontal. Un dysfonctionnement de ce noyau et de ses connexions préfrontales a été impliqué dans les déficits cognitifs observés dans la schizophrénie.",
+    "sources": [
+      {
+        "title": "Cognitive Functions and Neurodevelopmental Disorders Involving the Prefrontal Cortex and Mediodorsal Thalamus - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5808198/"
+      },
+      {
+        "title": "Differential Roles of Mediodorsal Nucleus of the Thalamus and Prefrontal Cortex in Decision-Making - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7046322/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Middle temporal gyrus": {
+    "en": "The middle temporal gyrus lies on the lateral surface of the temporal lobe, bounded above by the superior temporal sulcus (separating it from the superior temporal gyrus) and below by the inferior temporal sulcus (separating it from the inferior temporal gyrus). It is extensively interconnected with adjacent temporal, parietal and prefrontal association areas and participates in higher-order visual and language-related processing. Functionally it is implicated in the perception of moving objects (biological and object motion), semantic memory processing and, particularly in the dominant hemisphere, aspects of language comprehension. It is also engaged in multimodal integration, combining visual, auditory and semantic information.",
+    "fr": "Le gyrus temporal moyen se situe sur la surface latérale du lobe temporal, limité en haut par le sillon temporal supérieur (le séparant du gyrus temporal supérieur) et en bas par le sillon temporal inférieur (le séparant du gyrus temporal inférieur). Il est largement interconnecté avec les aires associatives temporales, pariétales et préfrontales adjacentes et participe au traitement visuel de haut niveau et lié au langage. Sur le plan fonctionnel, il est impliqué dans la perception des objets en mouvement (mouvement biologique et d'objets), le traitement de la mémoire sémantique et, en particulier dans l'hémisphère dominant, certains aspects de la compréhension du langage. Il est également engagé dans l'intégration multimodale, combinant informations visuelles, auditives et sémantiques.",
+    "sources": [
+      {
+        "title": "Middle temporal gyrus - e-Anatomy - IMAIOS",
+        "url": "https://www.imaios.com/en/e-anatomy/anatomical-structures/middle-temporal-gyrus-1553798844"
+      },
+      {
+        "title": "Tractography-based Parcellation of the Human Middle Temporal Gyrus - PMC",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4686935/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Motor trigeminal nucleus": {
+    "en": "The motor trigeminal nucleus is located in the lateral pontine tegmentum, medial and anterior to the main (chief) sensory trigeminal nucleus, and constitutes the sole motor nucleus among the four trigeminal nuclei. Its neurons receive bilateral corticobulbar input and give rise to the motor root of the trigeminal nerve (mandibular division), which bypasses the trigeminal ganglion entirely. Functionally it innervates the muscles of mastication (temporalis, masseter, and medial and lateral pterygoids) as well as the tensor tympani, tensor veli palatini, mylohyoid and anterior belly of the digastric, making it essential for jaw movement and chewing. Because of its bilateral cortical input, unilateral upper motor neuron lesions typically spare jaw movement, whereas nuclear or nerve lesions produce ipsilateral weakness of mastication.",
+    "fr": "Le noyau moteur du trijumeau est situé dans le tegmentum pontique latéral, médialement et en avant du noyau sensitif principal (chef) du trijumeau, et constitue le seul noyau moteur parmi les quatre noyaux trigéminaux. Ses neurones reçoivent des afférences corticobulbaires bilatérales et donnent naissance à la racine motrice du nerf trijumeau (branche mandibulaire), qui contourne entièrement le ganglion trigéminal. Sur le plan fonctionnel, il innerve les muscles masticateurs (temporal, masséter, ptérygoïdiens médial et latéral) ainsi que le tenseur du tympan, le tenseur du voile du palais, le mylohyoïdien et le ventre antérieur du digastrique, le rendant essentiel au mouvement de la mâchoire et à la mastication. En raison de ses afférences corticales bilatérales, les lésions unilatérales du motoneurone supérieur épargnent généralement le mouvement de la mâchoire, tandis que les lésions nucléaires ou nerveuses produisent une faiblesse ipsilatérale de la mastication.",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Trigeminal Nucleus - StatPearls - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK539823/"
+      },
+      {
+        "title": "Neuroanatomy, Cranial Nerve 5 (Trigeminal) - StatPearls - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK482283/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Nucleus of the optic tract": {
+    "en": "The nucleus of the optic tract (NOT) is a pretectal nucleus lying just dorsal to the superior colliculus that receives direction-selective retinal input. It is essential for generating the slow phase of optokinetic nystagmus toward the ipsilateral side and also contributes to smooth pursuit and adaptation of the vestibulo-ocular reflex, relaying visual motion signals to the inferior olive and other oculomotor centers.",
+    "fr": "Le noyau du tractus optique (NOT) est un noyau prétectal situé juste au-dessus du colliculus supérieur qui reçoit une afférence rétinienne sélective à la direction. Il est essentiel à la génération de la phase lente du nystagmus optocinétique du côté ipsilatéral et contribue également à la poursuite oculaire lisse et à l'adaptation du réflexe vestibulo-oculaire, en relayant les signaux de mouvement visuel vers l'olive inférieure et d'autres centres oculomoteurs.",
+    "sources": [
+      {
+        "title": "The pretectum: connections and oculomotor-related roles",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16221595/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "mouse:Nucleus of the optic tract"
+  },
+  "Nucleus of the solitary tract": {
+    "en": "The nucleus of the solitary tract (NTS), in the dorsomedial medulla, is the first central relay for visceral and taste afferents carried by the facial, glossopharyngeal and vagus nerves. Organized viscerotopically into medial and lateral divisions, it integrates cardiovascular, respiratory, gastrointestinal and gustatory signals and distributes them to brainstem, forebrain and spinal targets, making it a key hindbrain hub for autonomic reflexes as well as stress, appetite and glucose homeostasis.",
+    "fr": "Le noyau du tractus solitaire (NTS), dans le bulbe dorso-médian, constitue le premier relais central des afférences viscérales et gustatives véhiculées par les nerfs facial, glosso-pharyngien et vague. Organisé de façon viscérotopique en divisions médiane et latérale, il intègre les signaux cardiovasculaires, respiratoires, gastro-intestinaux et gustatifs et les redistribue vers des cibles du tronc cérébral, du prosencéphale et de la moelle épinière, en faisant un carrefour bulbaire clé pour les réflexes autonomes ainsi que pour le stress, l'appétit et l'homéostasie glycémique.",
+    "sources": [
+      {
+        "title": "The nucleus of the solitary tract and the coordination of respiratory and sympathetic activities",
+        "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2014.00238/full"
+      },
+      {
+        "title": "Nucleus of the solitary tract, medullary reflexes, and clinical implications",
+        "url": "https://www.neurology.org/doi/10.1212/WNL.0000000000003751"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "mouse:Nucleus of the solitary tract"
+  },
+  "Olfactory bulb": {
+    "en": "The olfactory bulb is the first relay station for olfactory information, located at the most rostral end of the forebrain. It receives direct input from olfactory sensory neurons in the nasal epithelium and, through local circuits involving mitral/tufted cells and diverse interneurons, performs an initial spatial and temporal analysis of odor information before relaying it to olfactory cortex.",
+    "fr": "Le bulbe olfactif est le premier relais de l'information olfactive, situé à l'extrémité la plus rostrale du cerveau antérieur. Il reçoit une entrée directe des neurones sensoriels olfactifs de l'épithélium nasal et, via des circuits locaux impliquant les cellules mitrales/à panache et divers interneurones, effectue une première analyse spatiale et temporelle de l'information odorante avant de la relayer vers le cortex olfactif.",
+    "sources": [
+      {
+        "title": "Development of the mammalian main olfactory bulb",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8918810/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "rat:Olfactory bulb, unspecified"
+  },
+  "Olivary nuclei": {
+    "en": "The olivary nuclei comprise the inferior olivary complex in the medulla oblongata and the superior olivary complex in the pons, both located near the pontomedullary junction. The principal inferior olivary nucleus, together with smaller dorsal and medial accessory olivary nuclei, forms the characteristic olive-shaped bulge on the medullary surface and sends climbing fibres via the inferior cerebellar peduncle to the contralateral cerebellum, acting as a relay integrating spinal and motor cortical information to train cerebellar circuits involved in motor learning and movement timing. The superior olivary complex, part of the ascending auditory pathway, receives input from the cochlear nuclei and is central to binaural sound localisation and analysis, relaying processed information to the inferior colliculus. Together these nuclei support, respectively, motor coordination/learning and auditory spatial processing.",
+    "fr": "Les noyaux olivaires comprennent le complexe olivaire inférieur dans le bulbe rachidien et le complexe olivaire supérieur dans le pont, tous deux situés près de la jonction ponto-bulbaire. Le noyau olivaire inférieur principal, avec les plus petits noyaux olivaires accessoires dorsal et médial, forme le renflement caractéristique en forme d'olive à la surface du bulbe et envoie des fibres grimpantes via le pédoncule cérébelleux inférieur vers le cervelet controlatéral, agissant comme un relais intégrant les informations spinales et corticales motrices pour entraîner les circuits cérébelleux impliqués dans l'apprentissage moteur et le minutage des mouvements. Le complexe olivaire supérieur, qui fait partie de la voie auditive ascendante, reçoit des afférences des noyaux cochléaires et est central pour la localisation et l'analyse sonores binaurales, relayant l'information traitée vers le colliculus inférieur. Ensemble, ces noyaux soutiennent respectivement la coordination/l'apprentissage moteur et le traitement spatial auditif.",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Superior and Inferior Olivary Nucleus (Superior and Inferior Olivary Complex) - StatPearls - NCBI Bookshelf",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK542242/"
+      },
+      {
+        "title": "Superior olivary complex - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Superior_olivary_complex"
+      }
+    ],
+    "status": "documented"
+  },
+  "Optic chiasm": {
+    "en": "The optic chiasm is the X-shaped crossing point where fibres from the nasal (medial) retina of each eye cross to the contralateral optic tract while temporal-retina fibres stay uncrossed, so that each optic tract afterwards carries a complete representation of the opposite visual hemifield from both eyes.",
+    "fr": "Le chiasma optique est le point de croisement en X où les fibres issues de la rétine nasale (médiale) de chaque œil croisent vers le tractus optique controlatéral, tandis que les fibres de la rétine temporale restent non croisées ; chaque tractus optique transporte ainsi ensuite une représentation complète de l'hémichamp visuel opposé provenant des deux yeux.",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Visual Pathway - StatPearls",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK553189/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "mouse:Optic chiasm"
+  },
+  "Orbitofrontal cortex": {
+    "en": "The orbitofrontal cortex occupies the ventral surface of the frontal lobe, overlying the orbits, and can be subdivided into distinct medial-to-lateral and anterior-to-posterior subregions with somewhat dissociable connectivity and function. It receives convergent sensory input across visual, gustatory, olfactory, somatosensory and auditory modalities, along with afferents from limbic structures such as the amygdala, and it integrates these signals to encode stimulus value. Functionally the orbitofrontal cortex evaluates the hedonic value of stimuli and the relationship between stimuli and predicted outcomes, supporting flexible, goal-directed decision-making and behavioural adaptation to changing reward contingencies. Lesions of this region are associated with affective disturbances, social disinhibition and impaired adaptation to feedback.",
+    "fr": "Le cortex orbitofrontal occupe la surface ventrale du lobe frontal, au-dessus des orbites, et peut être subdivisé en sous-régions distinctes médio-latérales et antéro-postérieures présentant une connectivité et une fonction quelque peu dissociables. Il reçoit des afférences sensorielles convergentes à travers les modalités visuelle, gustative, olfactive, somatosensorielle et auditive, ainsi que des afférences de structures limbiques telles que l'amygdale, et intègre ces signaux pour encoder la valeur des stimuli. Sur le plan fonctionnel, le cortex orbitofrontal évalue la valeur hédonique des stimuli et la relation entre stimuli et résultats prédits, soutenant la prise de décision flexible et orientée vers un but ainsi que l'adaptation comportementale aux contingences de récompense changeantes. Les lésions de cette région sont associées à des troubles affectifs, une désinhibition sociale et une adaptation altérée au retour d'information.",
+    "sources": [
+      {
+        "title": "Defining an Orbitofrontal Compass: Functional and Anatomical Heterogeneity - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7613671/"
+      },
+      {
+        "title": "What We Know and Do Not Know about the Functions of the Orbitofrontal Cortex after 20 Years of Cross-Species Studies - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2630163/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Parahippocampal cortex": {
+    "en": "The parahippocampal cortex (likely intended by \"Prahippocampal cortex\") borders the hippocampus in the medial temporal lobe and forms a principal route for cortical spatial and contextual information to reach the hippocampus. It is critical for spatial and episodic memory, including memory for the spatial configuration of a scene, and for contextual associative memory more broadly.",
+    "fr": "Le cortex parahippocampique (probablement visé par « Prahippocampal cortex ») borde l'hippocampe dans le lobe temporal médian et constitue une voie principale par laquelle l'information corticale spatiale et contextuelle atteint l'hippocampe. Il est essentiel à la mémoire spatiale et épisodique, y compris la mémoire de la configuration spatiale d'une scène, et plus largement à la mémoire associative contextuelle.",
+    "sources": [
+      {
+        "title": "The Parahippocampal Cortex and its Functional Connection with the Hippocampus are Critical for Nonnavigational Spatial Memory in Macaques",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7945022/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "sheep:Prahippocampal cortex"
+  },
+  "Periaqueductal gray": {
+    "en": "The periaqueductal gray (PAG), surrounding the cerebral aqueduct in the midbrain, is an integration center regulating pain, defensive and aggressive behavior, anxiety, cardiovascular responses, respiration and sleep-wake states. It is organized into four longitudinal columns (dorsomedial, dorsolateral, lateral and ventrolateral); dorsal PAG activity is generally associated with active escape/flight responses and ventral, ventrolateral PAG activity with passive freezing responses to threat, and the PAG plays an essential role in both predatory and anti-predator defensive behaviors.",
+    "fr": "La substance grise périaqueducale (PAG), entourant l'aqueduc cérébral dans le mésencéphale, est un centre d'intégration régulant la douleur, les comportements défensifs et agressifs, l'anxiété, les réponses cardiovasculaires, la respiration et les états de veille-sommeil. Elle est organisée en quatre colonnes longitudinales (dorsomédiane, dorsolatérale, latérale et ventrolatérale) ; l'activité de la PAG dorsale est généralement associée aux réponses actives de fuite, tandis que l'activité de la PAG ventrale (ventrolatérale) est associée aux réponses passives d'immobilisation face à la menace, et la PAG joue un rôle essentiel tant dans les comportements de prédation que de défense anti-prédateur.",
+    "sources": [
+      {
+        "title": "The contribution of periaqueductal gray in the regulation of physiological and pathological behaviors",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11034386/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "mouse:Periaqueductal gray"
+  },
+  "Perirhinal cortex": {
+    "en": "The perirhinal cortex is located in the medial temporal lobe, surrounding the rhinal sulcus and lying between the sensory association cortex and the hippocampal formation; together with the entorhinal and postrhinal (parahippocampal) cortices it forms the parahippocampal region that gates cortical input to the hippocampus. It receives highly processed unimodal and polymodal sensory information and, being positioned between association cortex and the hippocampus, is well suited to representing fine-grained distinctions between individual objects. Functionally it plays a central role in recognition memory, particularly familiarity-based judgements (as opposed to hippocampus-dependent recollection), as well as contributing to visual perception, spatial/contextual memory and fear conditioning. Damage to the perirhinal cortex produces object-recognition memory impairments distinct from hippocampal amnesia.",
+    "fr": "Le cortex périrhinal est situé dans le lobe temporal médial, entourant le sillon rhinal et se trouvant entre le cortex associatif sensoriel et la formation hippocampique ; avec les cortex entorhinal et postrhinal (parahippocampique), il forme la région parahippocampique qui contrôle l'entrée corticale vers l'hippocampe. Il reçoit des informations sensorielles unimodales et polymodales fortement traitées et, de par sa position entre le cortex associatif et l'hippocampe, est bien placé pour représenter des distinctions fines entre objets individuels. Sur le plan fonctionnel, il joue un rôle central dans la mémoire de reconnaissance, en particulier les jugements basés sur la familiarité (par opposition à la récollection dépendante de l'hippocampe), tout en contribuant à la perception visuelle, à la mémoire spatiale/contextuelle et au conditionnement de peur. Une atteinte du cortex périrhinal produit des troubles de la mémoire de reconnaissance d'objets distincts de l'amnésie hippocampique.",
+    "sources": [
+      {
+        "title": "Perirhinal circuits for memory processing - Nature Reviews Neuroscience",
+        "url": "https://www.nature.com/articles/s41583-019-0213-6"
+      },
+      {
+        "title": "The rat perirhinal cortex: A review of anatomy, physiology, plasticity, and function - PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/21420466/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Pineal gland": {
+    "en": "The pineal gland is a neuroendocrine organ that produces melatonin at night in pinealocytes, under control of sympathetic input driven by the suprachiasmatic nucleus. Melatonin secretion, which peaks during darkness and troughs during the day, synchronizes circadian rhythms throughout the body and feeds back onto the suprachiasmatic nucleus.",
+    "fr": "La glande pinéale est un organe neuroendocrinien qui produit de la mélatonine la nuit au niveau des pinéalocytes, sous le contrôle d'une innervation sympathique pilotée par le noyau suprachiasmatique. La sécrétion de mélatonine, maximale pendant l'obscurité et minimale le jour, synchronise les rythmes circadiens dans tout l'organisme et rétroagit sur le noyau suprachiasmatique.",
+    "sources": [
+      {
+        "title": "Physiology of the Pineal Gland and Melatonin - Endotext",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK550972/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "rat:Pineal gland"
+  },
+  "Piriform cortex": {
+    "en": "The piriform cortex is the largest region of primary olfactory cortex, a three-layered paleocortex that receives direct input from the olfactory bulb onto principal neurons of layer II. It processes odor identity, and has also been shown to represent spatial information relevant to olfactory-guided navigation.",
+    "fr": "Le cortex piriforme est la plus grande région du cortex olfactif primaire, un paléocortex à trois couches qui reçoit une entrée directe du bulbe olfactif sur les neurones principaux de la couche II. Il traite l'identité des odeurs et s'est également révélé représenter des informations spatiales pertinentes pour la navigation guidée par l'olfaction.",
+    "sources": [
+      {
+        "title": "Two Layers of Synaptic Processing by Principal Neurons in Piriform Cortex",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6633060/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "rat:Piriform cortex"
+  },
+  "Pontine nuclei": {
+    "en": "The pontine nuclei form a large relay station in the ventral pons, receiving corticopontine fibers mainly from primary motor cortex and sending pontocerebellar projections to the contralateral cerebellum via the middle cerebellar peduncle. As the principal link of the cortico-ponto-cerebellar loop, they are important for coordinating movement and for motor learning through error correction.",
+    "fr": "Les noyaux du pont forment un vaste relais dans la partie ventrale du pont, recevant des fibres corticopontines provenant principalement du cortex moteur primaire et envoyant des projections pontocérébelleuses vers le cervelet controlatéral via le pédoncule cérébelleux moyen. Constituant le lien principal de la boucle cortico-ponto-cérébelleuse, ils sont importants pour la coordination du mouvement et pour l'apprentissage moteur par correction d'erreur.",
+    "sources": [
+      {
+        "title": "Pontine nuclei-mediated cerebello-cerebral interactions and its functional role",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/15072262/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "rat:Pontine nuclei"
+  },
+  "Posterior commissure": {
+    "en": "The posterior commissure is a band of white-matter fibers crossing the midline at the midbrain-diencephalic junction, forming the roof of the rostral cerebral aqueduct. It mediates the consensual pupillary light reflex: pretectal olivary nucleus axons cross within it to reach the contralateral Edinger-Westphal nucleus, so that light in one eye produces bilateral pupillary constriction.",
+    "fr": "La commissure postérieure est un faisceau de fibres de substance blanche croisant la ligne médiane à la jonction mésencéphalo-diencéphalique, formant le toit de la partie rostrale de l'aqueduc cérébral. Elle assure le réflexe pupillaire consensuel : les axones du noyau prétectal olivaire y croisent la ligne médiane pour atteindre le noyau d'Edinger-Westphal controlatéral, si bien qu'une lumière dans un œil provoque une constriction pupillaire bilatérale.",
+    "sources": [
+      {
+        "title": "The Anatomy of the Posterior Commissure",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26617130/"
+      },
+      {
+        "title": "The anatomical substrates subserving the pupillary light reflex in rats",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/7830893/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "mouse:Posterior commissure"
+  },
+  "Premotor cortex": {
+    "en": "The premotor cortex occupies the lateral portion of Brodmann area 6, anterior to the primary motor cortex and comprising dorsal and ventral subdivisions along the precentral gyrus region. It receives convergent input from parietal association cortex, prefrontal cortex, and the basal ganglia/cerebellar loops via the thalamus, and projects both to the primary motor cortex and directly to the spinal cord. Functionally it prepares and organizes movement, particularly proximal limb and postural musculature, by integrating spatial and sensory context to select and plan goal-directed actions before execution. In the pig, as in other mammals, this region forms part of the agranular frontal motor field bordering the primary motor strip.",
+    "fr": "Le cortex prémoteur occupe la portion latérale de l'aire de Brodmann 6, en avant du cortex moteur primaire, et comprend des subdivisions dorsale et ventrale le long de la région précentrale. Il reçoit des afférences convergentes du cortex associatif pariétal, du cortex préfrontal et des boucles ganglions de la base/cervelet via le thalamus, et se projette à la fois vers le cortex moteur primaire et directement vers la moelle épinière. Sur le plan fonctionnel, il prépare et organise le mouvement, en particulier la musculature proximale et posturale, en intégrant le contexte spatial et sensoriel pour sélectionner et planifier des actions dirigées vers un but avant leur exécution. Chez le porc, comme chez les autres mammifères, cette région fait partie du champ moteur frontal agranulaire bordant la bande motrice primaire.",
+    "sources": [
+      {
+        "title": "Physiology, Motor Cortical - StatPearls",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK542188/"
+      },
+      {
+        "title": "Rewiring the Brain: Potential Role of the Premotor Cortex in Motor Control, Learning, and Recovery of Function Following Brain Injury",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4886541/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Prepiriform area": {
+    "en": "The prepiriform area is the rostral (frontal) component of the piriform cortex, the largest part of the primary olfactory cortex, located at the base of the frontal/temporal junction where it receives direct axonal input from the olfactory bulb via the lateral olfactory tract. As a paleocortical, three-layered structure, it is distinguished from the caudal (posterior) piriform cortex by different afferent and efferent connectivity patterns. Functionally, the prepiriform area is involved in the initial cortical encoding of odor identity, and it projects onward to the entorhinal cortex, amygdala, and orbitofrontal cortex for further olfactory processing, memory, and value association. In pigs, whose sense of smell is highly developed, this region is particularly well developed relative to more visually dominant species.",
+    "fr": "L'aire prépiriforme est la composante rostrale (frontale) du cortex piriforme, la plus grande partie du cortex olfactif primaire, située à la base de la jonction fronto-temporale où elle reçoit des afférences axonales directes du bulbe olfactif via le tractus olfactif latéral. Structure paléocorticale à trois couches, elle se distingue du cortex piriforme caudal (postérieur) par des schémas de connectivité afférente et efférente différents. Sur le plan fonctionnel, l'aire prépiriforme participe à l'encodage cortical initial de l'identité des odeurs, et se projette vers le cortex entorhinal, l'amygdale et le cortex orbitofrontal pour le traitement olfactif ultérieur, la mémoire et l'association de valeur. Chez le porc, dont l'odorat est particulièrement développé, cette région est proportionnellement bien développée par rapport aux espèces à dominance visuelle.",
+    "sources": [
+      {
+        "title": "Prepiriform Cortex - an overview | ScienceDirect Topics",
+        "url": "https://www.sciencedirect.com/topics/immunology-and-microbiology/prepiriform-cortex"
+      },
+      {
+        "title": "Cell-Type-Specific Whole-Brain Direct Inputs to the Anterior and Posterior Piriform Cortex",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7019026/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Pretectal area": {
+    "en": "The pretectal area (pretectum) is a bilateral group of small, highly interconnected nuclei located at the junction of the midbrain and diencephalon, dorsal to the rostral midbrain and just caudal to the thalamus. It receives direct retinal input via the brachium of the superior colliculus and, through reciprocal bilateral projections, mediates reflexive responses to changes in ambient light. Its principal function is the afferent limb of the pupillary light reflex: pretectal neurons project bilaterally via the posterior commissure to the Edinger-Westphal nucleus, which drives pupillary constriction, and the pretectum also contributes to the optokinetic reflex and circadian photoentrainment.",
+    "fr": "L'aire prétectale (prétectum) est un groupe bilatéral de petits noyaux fortement interconnectés situé à la jonction entre le mésencéphale et le diencéphale, dorsalement au mésencéphale rostral et juste caudalement au thalamus. Elle reçoit des afférences rétiniennes directes via le bras du colliculus supérieur et, par des projections bilatérales réciproques, assure des réponses réflexes aux variations de la lumière ambiante. Sa fonction principale est le bras afférent du réflexe photomoteur pupillaire : les neurones prétectaux se projettent bilatéralement via la commissure postérieure vers le noyau d'Edinger-Westphal, qui déclenche la constriction pupillaire; le prétectum contribue également au réflexe optocinétique et à la synchronisation circadienne par la lumière.",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Pupillary Light Reflexes and Pathway - StatPearls",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK553169/"
+      },
+      {
+        "title": "Pretectal area",
+        "url": "https://en.wikipedia.org/wiki/Pretectal_area"
+      }
+    ],
+    "status": "documented"
+  },
+  "Primary motor cortex": {
+    "en": "The primary motor cortex (M1, Brodmann area 4) lies along the precentral gyrus, immediately anterior to the central sulcus, and is composed of agranular cortex lacking a distinct internal granular layer. It contains large pyramidal (Betz) cells whose axons form a major component of the corticospinal tract, and it is somatotopically organized so that different body parts are represented along a mediolateral map, with each hemisphere controlling movement of the contralateral side of the body. Functionally, M1 generates the descending motor commands that directly drive voluntary movement execution, receiving preparatory input from the premotor and supplementary motor areas as well as from the basal ganglia and cerebellum via the thalamus.",
+    "fr": "Le cortex moteur primaire (M1, aire de Brodmann 4) longe le gyrus précentral, immédiatement en avant du sillon central, et se compose d'un cortex agranulaire dépourvu de couche granulaire interne distincte. Il contient de grandes cellules pyramidales (de Betz) dont les axones forment une composante majeure du faisceau corticospinal, et il est organisé de façon somatotopique de sorte que différentes parties du corps sont représentées le long d'une carte médio-latérale, chaque hémisphère contrôlant le mouvement du côté controlatéral du corps. Sur le plan fonctionnel, M1 génère les commandes motrices descendantes qui pilotent directement l'exécution du mouvement volontaire, en recevant des afférences préparatoires des aires prémotrice et motrice supplémentaire ainsi que des ganglions de la base et du cervelet via le thalamus.",
+    "sources": [
+      {
+        "title": "Physiology, Motor Cortical - StatPearls",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK542188/"
+      },
+      {
+        "title": "Cell and neuron densities in the primary motor cortex of primates",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3583034/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Primary somatosensory cortex": {
+    "en": "The primary somatosensory cortex (S1) occupies the postcentral gyrus, immediately caudal to the central sulcus, and corresponds to Brodmann areas 3a, 3b, 1, and 2. It receives its principal input from the ventral posterolateral and ventral posteromedial thalamic nuclei, which relay discriminative touch, proprioceptive, and (via the spinothalamic pathway) some nociceptive and thermal information from the contralateral body and face. S1 is somatotopically organized into a sensory map in which body-surface regions with dense receptor innervation, such as the snout in pigs, occupy disproportionately large cortical territory. Its output feeds forward to the secondary somatosensory and posterior parietal association cortices for further multisensory integration.",
+    "fr": "Le cortex somatosensoriel primaire (S1) occupe le gyrus postcentral, immédiatement en arrière du sillon central, et correspond aux aires de Brodmann 3a, 3b, 1 et 2. Il reçoit ses afférences principales des noyaux thalamiques ventropostérolatéral et ventropostéromédian, qui relaient le toucher discriminatif, la proprioception et, via la voie spinothalamique, certaines informations nociceptives et thermiques provenant du corps et de la face controlatéraux. S1 est organisé de façon somatotopique en une carte sensorielle dans laquelle les régions de la surface corporelle richement innervées, comme le groin chez le porc, occupent un territoire cortical disproportionné. Ses sorties alimentent le cortex somatosensoriel secondaire et le cortex associatif pariétal postérieur pour une intégration multisensorielle ultérieure.",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Somatosensory Cortex - StatPearls",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK555915/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Primary visual cortex": {
+    "en": "The primary visual cortex (V1, Brodmann area 17) lies along and within the calcarine fissure of the occipital lobe and is the first cortical stage of visual processing. It receives its main input from the lateral geniculate nucleus of the thalamus, terminating densely in cortical layer 4, and is organized retinotopically so that it contains a complete, spatially continuous map of the contralateral visual field. V1 neurons are selective for basic visual features such as orientation, spatial frequency, and direction of motion, organized into functional columns, and its output is distributed to numerous extrastriate visual areas via the dorsal (“where/how”) and ventral (“what”) processing streams.",
+    "fr": "Le cortex visuel primaire (V1, aire de Brodmann 17) longe et occupe la scissure calcarine du lobe occipital et constitue le premier stade cortical du traitement visuel. Il reçoit son afférence principale du noyau géniculé latéral du thalamus, qui se termine de façon dense dans la couche corticale 4, et il est organisé de manière rétinotopique de sorte qu'il contient une carte complète et spatialement continue du champ visuel controlatéral. Les neurones de V1 sont sélectifs pour des caractéristiques visuelles élémentaires telles que l'orientation, la fréquence spatiale et la direction du mouvement, organisées en colonnes fonctionnelles, et ses sorties sont distribuées vers de nombreuses aires visuelles extrastriées via les voies dorsale (« où/comment ») et ventrale (« quoi »).",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Visual Cortex - StatPearls",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK482504/"
+      },
+      {
+        "title": "Area V1 - Scholarpedia",
+        "url": "http://www.scholarpedia.org/article/Area_V1"
+      }
+    ],
+    "status": "documented"
+  },
+  "Pulvinar nuclei": {
+    "en": "The pulvinar nuclei form a large complex at the posterior pole of the thalamus, subdivided into medial, lateral, and inferior pulvinar subnuclei, and constitute one of the largest thalamic nuclear groups in gyrencephalic mammals. They receive input from the superior colliculus and pretectum as well as from visual and multimodal cortical areas, and they maintain extensive, reciprocal cortico-thalamo-cortical connections with visual, parietal, and temporal association cortices rather than acting as a simple sensory relay. Functionally, the pulvinar is thought to coordinate and synchronize activity across distributed cortical areas involved in visual attention, spatial awareness, and higher-order visual perception.",
+    "fr": "Les noyaux pulvinar forment un complexe volumineux au pôle postérieur du thalamus, subdivisé en sous-noyaux pulvinar médian, latéral et inférieur, et constituent l'un des plus grands groupes nucléaires thalamiques chez les mammifères gyrencéphales. Ils reçoivent des afférences du colliculus supérieur et du prétectum ainsi que des aires corticales visuelles et multimodales, et maintiennent des connexions cortico-thalamo-corticales réciproques étendues avec les cortex associatifs visuel, pariétal et temporal plutôt que d'agir comme un simple relais sensoriel. Sur le plan fonctionnel, le pulvinar est considéré comme coordonnant et synchronisant l'activité de multiples aires corticales impliquées dans l'attention visuelle, la conscience spatiale et la perception visuelle de haut niveau.",
+    "sources": [
+      {
+        "title": "The medial pulvinar: function, origin and association with neurodevelopmental disorders",
+        "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/joa.12932"
+      },
+      {
+        "title": "Exploring the Role of the Pulvinar Nucleus of the Thalamus",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10874469/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Putamen": {
+    "en": "The putamen, together with the caudate nucleus, forms the dorsal striatum, and together with the globus pallidus forms the lentiform nucleus. It is a principal input station of the basal ganglia, receiving cortical, thalamic and dopaminergic (nigral) afferents, and is centrally involved in motor learning and control (including speech articulation), with putaminal dysfunction implicated in Parkinson's disease, Huntington's disease and dystonia.",
+    "fr": "Le putamen, avec le noyau caudé, forme le striatum dorsal, et avec le globus pallidus il forme le noyau lenticulaire. C'est une station d'entrée majeure des ganglions de la base, recevant des afférences corticales, thalamiques et dopaminergiques (nigrales), et il est central dans l'apprentissage et le contrôle moteur (y compris l'articulation de la parole) ; son dysfonctionnement est impliqué dans la maladie de Parkinson, la maladie de Huntington et la dystonie.",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Putamen - StatPearls",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK542170/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "sheep:Putamen"
+  },
+  "Red nucleus": {
+    "en": "The red nucleus (RN) is a compact midbrain nucleus that integrates signals from the motor cortex and cerebellum and, via the rubrospinal tract, projects to spinal interneurons and motoneurons to help initiate directed limb movements and regulate postural stability and locomotor coordination. It is organized into a magnocellular part associated with the rubrospinal system and a parvocellular part associated with the olivocerebellar system; its rubrospinal pathway develops in competition with the corticospinal system, and RN dysfunction has been linked to tremor and impaired motor recovery after corticospinal injury.",
+    "fr": "Le noyau rouge (RN) est un noyau mésencéphalique compact qui intègre les signaux du cortex moteur et du cervelet et, via le tractus rubrospinal, projette vers les interneurones et motoneurones spinaux pour contribuer à l'initiation de mouvements dirigés des membres et à la régulation de la stabilité posturale et de la coordination locomotrice. Il est organisé en une partie magnocellulaire associée au système rubrospinal et une partie parvocellulaire associée au système olivo-cérébelleux ; sa voie rubrospinale se développe en compétition avec le système corticospinal, et son dysfonctionnement a été associé au tremblement et à une récupération motrice altérée après lésion corticospinale.",
+    "sources": [
+      {
+        "title": "Red nucleus structure and function: from anatomy to clinical neurosciences",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7817566/"
+      },
+      {
+        "title": "Red Nucleus Excitatory Neurons Initiate Directional Motor Movement in Mice",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12383615/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "mouse:Red nucleus"
+  },
+  "Reticular thalamic nucleus": {
+    "en": "The reticular thalamic nucleus (TRN) is a thin, shell-like sheet of exclusively GABAergic neurons that wraps around the lateral and rostral aspects of the dorsal thalamus, interposed between the thalamus and the internal capsule. It receives excitatory collaterals from virtually all thalamocortical and corticothalamic axons that pass through it, and in turn sends purely inhibitory projections back onto thalamic relay neurons, without projecting to the cortex itself. The TRN is organized into functional sectors associated with different sensory, motor, and limbic thalamic nuclei, and it is thought to act as an attentional gate, regulating the gain and synchrony of thalamocortical transmission and contributing to the generation of sleep spindles.",
+    "fr": "Le noyau réticulaire thalamique (TRN) est une fine couche de neurones exclusivement GABAergiques qui enveloppe les faces latérale et rostrale du thalamus dorsal, interposée entre le thalamus et la capsule interne. Il reçoit des collatérales excitatrices de pratiquement tous les axones thalamocorticaux et corticothalamiques qui le traversent, et envoie en retour des projections purement inhibitrices vers les neurones relais thalamiques, sans se projeter lui-même vers le cortex. Le TRN est organisé en secteurs fonctionnels associés à différents noyaux thalamiques sensoriels, moteurs et limbiques, et il est considéré comme un portail attentionnel, régulant le gain et la synchronie de la transmission thalamocorticale et contribuant à la génération des fuseaux de sommeil.",
+    "sources": [
+      {
+        "title": "Functional Diversity of Thalamic Reticular Subnetworks",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6200870/"
+      },
+      {
+        "title": "Electrical Synapses in the Thalamic Reticular Nucleus",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6758490/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Reticulotegmental nucleus of the pons": {
+    "en": "The reticulotegmental nucleus (nucleus reticularis tegmenti pontis) is located in the ventral pontine tegmentum, dorsal to the non-reticular pontine nuclei, and is composed of large multipolar neurons with a characteristic reticular arrangement. It receives afferents from the cerebral cortex and superior colliculus and projects prominently, both ipsilaterally and after decussation, to the cerebellar vermis and deep cerebellar nuclei, forming part of the cortico-ponto-cerebellar relay. Functionally, it is an important component of the oculomotor circuitry that generates accurate horizontal saccades and smooth pursuit eye movements, and it also participates, via auditory brainstem inputs, in the circuit underlying the acoustic startle reflex.",
+    "fr": "Le noyau réticulotegmental (nucleus reticularis tegmenti pontis) est situé dans le tegmentum pontique ventral, dorsalement aux noyaux pontiques non réticulaires, et se compose de grands neurones multipolaires à disposition réticulaire caractéristique. Il reçoit des afférences du cortex cérébral et du colliculus supérieur et se projette de façon importante, à la fois ipsilatéralement et après décussation, vers le vermis cérébelleux et les noyaux cérébelleux profonds, formant une partie du relais cortico-ponto-cérébelleux. Sur le plan fonctionnel, il constitue une composante importante du circuit oculomoteur qui génère des saccades horizontales précises et des poursuites oculaires lisses, et il participe également, via des afférences auditives du tronc cérébral, au circuit sous-tendant le réflexe de sursaut acoustique.",
+    "sources": [
+      {
+        "title": "Reticulotegmental nucleus",
+        "url": "https://en.wikipedia.org/wiki/Reticulotegmental_nucleus"
+      },
+      {
+        "title": "A Brainstem reticulotegmental neural ensemble drives acoustic startle reflexes",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8568936/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Retrosplenial cingular cortex": {
+    "en": "The retrosplenial cortex (here labeled 'cingular' in the atlas parcellation) wraps around the splenium of the corpus callosum in the posterior cingulate region, corresponding to Brodmann areas 29 and 30, and is anatomically positioned between the hippocampal-parahippocampal memory system and the posterior parietal cortex. It maintains dense reciprocal connections with the hippocampal formation, anterior thalamic nuclei, and visual/parietal association cortices. Functionally, the retrosplenial cortex supports spatial navigation and orientation, contextual and episodic memory, and the translation between egocentric and allocentric spatial reference frames, with lesions producing severe topographical disorientation.",
+    "fr": "Le cortex rétrosplénial (désigné « cingulaire » dans la parcellation de cet atlas) enveloppe le splénium du corps calleux dans la région cingulaire postérieure, correspondant aux aires de Brodmann 29 et 30, et se situe anatomiquement entre le système mnésique hippocampo-parahippocampique et le cortex pariétal postérieur. Il entretient des connexions réciproques denses avec la formation hippocampique, les noyaux thalamiques antérieurs et les cortex associatifs visuel et pariétal. Sur le plan fonctionnel, le cortex rétrosplénial soutient la navigation et l'orientation spatiales, la mémoire contextuelle et épisodique, ainsi que la conversion entre référentiels spatiaux égocentrique et allocentrique; ses lésions provoquent une désorientation topographique sévère.",
+    "sources": [
+      {
+        "title": "Cues, context, and long-term memory: the role of the retrosplenial cortex in spatial cognition",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4122222/"
+      },
+      {
+        "title": "The human posterior cingulate, retrosplenial, and medial parietal cortex effective connectome",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9842927/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Secondary visual cortex": {
+    "en": "The secondary visual cortex (V2) physically surrounds the primary visual cortex in the occipital lobe and receives the majority of its input directly from V1, making it the second major stage of the cortical visual hierarchy. It is retinotopically organized, containing a mirror-reversed second-order map of the visual field, and its neurons respond to more complex features than V1, including illusory contours and figure-ground boundaries. V2 relays and elaborates visual information onward to higher extrastriate areas along both the dorsal (spatial/action) and ventral (object recognition) visual processing streams.",
+    "fr": "Le cortex visuel secondaire (V2) entoure physiquement le cortex visuel primaire dans le lobe occipital et reçoit la majorité de ses afférences directement de V1, ce qui en fait le deuxième stade majeur de la hiérarchie visuelle corticale. Il est organisé de façon rétinotopique, contenant une carte de second ordre en miroir du champ visuel, et ses neurones répondent à des caractéristiques plus complexes que ceux de V1, notamment les contours illusoires et les frontières figure-fond. V2 relaie et élabore l'information visuelle vers les aires extrastriées de rang supérieur, le long des voies visuelles dorsale (spatiale/action) et ventrale (reconnaissance d'objets).",
+    "sources": [
+      {
+        "title": "Controversial issues in visual cortex mapping: Extrastriate cortex between areas V2 and MT",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5307691/"
+      },
+      {
+        "title": "What Is the Secondary Visual Cortex and Its Function?",
+        "url": "https://biologyinsights.com/what-is-the-secondary-visual-cortex-and-its-function/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Somatosensory association cortex": {
+    "en": "The somatosensory association cortex occupies the superior/posterior parietal lobe, caudal to the primary somatosensory cortex, and corresponds broadly to Brodmann areas 5 and 7. It integrates unimodal somatosensory input from S1 with visual and auditory information relayed via the thalamus and other association areas, building a more elaborate representation of body position and the surrounding environment. Functionally, this region underlies tactile object recognition (stereognosis), distance and spatial relationship assessment, and the sensorimotor coordination required for visually guided reaching and manipulation.",
+    "fr": "Le cortex associatif somatosensoriel occupe le lobe pariétal supérieur/postérieur, en arrière du cortex somatosensoriel primaire, et correspond globalement aux aires de Brodmann 5 et 7. Il intègre les afférences somatosensorielles unimodales de S1 avec des informations visuelles et auditives relayées via le thalamus et d'autres aires associatives, construisant une représentation plus élaborée de la position du corps et de l'environnement. Sur le plan fonctionnel, cette région sous-tend la reconnaissance tactile des objets (stéréognosie), l'évaluation des distances et des relations spatiales, ainsi que la coordination sensorimotrice nécessaire à l'atteinte et à la manipulation guidées par la vision.",
+    "sources": [
+      {
+        "title": "Parietal lobe: Anatomy, location, parts and functions | Kenhub",
+        "url": "https://www.kenhub.com/en/library/anatomy/parietal-lobe"
+      }
+    ],
+    "status": "documented"
+  },
+  "Spinal trigeminal nucleus": {
+    "en": "The spinal trigeminal nucleus is a long sensory column in the lateral medulla and upper cervical cord, subdivided into the pars oralis, pars interpolaris and pars caudalis, that receives somatosensory input from the face, oral cavity, teeth and meninges via the trigeminal nerve. Its principal function is relaying pain and temperature information from the face and mouth to the thalamus and parabrachial nucleus.",
+    "fr": "Le noyau spinal du trijumeau est une longue colonne sensorielle du bulbe latéral et de la moelle cervicale haute, subdivisée en pars oralis, pars interpolaris et pars caudalis, qui reçoit les afférences somatosensorielles de la face, de la cavité buccale, des dents et des méninges via le nerf trijumeau. Sa fonction principale est de relayer les informations de douleur et de température issues de la face et de la bouche vers le thalamus et le noyau parabrachial.",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Spinal Trigeminal Nucleus - StatPearls",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK539729/"
+      },
+      {
+        "title": "VGLUT1 or VGLUT2 mRNA-positive neurons in spinal trigeminal nucleus provide collateral projections to both the thalamus and the parabrachial nucleus in rats",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5897998/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "rat:Spinal trigeminal nucleus"
+  },
+  "Spinal trigeminal tract": {
+    "en": "The spinal trigeminal tract carries the descending central processes of first-order trigeminal ganglion neurons conveying pain and temperature information from the face and oral cavity down to the spinal trigeminal nucleus, which extends from the pons through the medulla into the upper cervical spinal cord. Second-order neurons in this nucleus relay nociceptive and thermal information to the contralateral ventral posteromedial thalamic nucleus via the trigeminal lemniscus.",
+    "fr": "Le tractus spinal du trijumeau transporte les prolongements centraux descendants des neurones de premier ordre du ganglion trigéminal, véhiculant les informations de douleur et de température du visage et de la cavité buccale, jusqu'au noyau spinal du trijumeau, qui s'étend du pont jusqu'à la moelle cervicale haute en traversant le bulbe. Les neurones de second ordre de ce noyau relaient les informations nociceptives et thermiques vers le noyau thalamique ventral postéromédian controlatéral via le lemnisque trigéminal.",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Spinal Trigeminal Nucleus",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK539729/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "rat:spinal trigeminal tract"
+  },
+  "Subiculum": {
+    "en": "The subiculum lies between the hippocampus proper (abutting CA1) and the entorhinal cortex, and provides the predominant excitatory output pathway of the hippocampal formation to cortical and subcortical targets. It contains diverse excitatory neuron subtypes organized into distinct spatial subdomains, with a functional dorsoventral gradient: the dorsal subiculum is enriched in navigation-related, place-like cells, while the ventral subiculum is more involved in stress-related responses; GABAergic inhibition finely tunes this output activity.",
+    "fr": "Le subiculum est situé entre l'hippocampe proprement dit (jouxtant CA1) et le cortex entorhinal, et constitue la principale voie de sortie excitatrice de la formation hippocampique vers des cibles corticales et sous-corticales. Il contient des sous-types neuronaux excitateurs diversifiés organisés en sous-domaines spatiaux distincts, avec un gradient fonctionnel dorso-ventral : le subiculum dorsal est enrichi en cellules liées à la navigation (de type cellules de lieu), tandis que le subiculum ventral est davantage impliqué dans les réponses au stress ; l'inhibition GABAergique ajuste finement cette activité de sortie.",
+    "sources": [
+      {
+        "title": "The subiculum: cell-type-specific composition, computation, and function",
+        "url": "https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(26)00028-7"
+      },
+      {
+        "title": "Sex-differences in the ventral subiculum's microcircuitry and function",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12915510/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "mouse:Subiculum"
+  },
+  "Substantia nigra": {
+    "en": "The substantia nigra is a large gray-matter nucleus of the ventral midbrain, situated dorsal to the cerebral peduncles, and is composed of two histologically and functionally distinct parts: the dopaminergic pars compacta and the GABAergic pars reticulata. Its neuromelanin-containing dopaminergic neurons project via the nigrostriatal pathway to the striatum (caudate and putamen), forming a central component of the basal ganglia motor circuit, while the pars reticulata serves as one of the basal ganglia output nuclei. Functionally, the substantia nigra modulates the initiation and vigor of voluntary movement and also contributes to reward-related learning and motivation; its dopaminergic cell loss underlies the motor deficits of Parkinson's disease.",
+    "fr": "La substance noire est un volumineux noyau de substance grise du mésencéphale ventral, situé dorsalement aux pédoncules cérébraux, et se compose de deux parties histologiquement et fonctionnellement distinctes : la pars compacta dopaminergique et la pars reticulata GABAergique. Ses neurones dopaminergiques contenant de la neuromélanine se projettent via la voie nigrostriée vers le striatum (noyau caudé et putamen), formant une composante centrale du circuit moteur des ganglions de la base, tandis que la pars reticulata constitue l'un des noyaux de sortie des ganglions de la base. Sur le plan fonctionnel, la substance noire module l'initiation et la vigueur du mouvement volontaire et contribue également à l'apprentissage lié à la récompense et à la motivation; la perte de ses neurones dopaminergiques est à l'origine des déficits moteurs de la maladie de Parkinson.",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Substantia Nigra - StatPearls",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK536995/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Subthalamic nucleus": {
+    "en": "The subthalamic nucleus (STN) is a small lens-shaped nucleus at the junction of the diencephalon and midbrain, medial to the internal capsule. Its glutamatergic neurons excite the internal globus pallidus and substantia nigra pars reticulata, forming the indirect and hyperdirect pathways of the basal ganglia that regulate movement, behavioral performance and motivation; the STN receives inhibitory input from the external globus pallidus and is a key target for deep-brain stimulation in Parkinson's disease.",
+    "fr": "Le noyau sous-thalamique (STN) est un petit noyau en forme de lentille situé à la jonction du diencéphale et du mésencéphale, médialement à la capsule interne. Ses neurones glutamatergiques excitent le globus pallidus interne et la substance noire réticulée, formant les voies indirecte et hyperdirecte des ganglions de la base qui régulent le mouvement, la performance comportementale et la motivation ; le STN reçoit une inhibition du globus pallidus externe et constitue une cible privilégiée de la stimulation cérébrale profonde dans la maladie de Parkinson.",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Subthalamic Nucleus - StatPearls",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK559002/"
+      },
+      {
+        "title": "Subthalamic Neurons Coordinate Basal Ganglia Function through Differential Neural Pathways",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6725250/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "mouse:Subthalamic nucleus"
+  },
+  "Superior cerebellar peduncle": {
+    "en": "The superior cerebellar peduncle is a paired white-matter tract that constitutes the principal efferent pathway of the cerebellum, emerging from the cerebellum along the lateral wall of the fourth ventricle and coursing into the midbrain tegmentum, where the majority of its fibers decussate at the level of the inferior colliculi. It carries the cerebellothalamic tract, which relays deep cerebellar nuclear output (dentate/lateral and interposed nuclei) to the contralateral ventral lateral/ventral anterior thalamus, and the cerebellorubral tract to the contralateral red nucleus, along with afferent fibers such as the ventral spinocerebellar tract. Functionally, it is the main conduit by which the cerebellum influences motor planning and coordination in the thalamocortical and rubral motor systems.",
+    "fr": "Le pédoncule cérébelleux supérieur est un faisceau de substance blanche pair constituant la principale voie efférente du cervelet; il émerge du cervelet le long de la paroi latérale du quatrième ventricule et chemine dans le tegmentum mésencéphalique, où la majorité de ses fibres décussent au niveau des colliculi inférieurs. Il véhicule le faisceau cérébello-thalamique, qui relaie les sorties des noyaux cérébelleux profonds (noyau denté/latéral et noyaux interposés) vers le thalamus ventrolatéral/ventral antérieur controlatéral, ainsi que le faisceau cérébello-rubrique vers le noyau rouge controlatéral, en plus de fibres afférentes telles que le faisceau spinocérébelleux ventral. Sur le plan fonctionnel, il constitue le principal conduit par lequel le cervelet influence la planification et la coordination motrices dans les systèmes moteurs thalamocortical et rubral.",
+    "sources": [
+      {
+        "title": "Superior cerebellar peduncle",
+        "url": "https://en.wikipedia.org/wiki/Superior_cerebellar_peduncle"
+      },
+      {
+        "title": "Involvement of the Cerebellar Peduncles in FMR1 Premutation Carriers: A Pictorial Review",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12072475/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Superior colliculus": {
+    "en": "The superior colliculus (SC) is a layered midbrain structure that integrates visual, auditory and somatosensory information to transform sensory signals into motor commands. Its superficial layers receive visual input, while intermediate and deep layers generate orienting movements of the eyes and head, including saccades directed at objects of interest, and contribute to visuospatial attention and rapid perceptual decisions; recent work has identified genetically distinct cell types underlying these visuomotor transformations.",
+    "fr": "Le colliculus supérieur (SC) est une structure mésencéphalique organisée en couches qui intègre les informations visuelles, auditives et somatosensorielles pour les transformer en commandes motrices. Ses couches superficielles reçoivent l'entrée visuelle, tandis que les couches intermédiaires et profondes génèrent des mouvements d'orientation des yeux et de la tête — dont des saccades dirigées vers des objets d'intérêt — et contribuent à l'attention visuospatiale et aux décisions perceptives rapides ; des travaux récents ont identifié des types cellulaires génétiquement distincts sous-tendant ces transformations visuomotrices.",
+    "sources": [
+      {
+        "title": "The Superior Colliculus: Cell Types, Connectivity, and Behavior",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9723059/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "mouse:Superior colliculus"
+  },
+  "Superior olivary complex": {
+    "en": "The superior olivary complex (SOC) is a collection of five to nine interconnected nuclei located in the ventral pontine brainstem, forming a key relay station in the ascending and descending auditory pathways. It is the first site in the auditory brainstem where excitatory and inhibitory inputs from both cochlear nuclei converge, with its principal nuclei — the medial and lateral superior olive, medial nucleus of the trapezoid body, and superior paraolivary nucleus — each specialized for a distinct aspect of binaural processing. Functionally, the medial superior olive detects interaural time differences and the lateral superior olive detects interaural level differences, together enabling horizontal sound localization, while the complex also contributes to descending olivocochlear feedback that protects and tunes the cochlea.",
+    "fr": "Le complexe olivaire supérieur (SOC) est un ensemble de cinq à neuf noyaux interconnectés situé dans le tronc cérébral pontique ventral, formant un relais clé des voies auditives ascendantes et descendantes. C'est le premier site du tronc cérébral auditif où convergent les afférences excitatrices et inhibitrices des deux noyaux cochléaires, ses principaux noyaux — olive supérieure médiane et latérale, noyau médian du corps trapézoïde et noyau paraolivaire supérieur — étant chacun spécialisés dans un aspect distinct du traitement binaural. Sur le plan fonctionnel, l'olive supérieure médiane détecte les différences temporelles interaurales et l'olive supérieure latérale les différences d'intensité interaurales, permettant ensemble la localisation horizontale des sons, tandis que le complexe contribue également à la rétroaction olivocochléaire descendante qui protège et ajuste la cochlée.",
+    "sources": [
+      {
+        "title": "Superior olivary complex",
+        "url": "https://en.wikipedia.org/wiki/Superior_olivary_complex"
+      },
+      {
+        "title": "Multiple Sources of Cholinergic Input to the Superior Olivary Complex",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8319744/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Superior temporal gyrus": {
+    "en": "The superior temporal gyrus (STG) is the most dorsal gyrus of the temporal lobe, forming the floor of the lateral (Sylvian) fissure and the superior bank of the superior temporal sulcus, and it encompasses the primary and association auditory cortices (including Heschl's gyrus), corresponding to Brodmann areas 41, 42, and 22. It receives auditory input relayed from the medial geniculate nucleus of the thalamus and maintains extensive connections with limbic and frontal association areas. Functionally, the STG underlies auditory and acoustic-perceptual processing, including sound localization and complex sound/vocalization discrimination, and in species with elaborate vocal communication its posterior portions contribute to processing of socially and communicatively relevant sounds.",
+    "fr": "Le gyrus temporal supérieur (STG) est le gyrus le plus dorsal du lobe temporal, formant le plancher de la scissure latérale (sylvienne) et la berge supérieure du sillon temporal supérieur; il englobe les cortex auditifs primaire et associatif (dont le gyrus de Heschl), correspondant aux aires de Brodmann 41, 42 et 22. Il reçoit des afférences auditives relayées par le noyau géniculé médian du thalamus et entretient des connexions étendues avec les aires associatives limbiques et frontales. Sur le plan fonctionnel, le STG sous-tend le traitement auditif et acoustico-perceptif, y compris la localisation des sons et la discrimination de sons/vocalisations complexes; chez les espèces à communication vocale élaborée, ses portions postérieures contribuent au traitement des sons pertinents sur le plan social et communicatif.",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Temporal Lobe - StatPearls",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK519512/"
+      },
+      {
+        "title": "The left superior temporal gyrus is a shared substrate for auditory short-term memory and speech comprehension",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2792373/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Third ventricle": {
+    "en": "The third ventricle is a narrow, slit-like midline cerebrospinal fluid cavity of the diencephalon, bounded laterally by the thalamus and hypothalamus, anteriorly by the lamina terminalis, and inferiorly by the optic chiasm, tuber cinereum and mammillary bodies; it communicates with the lateral ventricles via the interventricular foramina and with the fourth ventricle via the cerebral aqueduct. Its choroid plexus secretes cerebrospinal fluid, and ependymal cilia lining its walls drive directional CSF flow that helps distribute signaling molecules through the brain.",
+    "fr": "Le troisième ventricule est une cavité médiane étroite, en forme de fente, remplie de liquide céphalo-rachidien, appartenant au diencéphale ; il est bordé latéralement par le thalamus et l'hypothalamus, en avant par la lame terminale, et en bas par le chiasma optique, le tuber cinereum et les corps mamillaires. Il communique avec les ventricules latéraux via les foramens interventriculaires et avec le quatrième ventricule via l'aqueduc cérébral. Son plexus choroïde sécrète le liquide céphalo-rachidien, et les cils des cellules épendymaires qui tapissent ses parois entraînent un flux directionnel du LCR contribuant à la diffusion de molécules signal dans le cerveau.",
+    "sources": [
+      {
+        "title": "Cilia-driven flows in the brain third ventricle",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7017332/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "mouse:Third ventricle"
+  },
+  "Unlabelled territories": {
+    "en": "This label does not correspond to a distinct anatomical brain structure. It is a housekeeping category used in this atlas's segmentation to mark voxels or tissue regions that were not assigned to any of the atlas's defined anatomical parcels, typically due to ambiguous boundaries, partial-volume effects, or areas outside the scope of the manual/semi-automated labeling protocol used to build the parcellation.",
+    "fr": "Cette étiquette ne correspond pas à une structure cérébrale anatomique distincte. Il s'agit d'une catégorie technique utilisée dans la segmentation de cet atlas pour désigner les voxels ou régions de tissu qui n'ont été assignés à aucune des parcelles anatomiques définies par l'atlas, généralement en raison de frontières ambiguës, d'effets de volume partiel, ou de zones situées hors du périmètre du protocole d'étiquetage manuel/semi-automatisé utilisé pour construire la parcellation.",
+    "sources": [],
+    "status": "documented"
+  },
+  "Ventral anterior cingulate cortex": {
+    "en": "The ventral (rostral) anterior cingulate cortex forms the lower portion of the anterior cingulate region, wrapping around the genu of the corpus callosum and corresponding to the perigenual and subgenual cingulate territories (Brodmann areas 24/32/25). It is densely and reciprocally connected with limbic structures, including the amygdala, hypothalamus, and orbitofrontal cortex, distinguishing it from the more dorsal, cognitive-control-related anterior cingulate subdivision. Functionally, the ventral anterior cingulate cortex is primarily engaged in emotional processing, autonomic regulation, and the assignment of affective/motivational value to stimuli and outcomes.",
+    "fr": "Le cortex cingulaire antérieur ventral (rostral) forme la portion inférieure de la région cingulaire antérieure, enveloppant le genou du corps calleux et correspondant aux territoires cingulaires périgénual et subgénual (aires de Brodmann 24/32/25). Il est densément et réciproquement connecté à des structures limbiques, notamment l'amygdale, l'hypothalamus et le cortex orbitofrontal, ce qui le distingue de la subdivision cingulaire antérieure plus dorsale, liée au contrôle cognitif. Sur le plan fonctionnel, le cortex cingulaire antérieur ventral est principalement impliqué dans le traitement émotionnel, la régulation autonome et l'attribution d'une valeur affective/motivationnelle aux stimuli et aux résultats.",
+    "sources": [
+      {
+        "title": "Anterior Cingulate Cortex: Unique Role in Cognition and Emotion",
+        "url": "https://psychiatryonline.org/doi/10.1176/jnp.23.2.jnp121"
+      },
+      {
+        "title": "Cingulate gyrus: Anatomy and function | Kenhub",
+        "url": "https://www.kenhub.com/en/library/anatomy/cingulate-gyrus"
+      }
+    ],
+    "status": "documented"
+  },
+  "Ventral anterior thalamic nucleus": {
+    "en": "The ventral anterior (VA) thalamic nucleus is a motor thalamic nucleus and a major target of basal ganglia output, closely interconnected with cerebral motor cortex and recipient of afferents from the cerebellum and basal ganglia. It is strongly implicated in the pathophysiology of Parkinsonian motor deficits, and experimentally boosting its activity (optogenetically or via histaminergic afferents) alleviates motor deficits in dopamine-depleted rat models.",
+    "fr": "Le noyau thalamique ventral antérieur (VA) est un noyau thalamique moteur et une cible majeure des sorties des ganglions de la base, étroitement interconnecté avec le cortex moteur cérébral et recevant des afférences du cervelet et des ganglions de la base. Il est fortement impliqué dans la physiopathologie des déficits moteurs parkinsoniens, et l'augmentation expérimentale de son activité (par optogénétique ou via des afférences histaminergiques) atténue les déficits moteurs dans des modèles de rats déplétés en dopamine.",
+    "sources": [
+      {
+        "title": "Histaminergic Innervation of the Ventral Anterior Thalamic Nucleus Alleviates Motor Deficits in a 6-OHDA-Induced Rat Model of Parkinson's Disease",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11978569/"
+      },
+      {
+        "title": "Motor thalamus integration of cortical, cerebellar and basal ganglia information",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3822295/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "rat:Ventral anterior thalamic nucleus"
+  },
+  "Ventral posterior cingulate cortex": {
+    "en": "The ventral posterior cingulate cortex forms the lower bank of the posterior cingulate region, adjacent to the retrosplenial cortex and the splenium of the corpus callosum, and maintains strong connectivity with the parahippocampal/hippocampal memory system and the precuneus. Functionally, this ventral subdivision shows a distinct profile from the more dorsal posterior cingulate cortex, being preferentially engaged during spatial encoding and scene construction, whereas dorsal portions are more involved in recalling spatial information and making distance/direction judgments. Together with the rest of the posterior cingulate cortex, it participates in a core network supporting episodic memory retrieval and self-referential/spatial cognition.",
+    "fr": "Le cortex cingulaire postérieur ventral forme la berge inférieure de la région cingulaire postérieure, adjacente au cortex rétrosplénial et au splénium du corps calleux, et entretient une forte connectivité avec le système mnésique parahippocampique/hippocampique et le précunéus. Sur le plan fonctionnel, cette subdivision ventrale présente un profil distinct de celui du cortex cingulaire postérieur plus dorsal, étant préférentiellement engagée lors de l'encodage spatial et de la construction de scènes, tandis que les portions dorsales sont davantage impliquées dans le rappel d'informations spatiales et les jugements de distance/direction. Avec le reste du cortex cingulaire postérieur, il participe à un réseau central soutenant la récupération de la mémoire épisodique et la cognition spatiale/autoréférentielle.",
+    "sources": [
+      {
+        "title": "Ventral—Dorsal Functional Contribution of the Posterior Cingulate Cortex in Human Spatial Orientation: A Meta-Analysis",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5951926/"
+      },
+      {
+        "title": "Posterior cingulate cortex",
+        "url": "https://en.wikipedia.org/wiki/Posterior_cingulate_cortex"
+      }
+    ],
+    "status": "documented"
+  },
+  "Ventral posterior thalamic nucleus": {
+    "en": "The ventral posterior nucleus is the principal somatosensory relay complex of the thalamus, occupying the ventrolateral thalamus and subdivided into the ventral posterolateral (VPL) and ventral posteromedial (VPM) parts. The VPL receives ascending dorsal-column/medial-lemniscal and spinothalamic input carrying touch, proprioceptive, and nociceptive/thermal information from the body, organized somatotopically, while the VPM receives corresponding trigeminothalamic input from the face and oral cavity. Both subdivisions project topographically onto the primary somatosensory cortex, faithfully preserving body-map organization as the final subcortical relay before cortical processing of somatic sensation.",
+    "fr": "Le noyau ventral postérieur est le principal complexe de relais somatosensoriel du thalamus, occupant le thalamus ventrolatéral et subdivisé en parties ventropostérolatérale (VPL) et ventropostéromédiane (VPM). Le VPL reçoit des afférences ascendantes des voies lemniscales médianes (cordons postérieurs) et spinothalamiques véhiculant des informations tactiles, proprioceptives et nociceptives/thermiques provenant du corps, organisées de façon somatotopique, tandis que le VPM reçoit les afférences trigéminothalamiques correspondantes provenant de la face et de la cavité buccale. Les deux subdivisions se projettent de façon topographique sur le cortex somatosensoriel primaire, préservant fidèlement l'organisation de la carte corporelle en tant que dernier relais sous-cortical avant le traitement cortical de la sensation somatique.",
+    "sources": [
+      {
+        "title": "Ventral Posteromedial Nucleus - an overview | ScienceDirect Topics",
+        "url": "https://www.sciencedirect.com/topics/neuroscience/ventral-posteromedial-nucleus"
+      },
+      {
+        "title": "Ventral Posterior Nucleus - an overview | ScienceDirect Topics",
+        "url": "https://www.sciencedirect.com/topics/neuroscience/ventral-posterior-nucleus"
+      }
+    ],
+    "status": "documented"
+  },
+  "Vestibular nucleus": {
+    "en": "The vestibular nuclear complex comprises four principal nuclei (superior, lateral, medial, and inferior/spinal) located beneath the floor of the fourth ventricle at the pontomedullary junction, receiving primary afferents from the vestibular portion of the eighth cranial nerve as well as visual and proprioceptive input. Its outputs are organized into three functional pathways: vestibulo-ocular projections to the extraocular motor nuclei for gaze stabilization during head movement, vestibulospinal projections (notably the lateral vestibulospinal tract) that adjust extensor tone for postural control, and ascending projections to the thalamus and cortex for conscious perception of head motion and orientation. Together these pathways make the vestibular nuclei the principal brainstem hub for balance, posture, and spatial orientation.",
+    "fr": "Le complexe nucléaire vestibulaire comprend quatre noyaux principaux (supérieur, latéral, médian et inférieur/spinal) situés sous le plancher du quatrième ventricule à la jonction ponto-bulbaire, recevant des afférences primaires de la portion vestibulaire du huitième nerf crânien ainsi que des informations visuelles et proprioceptives. Ses sorties sont organisées en trois voies fonctionnelles : des projections vestibulo-oculaires vers les noyaux moteurs oculomoteurs extrinsèques pour la stabilisation du regard pendant les mouvements de la tête, des projections vestibulospinales (notamment le faisceau vestibulospinal latéral) qui ajustent le tonus extenseur pour le contrôle postural, et des projections ascendantes vers le thalamus et le cortex pour la perception consciente du mouvement et de l'orientation de la tête. Ensemble, ces voies font des noyaux vestibulaires le principal relais du tronc cérébral pour l'équilibre, la posture et l'orientation spatiale.",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Nucleus Vestibular - StatPearls",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK562261/"
+      },
+      {
+        "title": "The Vestibular Nuclei: A Cerebral Reservoir of Stem Cells Involved in Balance Function",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10855768/"
+      }
+    ],
+    "status": "documented"
+  },
+  "Zona incerta": {
+    "en": "The zona incerta (ZI) is a largely GABAergic, inhibitory subthalamic region with extensive connections throughout the brain. Its functions have been grouped into four broad categories — sensory integration, control of behavioral output, motivational drive, and neural plasticity — and its GABAergic neurons robustly signal the occurrence, though not necessarily the direction, of exploratory and goal-directed movements; the ZI is also an established deep-brain-stimulation target for alleviating parkinsonian motor symptoms.",
+    "fr": "La zona incerta (ZI) est une région sous-thalamique majoritairement GABAergique et inhibitrice, dotée de connexions étendues dans l'ensemble du cerveau. Ses fonctions ont été regroupées en quatre grandes catégories — intégration sensorielle, contrôle de la sortie comportementale, motivation, et plasticité neuronale — et ses neurones GABAergiques signalent de façon robuste la survenue (mais pas nécessairement la direction) des mouvements exploratoires et orientés vers un but ; la ZI constitue également une cible établie de stimulation cérébrale profonde pour soulager les symptômes moteurs parkinsoniens.",
+    "sources": [
+      {
+        "title": "Zona Incerta: An Integrative Node for Global Behavioral Modulation",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7439563/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "mouse:Zona incerta"
+  },
+  "cerebral_aqueduct (sylvius)": {
+    "en": "The cerebral aqueduct (aqueduct of Sylvius) is a narrow, roughly 1-2 mm diameter channel that runs through the midline of the midbrain, surrounded by the periaqueductal gray matter, and connects the third ventricle rostrally to the fourth ventricle caudally. It contains no choroid plexus of its own and therefore does not produce cerebrospinal fluid, but serves as the sole conduit through which CSF generated in the lateral and third ventricles passes into the fourth ventricle and subsequently the subarachnoid space. Because it is the narrowest segment of the ventricular system, the cerebral aqueduct is a common site of obstruction, and stenosis at this level is a classic cause of obstructive (non-communicating) hydrocephalus.",
+    "fr": "L'aqueduc cérébral (aqueduc de Sylvius) est un canal étroit, d'environ 1 à 2 mm de diamètre, qui traverse la ligne médiane du mésencéphale, entouré par la substance grise périaqueducale, et relie le troisième ventricule en amont au quatrième ventricule en aval. Il ne possède pas de plexus choroïde propre et ne produit donc pas de liquide céphalo-rachidien, mais constitue le seul conduit par lequel le LCS produit dans les ventricules latéraux et le troisième ventricule rejoint le quatrième ventricule puis l'espace sous-arachnoïdien. Étant le segment le plus étroit du système ventriculaire, l'aqueduc cérébral est un site fréquent d'obstruction, et une sténose à ce niveau est une cause classique d'hydrocéphalie obstructive (non communicante).",
+    "sources": [
+      {
+        "title": "Neuroanatomy, Cerebral Aqueduct (Sylvian) - StatPearls",
+        "url": "https://www.ncbi.nlm.nih.gov/books/NBK540988/"
+      },
+      {
+        "title": "Cerebral aqueduct: Anatomy and function | Kenhub",
+        "url": "https://www.kenhub.com/en/library/anatomy/cerebral-aqueduct"
+      }
+    ],
+    "status": "documented"
+  },
+  "fornix": {
+    "en": "The fornix is the major white matter output/input pathway of the hippocampus, formed by fibers of the fimbria that arch beneath the corpus callosum to reach the septal nuclei, mammillary bodies and other diencephalic targets. It carries projections from the medial septum to the hippocampus and from the hippocampus to the diencephalon, striatum, lateral septum and prefrontal cortex, and its disruption impairs memory, including temporal sequence memory.",
+    "fr": "Le fornix est la principale voie de sortie/entrée de substance blanche de l'hippocampe, formée par les fibres de la fimbria qui s'arquent sous le corps calleux pour atteindre les noyaux septaux, les corps mamillaires et d'autres cibles diencéphaliques. Il transporte des projections du septum médian vers l'hippocampe et de l'hippocampe vers le diencéphale, le striatum, le septum latéral et le cortex préfrontal ; sa lésion altère la mémoire, y compris la mémoire de séquence temporelle.",
+    "sources": [
+      {
+        "title": "Fornix of the brain: Anatomy and functions",
+        "url": "https://www.kenhub.com/en/library/anatomy/fornix-of-the-brain"
+      },
+      {
+        "title": "A role for the fornix in temporal sequence memory",
+        "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10336598/"
+      }
+    ],
+    "status": "documented",
+    "reused_from": "rat:fornix"
+  }
+}

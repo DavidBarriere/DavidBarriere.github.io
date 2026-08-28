@@ -1,0 +1,2438 @@
+[
+ {
+  "id": 9999,
+  "name": "Clear Label",
+  "base": "Clear Label",
+  "hemisphere": null,
+  "parent": "Clear Label",
+  "color": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "id": 9101,
+  "name": "Anterior sigmoideus gyrus Left",
+  "base": "Anterior sigmoideus gyrus",
+  "hemisphere": "L",
+  "parent": "Anterior sigmoideus gyrus",
+  "color": [
+   191,
+   67,
+   74
+  ]
+ },
+ {
+  "id": 9102,
+  "name": "Anterior sigmoideus gyrus Right",
+  "base": "Anterior sigmoideus gyrus",
+  "hemisphere": "R",
+  "parent": "Anterior sigmoideus gyrus",
+  "color": [
+   191,
+   67,
+   74
+  ]
+ },
+ {
+  "id": 9111,
+  "name": "Cerebellum Left",
+  "base": "Cerebellum",
+  "hemisphere": "L",
+  "parent": "Cerebellum",
+  "color": [
+   182,
+   191,
+   67
+  ]
+ },
+ {
+  "id": 9112,
+  "name": "Cerebellum Right",
+  "base": "Cerebellum",
+  "hemisphere": "R",
+  "parent": "Cerebellum",
+  "color": [
+   182,
+   191,
+   67
+  ]
+ },
+ {
+  "id": 9121,
+  "name": "Cingulate gyrus Left",
+  "base": "Cingulate gyrus",
+  "hemisphere": "L",
+  "parent": "Cingulate gyrus",
+  "color": [
+   191,
+   73,
+   53
+  ]
+ },
+ {
+  "id": 9122,
+  "name": "Cingulate gyrus Right",
+  "base": "Cingulate gyrus",
+  "hemisphere": "R",
+  "parent": "Cingulate gyrus",
+  "color": [
+   191,
+   73,
+   53
+  ]
+ },
+ {
+  "id": 9131,
+  "name": "Insular cortex Left",
+  "base": "Insular cortex",
+  "hemisphere": "L",
+  "parent": "Insular cortex",
+  "color": [
+   191,
+   38,
+   59
+  ]
+ },
+ {
+  "id": 9132,
+  "name": "Insular cortex Right",
+  "base": "Insular cortex",
+  "hemisphere": "R",
+  "parent": "Insular cortex",
+  "color": [
+   191,
+   38,
+   59
+  ]
+ },
+ {
+  "id": 51,
+  "name": "Ectolateral gyrus Left",
+  "base": "Ectolateral gyrus",
+  "hemisphere": "L",
+  "parent": "Ectolateral gyrus",
+  "color": [
+   191,
+   53,
+   100
+  ]
+ },
+ {
+  "id": 52,
+  "name": "Ectolateral gyrus Right",
+  "base": "Ectolateral gyrus",
+  "hemisphere": "R",
+  "parent": "Ectolateral gyrus",
+  "color": [
+   191,
+   53,
+   100
+  ]
+ },
+ {
+  "id": 61,
+  "name": "Entolateral gyrus Left",
+  "base": "Entolateral gyrus",
+  "hemisphere": "L",
+  "parent": "Entolateral gyrus",
+  "color": [
+   107,
+   67,
+   191
+  ]
+ },
+ {
+  "id": 62,
+  "name": "Entolateral gyrus Right",
+  "base": "Entolateral gyrus",
+  "hemisphere": "R",
+  "parent": "Entolateral gyrus",
+  "color": [
+   107,
+   67,
+   191
+  ]
+ },
+ {
+  "id": 71,
+  "name": "Rectus gyrus Left",
+  "base": "Rectus gyrus",
+  "hemisphere": "L",
+  "parent": "Rectus gyrus",
+  "color": [
+   132,
+   53,
+   191
+  ]
+ },
+ {
+  "id": 72,
+  "name": "Rectus gyrus Right",
+  "base": "Rectus gyrus",
+  "hemisphere": "R",
+  "parent": "Rectus gyrus",
+  "color": [
+   132,
+   53,
+   191
+  ]
+ },
+ {
+  "id": 81,
+  "name": "Lateral gyrus Left",
+  "base": "Lateral gyrus",
+  "hemisphere": "L",
+  "parent": "Lateral gyrus",
+  "color": [
+   121,
+   191,
+   67
+  ]
+ },
+ {
+  "id": 82,
+  "name": "Lateral gyrus Right",
+  "base": "Lateral gyrus",
+  "hemisphere": "R",
+  "parent": "Lateral gyrus",
+  "color": [
+   121,
+   191,
+   67
+  ]
+ },
+ {
+  "id": 91,
+  "name": "Occipital lobe Left",
+  "base": "Occipital lobe",
+  "hemisphere": "L",
+  "parent": "Occipital lobe",
+  "color": [
+   10,
+   87,
+   191
+  ]
+ },
+ {
+  "id": 92,
+  "name": "Occipital lobe Right",
+  "base": "Occipital lobe",
+  "hemisphere": "R",
+  "parent": "Occipital lobe",
+  "color": [
+   10,
+   87,
+   191
+  ]
+ },
+ {
+  "id": 101,
+  "name": "Olfactory bulb Left",
+  "base": "Olfactory bulb",
+  "hemisphere": "L",
+  "parent": "Olfactory bulb",
+  "color": [
+   91,
+   24,
+   191
+  ]
+ },
+ {
+  "id": 102,
+  "name": "Olfactory bulb Right",
+  "base": "Olfactory bulb",
+  "hemisphere": "R",
+  "parent": "Olfactory bulb",
+  "color": [
+   91,
+   24,
+   191
+  ]
+ },
+ {
+  "id": 111,
+  "name": "Olfactory tract Left",
+  "base": "Olfactory tract",
+  "hemisphere": "L",
+  "parent": "Olfactory tract",
+  "color": [
+   188,
+   191,
+   67
+  ]
+ },
+ {
+  "id": 112,
+  "name": "Olfactory tract Right",
+  "base": "Olfactory tract",
+  "hemisphere": "R",
+  "parent": "Olfactory tract",
+  "color": [
+   188,
+   191,
+   67
+  ]
+ },
+ {
+  "id": 121,
+  "name": "Orbital gyrus Left",
+  "base": "Orbital gyrus",
+  "hemisphere": "L",
+  "parent": "Orbital gyrus",
+  "color": [
+   84,
+   191,
+   53
+  ]
+ },
+ {
+  "id": 122,
+  "name": "Orbital gyrus Right",
+  "base": "Orbital gyrus",
+  "hemisphere": "R",
+  "parent": "Orbital gyrus",
+  "color": [
+   84,
+   191,
+   53
+  ]
+ },
+ {
+  "id": 131,
+  "name": "Orbitofrontal gyrus Left",
+  "base": "Orbitofrontal gyrus",
+  "hemisphere": "L",
+  "parent": "Orbitofrontal gyrus",
+  "color": [
+   159,
+   191,
+   53
+  ]
+ },
+ {
+  "id": 132,
+  "name": "Orbitofrontal gyrus Right",
+  "base": "Orbitofrontal gyrus",
+  "hemisphere": "R",
+  "parent": "Orbitofrontal gyrus",
+  "color": [
+   159,
+   191,
+   53
+  ]
+ },
+ {
+  "id": 141,
+  "name": "Prahippocampal cortex Left",
+  "base": "Prahippocampal cortex",
+  "hemisphere": "L",
+  "parent": "Prahippocampal cortex",
+  "color": [
+   75,
+   191,
+   24
+  ]
+ },
+ {
+  "id": 142,
+  "name": "Prahippocampal cortex Right",
+  "base": "Prahippocampal cortex",
+  "hemisphere": "R",
+  "parent": "Prahippocampal cortex",
+  "color": [
+   75,
+   191,
+   24
+  ]
+ },
+ {
+  "id": 151,
+  "name": "Postcruciate gyrus Left",
+  "base": "Postcruciate gyrus",
+  "hemisphere": "L",
+  "parent": "Postcruciate gyrus",
+  "color": [
+   126,
+   53,
+   191
+  ]
+ },
+ {
+  "id": 152,
+  "name": "Postcruciate gyrus Right",
+  "base": "Postcruciate gyrus",
+  "hemisphere": "R",
+  "parent": "Postcruciate gyrus",
+  "color": [
+   126,
+   53,
+   191
+  ]
+ },
+ {
+  "id": 161,
+  "name": "Posterior sigmoideus gyrus Left",
+  "base": "Posterior sigmoideus gyrus",
+  "hemisphere": "L",
+  "parent": "Posterior sigmoideus gyrus",
+  "color": [
+   10,
+   96,
+   191
+  ]
+ },
+ {
+  "id": 162,
+  "name": "Posterior sigmoideus gyrus Right",
+  "base": "Posterior sigmoideus gyrus",
+  "hemisphere": "R",
+  "parent": "Posterior sigmoideus gyrus",
+  "color": [
+   10,
+   96,
+   191
+  ]
+ },
+ {
+  "id": 171,
+  "name": "Posterior sylvian gyrus Left",
+  "base": "Posterior sylvian gyrus",
+  "hemisphere": "L",
+  "parent": "Posterior sylvian gyrus",
+  "color": [
+   109,
+   191,
+   38
+  ]
+ },
+ {
+  "id": 172,
+  "name": "Posterior sylvian gyrus Right",
+  "base": "Posterior sylvian gyrus",
+  "hemisphere": "R",
+  "parent": "Posterior sylvian gyrus",
+  "color": [
+   109,
+   191,
+   38
+  ]
+ },
+ {
+  "id": 181,
+  "name": "Precruciate gyrus Left",
+  "base": "Precruciate gyrus",
+  "hemisphere": "L",
+  "parent": "Precruciate gyrus",
+  "color": [
+   152,
+   191,
+   53
+  ]
+ },
+ {
+  "id": 182,
+  "name": "Precruciate gyrus Right",
+  "base": "Precruciate gyrus",
+  "hemisphere": "R",
+  "parent": "Precruciate gyrus",
+  "color": [
+   152,
+   191,
+   53
+  ]
+ },
+ {
+  "id": 191,
+  "name": "Suprasylvius gyrus Left",
+  "base": "Suprasylvius gyrus",
+  "hemisphere": "L",
+  "parent": "Suprasylvius gyrus",
+  "color": [
+   113,
+   67,
+   191
+  ]
+ },
+ {
+  "id": 192,
+  "name": "Suprasylvius gyrus Right",
+  "base": "Suprasylvius gyrus",
+  "hemisphere": "R",
+  "parent": "Suprasylvius gyrus",
+  "color": [
+   113,
+   67,
+   191
+  ]
+ },
+ {
+  "id": 201,
+  "name": "Sylvian gyrus Left",
+  "base": "Sylvian gyrus",
+  "hemisphere": "L",
+  "parent": "Sylvian gyrus",
+  "color": [
+   67,
+   191,
+   80
+  ]
+ },
+ {
+  "id": 202,
+  "name": "Sylvian gyrus Right",
+  "base": "Sylvian gyrus",
+  "hemisphere": "R",
+  "parent": "Sylvian gyrus",
+  "color": [
+   67,
+   191,
+   80
+  ]
+ },
+ {
+  "id": 211,
+  "name": "Temporal gyrus Left",
+  "base": "Temporal gyrus",
+  "hemisphere": "L",
+  "parent": "Temporal gyrus",
+  "color": [
+   191,
+   38,
+   149
+  ]
+ },
+ {
+  "id": 212,
+  "name": "Temporal gyrus Right",
+  "base": "Temporal gyrus",
+  "hemisphere": "R",
+  "parent": "Temporal gyrus",
+  "color": [
+   191,
+   38,
+   149
+  ]
+ },
+ {
+  "id": 221,
+  "name": "Nucleus anterior dorsalis Left",
+  "base": "Nucleus anterior dorsalis",
+  "hemisphere": "L",
+  "parent": "Nucleus anterior dorsalis",
+  "color": [
+   24,
+   138,
+   191
+  ]
+ },
+ {
+  "id": 222,
+  "name": "Nucleus anterior dorsalis Right",
+  "base": "Nucleus anterior dorsalis",
+  "hemisphere": "R",
+  "parent": "Nucleus anterior dorsalis",
+  "color": [
+   24,
+   138,
+   191
+  ]
+ },
+ {
+  "id": 231,
+  "name": "periventricular area of thalamus Left",
+  "base": "periventricular area of thalamus",
+  "hemisphere": "L",
+  "parent": "periventricular area of thalamus",
+  "color": [
+   180,
+   67,
+   191
+  ]
+ },
+ {
+  "id": 232,
+  "name": "periventricular area of thalamus Right",
+  "base": "periventricular area of thalamus",
+  "hemisphere": "R",
+  "parent": "periventricular area of thalamus",
+  "color": [
+   180,
+   67,
+   191
+  ]
+ },
+ {
+  "id": 241,
+  "name": "Nucleus Medialis pars Dorsalis Left",
+  "base": "Nucleus Medialis pars Dorsalis",
+  "hemisphere": "L",
+  "parent": "Nucleus Medialis pars Dorsalis",
+  "color": [
+   30,
+   10,
+   191
+  ]
+ },
+ {
+  "id": 242,
+  "name": "Nucleus Medialis pars Dorsalis Right",
+  "base": "Nucleus Medialis pars Dorsalis",
+  "hemisphere": "R",
+  "parent": "Nucleus Medialis pars Dorsalis",
+  "color": [
+   30,
+   10,
+   191
+  ]
+ },
+ {
+  "id": 251,
+  "name": "nucleus Reuniens Left",
+  "base": "nucleus Reuniens",
+  "hemisphere": "L",
+  "parent": "nucleus Reuniens",
+  "color": [
+   191,
+   60,
+   10
+  ]
+ },
+ {
+  "id": 252,
+  "name": "nucleus Reuniens Right",
+  "base": "nucleus Reuniens",
+  "hemisphere": "R",
+  "parent": "nucleus Reuniens",
+  "color": [
+   191,
+   60,
+   10
+  ]
+ },
+ {
+  "id": 261,
+  "name": "corpus Mamillare pars Medialis Left",
+  "base": "corpus Mamillare pars Medialis",
+  "hemisphere": "L",
+  "parent": "corpus Mamillare pars Medialis",
+  "color": [
+   115,
+   191,
+   67
+  ]
+ },
+ {
+  "id": 262,
+  "name": "corpus Mamillare pars Medialis Right",
+  "base": "corpus Mamillare pars Medialis",
+  "hemisphere": "R",
+  "parent": "corpus Mamillare pars Medialis",
+  "color": [
+   115,
+   191,
+   67
+  ]
+ },
+ {
+  "id": 271,
+  "name": "corpus Geniculatum pars Lateralis Left",
+  "base": "corpus Geniculatum pars Lateralis",
+  "hemisphere": "L",
+  "parent": "corpus Geniculatum pars Lateralis",
+  "color": [
+   191,
+   133,
+   67
+  ]
+ },
+ {
+  "id": 272,
+  "name": "corpus Geniculatum pars Lateralis Right",
+  "base": "corpus Geniculatum pars Lateralis",
+  "hemisphere": "R",
+  "parent": "corpus Geniculatum pars Lateralis",
+  "color": [
+   191,
+   133,
+   67
+  ]
+ },
+ {
+  "id": 281,
+  "name": "nucleus Medialis pars Ventralis Left",
+  "base": "nucleus Medialis pars Ventralis",
+  "hemisphere": "L",
+  "parent": "nucleus Medialis pars Ventralis",
+  "color": [
+   38,
+   191,
+   50
+  ]
+ },
+ {
+  "id": 282,
+  "name": "nucleus Medialis pars Ventralis Right",
+  "base": "nucleus Medialis pars Ventralis",
+  "hemisphere": "R",
+  "parent": "nucleus Medialis pars Ventralis",
+  "color": [
+   38,
+   191,
+   50
+  ]
+ },
+ {
+  "id": 291,
+  "name": "nucleus Reticularis Left",
+  "base": "nucleus Reticularis",
+  "hemisphere": "L",
+  "parent": "nucleus Reticularis",
+  "color": [
+   191,
+   10,
+   49
+  ]
+ },
+ {
+  "id": 292,
+  "name": "nucleus Reticularis Right",
+  "base": "nucleus Reticularis",
+  "hemisphere": "R",
+  "parent": "nucleus Reticularis",
+  "color": [
+   191,
+   10,
+   49
+  ]
+ },
+ {
+  "id": 301,
+  "name": "area Hypothalamica Posterioris Left",
+  "base": "area Hypothalamica Posterioris",
+  "hemisphere": "L",
+  "parent": "area Hypothalamica Posterioris",
+  "color": [
+   38,
+   191,
+   125
+  ]
+ },
+ {
+  "id": 302,
+  "name": "area Hypothalamica Posterioris Right",
+  "base": "area Hypothalamica Posterioris",
+  "hemisphere": "R",
+  "parent": "area Hypothalamica Posterioris",
+  "color": [
+   38,
+   191,
+   125
+  ]
+ },
+ {
+  "id": 311,
+  "name": "corpus Geniculatum Laterale pars Ventralis Left",
+  "base": "corpus Geniculatum Laterale pars Ventralis",
+  "hemisphere": "L",
+  "parent": "corpus Geniculatum Laterale pars Ventralis",
+  "color": [
+   117,
+   191,
+   38
+  ]
+ },
+ {
+  "id": 312,
+  "name": "corpus Geniculatum Laterale pars Ventralis Right",
+  "base": "corpus Geniculatum Laterale pars Ventralis",
+  "hemisphere": "R",
+  "parent": "corpus Geniculatum Laterale pars Ventralis",
+  "color": [
+   117,
+   191,
+   38
+  ]
+ },
+ {
+  "id": 321,
+  "name": "nucleus Centralis Lateralis Left",
+  "base": "nucleus Centralis Lateralis",
+  "hemisphere": "L",
+  "parent": "nucleus Centralis Lateralis",
+  "color": [
+   191,
+   93,
+   38
+  ]
+ },
+ {
+  "id": 322,
+  "name": "nucleus Centralis Lateralis Right",
+  "base": "nucleus Centralis Lateralis",
+  "hemisphere": "R",
+  "parent": "nucleus Centralis Lateralis",
+  "color": [
+   191,
+   93,
+   38
+  ]
+ },
+ {
+  "id": 331,
+  "name": "nucleus Rhomboideus Left",
+  "base": "nucleus Rhomboideus",
+  "hemisphere": "L",
+  "parent": "nucleus Rhomboideus",
+  "color": [
+   67,
+   191,
+   148
+  ]
+ },
+ {
+  "id": 332,
+  "name": "nucleus Rhomboideus Right",
+  "base": "nucleus Rhomboideus",
+  "hemisphere": "R",
+  "parent": "nucleus Rhomboideus",
+  "color": [
+   67,
+   191,
+   148
+  ]
+ },
+ {
+  "id": 341,
+  "name": "nucleus Anterior Medialis Left",
+  "base": "nucleus Anterior Medialis",
+  "hemisphere": "L",
+  "parent": "nucleus Anterior Medialis",
+  "color": [
+   191,
+   36,
+   24
+  ]
+ },
+ {
+  "id": 342,
+  "name": "nucleus Anterior Medialis Right",
+  "base": "nucleus Anterior Medialis",
+  "hemisphere": "R",
+  "parent": "nucleus Anterior Medialis",
+  "color": [
+   191,
+   36,
+   24
+  ]
+ },
+ {
+  "id": 351,
+  "name": "corpus Geniculatum Medialis Left",
+  "base": "corpus Geniculatum Medialis",
+  "hemisphere": "L",
+  "parent": "corpus Geniculatum Medialis",
+  "color": [
+   117,
+   191,
+   10
+  ]
+ },
+ {
+  "id": 352,
+  "name": "corpus Geniculatum Medialis Right",
+  "base": "corpus Geniculatum Medialis",
+  "hemisphere": "R",
+  "parent": "corpus Geniculatum Medialis",
+  "color": [
+   117,
+   191,
+   10
+  ]
+ },
+ {
+  "id": 361,
+  "name": "Hypothalamic periventricular nuclei Left",
+  "base": "Hypothalamic periventricular nuclei",
+  "hemisphere": "L",
+  "parent": "Hypothalamic periventricular nuclei",
+  "color": [
+   191,
+   69,
+   10
+  ]
+ },
+ {
+  "id": 362,
+  "name": "Hypothalamic periventricular nuclei Right",
+  "base": "Hypothalamic periventricular nuclei",
+  "hemisphere": "R",
+  "parent": "Hypothalamic periventricular nuclei",
+  "color": [
+   191,
+   69,
+   10
+  ]
+ },
+ {
+  "id": 371,
+  "name": "nucleus SupraGeniculatus Left",
+  "base": "nucleus SupraGeniculatus",
+  "hemisphere": "L",
+  "parent": "nucleus SupraGeniculatus",
+  "color": [
+   191,
+   135,
+   24
+  ]
+ },
+ {
+  "id": 372,
+  "name": "nucleus SupraGeniculatus Right",
+  "base": "nucleus SupraGeniculatus",
+  "hemisphere": "R",
+  "parent": "nucleus SupraGeniculatus",
+  "color": [
+   191,
+   135,
+   24
+  ]
+ },
+ {
+  "id": 381,
+  "name": "nucleus Anterior Ventralis Left",
+  "base": "nucleus Anterior Ventralis",
+  "hemisphere": "L",
+  "parent": "nucleus Anterior Ventralis",
+  "color": [
+   191,
+   100,
+   38
+  ]
+ },
+ {
+  "id": 382,
+  "name": "nucleus Anterior Ventralis Right",
+  "base": "nucleus Anterior Ventralis",
+  "hemisphere": "R",
+  "parent": "nucleus Anterior Ventralis",
+  "color": [
+   191,
+   100,
+   38
+  ]
+ },
+ {
+  "id": 391,
+  "name": "nucleus Habenulae Left",
+  "base": "nucleus Habenulae",
+  "hemisphere": "L",
+  "parent": "nucleus Habenulae",
+  "color": [
+   191,
+   53,
+   182
+  ]
+ },
+ {
+  "id": 392,
+  "name": "nucleus Habenulae Right",
+  "base": "nucleus Habenulae",
+  "hemisphere": "R",
+  "parent": "nucleus Habenulae",
+  "color": [
+   191,
+   53,
+   182
+  ]
+ },
+ {
+  "id": 401,
+  "name": "paraventricular hypothalamic nucleus Left",
+  "base": "paraventricular hypothalamic nucleus",
+  "hemisphere": "L",
+  "parent": "paraventricular hypothalamic nucleus",
+  "color": [
+   67,
+   191,
+   24
+  ]
+ },
+ {
+  "id": 402,
+  "name": "paraventricular hypothalamic nucleus Right",
+  "base": "paraventricular hypothalamic nucleus",
+  "hemisphere": "R",
+  "parent": "paraventricular hypothalamic nucleus",
+  "color": [
+   67,
+   191,
+   24
+  ]
+ },
+ {
+  "id": 411,
+  "name": "stria Medullaris Thalami Left",
+  "base": "stria Medullaris Thalami",
+  "hemisphere": "L",
+  "parent": "stria Medullaris Thalami",
+  "color": [
+   19,
+   191,
+   10
+  ]
+ },
+ {
+  "id": 412,
+  "name": "stria Medullaris Thalami Right",
+  "base": "stria Medullaris Thalami",
+  "hemisphere": "R",
+  "parent": "stria Medullaris Thalami",
+  "color": [
+   19,
+   191,
+   10
+  ]
+ },
+ {
+  "id": 421,
+  "name": "nucleus Centralis Dorsalis Left",
+  "base": "nucleus Centralis Dorsalis",
+  "hemisphere": "L",
+  "parent": "nucleus Centralis Dorsalis",
+  "color": [
+   189,
+   24,
+   191
+  ]
+ },
+ {
+  "id": 422,
+  "name": "nucleus Centralis Dorsalis Right",
+  "base": "nucleus Centralis Dorsalis",
+  "hemisphere": "R",
+  "parent": "nucleus Centralis Dorsalis",
+  "color": [
+   189,
+   24,
+   191
+  ]
+ },
+ {
+  "id": 431,
+  "name": "nucleus InterAnteroMedialis Left",
+  "base": "nucleus InterAnteroMedialis",
+  "hemisphere": "L",
+  "parent": "nucleus InterAnteroMedialis",
+  "color": [
+   174,
+   67,
+   191
+  ]
+ },
+ {
+  "id": 432,
+  "name": "nucleus InterAnteroMedialis Right",
+  "base": "nucleus InterAnteroMedialis",
+  "hemisphere": "R",
+  "parent": "nucleus InterAnteroMedialis",
+  "color": [
+   174,
+   67,
+   191
+  ]
+ },
+ {
+  "id": 441,
+  "name": "nucleus Interstitialis Left",
+  "base": "nucleus Interstitialis",
+  "hemisphere": "L",
+  "parent": "nucleus Interstitialis",
+  "color": [
+   191,
+   158,
+   10
+  ]
+ },
+ {
+  "id": 442,
+  "name": "nucleus Interstitialis Right",
+  "base": "nucleus Interstitialis",
+  "hemisphere": "R",
+  "parent": "nucleus Interstitialis",
+  "color": [
+   191,
+   158,
+   10
+  ]
+ },
+ {
+  "id": 451,
+  "name": "nucleus Ventralis pars Anterioris Left",
+  "base": "nucleus Ventralis pars Anterioris",
+  "hemisphere": "L",
+  "parent": "nucleus Ventralis pars Anterioris",
+  "color": [
+   191,
+   80,
+   53
+  ]
+ },
+ {
+  "id": 452,
+  "name": "nucleus Ventralis pars Anterioris Right",
+  "base": "nucleus Ventralis pars Anterioris",
+  "hemisphere": "R",
+  "parent": "nucleus Ventralis pars Anterioris",
+  "color": [
+   191,
+   80,
+   53
+  ]
+ },
+ {
+  "id": 461,
+  "name": "campi Foreli Left",
+  "base": "campi Foreli",
+  "hemisphere": "L",
+  "parent": "campi Foreli",
+  "color": [
+   38,
+   84,
+   191
+  ]
+ },
+ {
+  "id": 462,
+  "name": "campi Foreli Right",
+  "base": "campi Foreli",
+  "hemisphere": "R",
+  "parent": "campi Foreli",
+  "color": [
+   38,
+   84,
+   191
+  ]
+ },
+ {
+  "id": 471,
+  "name": "nucleus InterMediodorsalis Left",
+  "base": "nucleus InterMediodorsalis",
+  "hemisphere": "L",
+  "parent": "nucleus InterMediodorsalis",
+  "color": [
+   53,
+   191,
+   178
+  ]
+ },
+ {
+  "id": 472,
+  "name": "nucleus InterMediodorsalis Right",
+  "base": "nucleus InterMediodorsalis",
+  "hemisphere": "R",
+  "parent": "nucleus InterMediodorsalis",
+  "color": [
+   53,
+   191,
+   178
+  ]
+ },
+ {
+  "id": 481,
+  "name": "nucleus ParaCentralis Left",
+  "base": "nucleus ParaCentralis",
+  "hemisphere": "L",
+  "parent": "nucleus ParaCentralis",
+  "color": [
+   181,
+   24,
+   191
+  ]
+ },
+ {
+  "id": 482,
+  "name": "nucleus ParaCentralis Right",
+  "base": "nucleus ParaCentralis",
+  "hemisphere": "R",
+  "parent": "nucleus ParaCentralis",
+  "color": [
+   181,
+   24,
+   191
+  ]
+ },
+ {
+  "id": 491,
+  "name": "nucleus Ventralis pars Lateralis Left",
+  "base": "nucleus Ventralis pars Lateralis",
+  "hemisphere": "L",
+  "parent": "nucleus Ventralis pars Lateralis",
+  "color": [
+   75,
+   38,
+   191
+  ]
+ },
+ {
+  "id": 492,
+  "name": "nucleus Ventralis pars Lateralis Right",
+  "base": "nucleus Ventralis pars Lateralis",
+  "hemisphere": "R",
+  "parent": "nucleus Ventralis pars Lateralis",
+  "color": [
+   75,
+   38,
+   191
+  ]
+ },
+ {
+  "id": 501,
+  "name": "nucleus Centrum Medianum Left",
+  "base": "nucleus Centrum Medianum",
+  "hemisphere": "L",
+  "parent": "nucleus Centrum Medianum",
+  "color": [
+   24,
+   48,
+   191
+  ]
+ },
+ {
+  "id": 502,
+  "name": "nucleus Centrum Medianum Right",
+  "base": "nucleus Centrum Medianum",
+  "hemisphere": "R",
+  "parent": "nucleus Centrum Medianum",
+  "color": [
+   24,
+   48,
+   191
+  ]
+ },
+ {
+  "id": 511,
+  "name": "internal Medulary Lamina Left",
+  "base": "internal Medulary Lamina",
+  "hemisphere": "L",
+  "parent": "internal Medulary Lamina",
+  "color": [
+   191,
+   167,
+   10
+  ]
+ },
+ {
+  "id": 512,
+  "name": "internal Medulary Lamina Right",
+  "base": "internal Medulary Lamina",
+  "hemisphere": "R",
+  "parent": "internal Medulary Lamina",
+  "color": [
+   191,
+   167,
+   10
+  ]
+ },
+ {
+  "id": 521,
+  "name": "periventricular hypothalamic nucleus Left",
+  "base": "periventricular hypothalamic nucleus",
+  "hemisphere": "L",
+  "parent": "periventricular hypothalamic nucleus",
+  "color": [
+   129,
+   10,
+   191
+  ]
+ },
+ {
+  "id": 522,
+  "name": "periventricular hypothalamic nucleus Right",
+  "base": "periventricular hypothalamic nucleus",
+  "hemisphere": "R",
+  "parent": "periventricular hypothalamic nucleus",
+  "color": [
+   129,
+   10,
+   191
+  ]
+ },
+ {
+  "id": 531,
+  "name": "nucleus Ventralis Medialis Left",
+  "base": "nucleus Ventralis Medialis",
+  "hemisphere": "L",
+  "parent": "nucleus Ventralis Medialis",
+  "color": [
+   24,
+   39,
+   191
+  ]
+ },
+ {
+  "id": 532,
+  "name": "nucleus Ventralis Medialis Right",
+  "base": "nucleus Ventralis Medialis",
+  "hemisphere": "R",
+  "parent": "nucleus Ventralis Medialis",
+  "color": [
+   24,
+   39,
+   191
+  ]
+ },
+ {
+  "id": 541,
+  "name": "corpus Mamillare mediane Left",
+  "base": "corpus Mamillare mediane",
+  "hemisphere": "L",
+  "parent": "corpus Mamillare mediane",
+  "color": [
+   68,
+   38,
+   191
+  ]
+ },
+ {
+  "id": 542,
+  "name": "corpus Mamillare mediane Right",
+  "base": "corpus Mamillare mediane",
+  "hemisphere": "R",
+  "parent": "corpus Mamillare mediane",
+  "color": [
+   68,
+   38,
+   191
+  ]
+ },
+ {
+  "id": 551,
+  "name": "Nucleus InterVentralis Left",
+  "base": "Nucleus InterVentralis",
+  "hemisphere": "L",
+  "parent": "Nucleus InterVentralis",
+  "color": [
+   24,
+   191,
+   63
+  ]
+ },
+ {
+  "id": 552,
+  "name": "Nucleus InterVentralis Right",
+  "base": "Nucleus InterVentralis",
+  "hemisphere": "R",
+  "parent": "Nucleus InterVentralis",
+  "color": [
+   24,
+   191,
+   63
+  ]
+ },
+ {
+  "id": 561,
+  "name": "nucleus Parafascicularis Left",
+  "base": "nucleus Parafascicularis",
+  "hemisphere": "L",
+  "parent": "nucleus Parafascicularis",
+  "color": [
+   10,
+   185,
+   191
+  ]
+ },
+ {
+  "id": 562,
+  "name": "nucleus Parafascicularis Right",
+  "base": "nucleus Parafascicularis",
+  "hemisphere": "R",
+  "parent": "nucleus Parafascicularis",
+  "color": [
+   10,
+   185,
+   191
+  ]
+ },
+ {
+  "id": 571,
+  "name": "nucleus Ventralis Posterior pars Lateralis Left",
+  "base": "nucleus Ventralis Posterior pars Lateralis",
+  "hemisphere": "L",
+  "parent": "nucleus Ventralis Posterior pars Lateralis",
+  "color": [
+   24,
+   130,
+   191
+  ]
+ },
+ {
+  "id": 572,
+  "name": "nucleus Ventralis Posterior pars Lateralis Right",
+  "base": "nucleus Ventralis Posterior pars Lateralis",
+  "hemisphere": "R",
+  "parent": "nucleus Ventralis Posterior pars Lateralis",
+  "color": [
+   24,
+   130,
+   191
+  ]
+ },
+ {
+  "id": 581,
+  "name": "Corpus Mamillare Lateralis Left",
+  "base": "Corpus Mamillare Lateralis",
+  "hemisphere": "L",
+  "parent": "Corpus Mamillare Lateralis",
+  "color": [
+   28,
+   191,
+   10
+  ]
+ },
+ {
+  "id": 582,
+  "name": "Corpus Mamillare Lateralis Right",
+  "base": "Corpus Mamillare Lateralis",
+  "hemisphere": "R",
+  "parent": "Corpus Mamillare Lateralis",
+  "color": [
+   28,
+   191,
+   10
+  ]
+ },
+ {
+  "id": 591,
+  "name": "nucleus Lateralis pars Dorsalis Left",
+  "base": "nucleus Lateralis pars Dorsalis",
+  "hemisphere": "L",
+  "parent": "nucleus Lateralis pars Dorsalis",
+  "color": [
+   126,
+   191,
+   10
+  ]
+ },
+ {
+  "id": 592,
+  "name": "nucleus Lateralis pars Dorsalis Right",
+  "base": "nucleus Lateralis pars Dorsalis",
+  "hemisphere": "R",
+  "parent": "nucleus Lateralis pars Dorsalis",
+  "color": [
+   126,
+   191,
+   10
+  ]
+ },
+ {
+  "id": 601,
+  "name": "nucleus Pretectalis anterior Left",
+  "base": "nucleus Pretectalis anterior",
+  "hemisphere": "L",
+  "parent": "nucleus Pretectalis anterior",
+  "color": [
+   191,
+   67,
+   141
+  ]
+ },
+ {
+  "id": 602,
+  "name": "nucleus Pretectalis anterior Right",
+  "base": "nucleus Pretectalis anterior",
+  "hemisphere": "R",
+  "parent": "nucleus Pretectalis anterior",
+  "color": [
+   191,
+   67,
+   141
+  ]
+ },
+ {
+  "id": 611,
+  "name": "nucleus Ventralis Posterior pars Medialis Left",
+  "base": "nucleus Ventralis Posterior pars Medialis",
+  "hemisphere": "L",
+  "parent": "nucleus Ventralis Posterior pars Medialis",
+  "color": [
+   191,
+   53,
+   175
+  ]
+ },
+ {
+  "id": 612,
+  "name": "nucleus Ventralis Posterior pars Medialis Right",
+  "base": "nucleus Ventralis Posterior pars Medialis",
+  "hemisphere": "R",
+  "parent": "nucleus Ventralis Posterior pars Medialis",
+  "color": [
+   191,
+   53,
+   175
+  ]
+ },
+ {
+  "id": 621,
+  "name": "fasciculus MamilloThalamicus Left",
+  "base": "fasciculus MamilloThalamicus",
+  "hemisphere": "L",
+  "parent": "fasciculus MamilloThalamicus",
+  "color": [
+   53,
+   130,
+   191
+  ]
+ },
+ {
+  "id": 622,
+  "name": "fasciculus MamilloThalamicus Right",
+  "base": "fasciculus MamilloThalamicus",
+  "hemisphere": "R",
+  "parent": "fasciculus MamilloThalamicus",
+  "color": [
+   53,
+   130,
+   191
+  ]
+ },
+ {
+  "id": 631,
+  "name": "lamina Medulary External Left",
+  "base": "lamina Medulary External",
+  "hemisphere": "L",
+  "parent": "lamina Medulary External",
+  "color": [
+   191,
+   10,
+   156
+  ]
+ },
+ {
+  "id": 632,
+  "name": "Lamina Medulary External Right",
+  "base": "Lamina Medulary External",
+  "hemisphere": "R",
+  "parent": "Lamina Medulary External",
+  "color": [
+   191,
+   67,
+   135
+  ]
+ },
+ {
+  "id": 641,
+  "name": "nucleus pulvinare Left",
+  "base": "nucleus pulvinare",
+  "hemisphere": "L",
+  "parent": "nucleus pulvinare",
+  "color": [
+   38,
+   167,
+   191
+  ]
+ },
+ {
+  "id": 642,
+  "name": "nucleus pulvinare Right",
+  "base": "nucleus pulvinare",
+  "hemisphere": "R",
+  "parent": "nucleus pulvinare",
+  "color": [
+   38,
+   167,
+   191
+  ]
+ },
+ {
+  "id": 651,
+  "name": "nucleus ventralis Medularis Left",
+  "base": "nucleus ventralis Medularis",
+  "hemisphere": "L",
+  "parent": "nucleus ventralis Medularis",
+  "color": [
+   53,
+   191,
+   185
+  ]
+ },
+ {
+  "id": 652,
+  "name": "nucleus ventralis Medularis Right",
+  "base": "nucleus ventralis Medularis",
+  "hemisphere": "R",
+  "parent": "nucleus ventralis Medularis",
+  "color": [
+   53,
+   191,
+   185
+  ]
+ },
+ {
+  "id": 661,
+  "name": "Fasciculus Retroflexus Left",
+  "base": "Fasciculus Retroflexus",
+  "hemisphere": "L",
+  "parent": "Fasciculus Retroflexus",
+  "color": [
+   67,
+   94,
+   191
+  ]
+ },
+ {
+  "id": 662,
+  "name": "Fasciculus Retroflexus Right",
+  "base": "Fasciculus Retroflexus",
+  "hemisphere": "R",
+  "parent": "Fasciculus Retroflexus",
+  "color": [
+   67,
+   94,
+   191
+  ]
+ },
+ {
+  "id": 671,
+  "name": "nucleus Lateralis pars Posterioris Left",
+  "base": "nucleus Lateralis pars Posterioris",
+  "hemisphere": "L",
+  "parent": "nucleus Lateralis pars Posterioris",
+  "color": [
+   53,
+   191,
+   103
+  ]
+ },
+ {
+  "id": 672,
+  "name": "nucleus Lateralis pars Posterioris Right",
+  "base": "nucleus Lateralis pars Posterioris",
+  "hemisphere": "R",
+  "parent": "nucleus Lateralis pars Posterioris",
+  "color": [
+   53,
+   191,
+   103
+  ]
+ },
+ {
+  "id": 681,
+  "name": "Nuclei Paraventricularis Thalami Left",
+  "base": "Nuclei Paraventricularis Thalami",
+  "hemisphere": "L",
+  "parent": "Nuclei Paraventricularis Thalami",
+  "color": [
+   24,
+   191,
+   71
+  ]
+ },
+ {
+  "id": 682,
+  "name": "Nuclei Paraventricularis Thalami Right",
+  "base": "Nuclei Paraventricularis Thalami",
+  "hemisphere": "R",
+  "parent": "Nuclei Paraventricularis Thalami",
+  "color": [
+   24,
+   191,
+   71
+  ]
+ },
+ {
+  "id": 691,
+  "name": "Zona Incerta Left",
+  "base": "Zona Incerta",
+  "hemisphere": "L",
+  "parent": "Zona Incerta",
+  "color": [
+   38,
+   191,
+   133
+  ]
+ },
+ {
+  "id": 692,
+  "name": "zona Incerta Right",
+  "base": "zona Incerta",
+  "hemisphere": "R",
+  "parent": "zona Incerta",
+  "color": [
+   10,
+   191,
+   90
+  ]
+ },
+ {
+  "id": 701,
+  "name": "nucleus centroMedialis Left",
+  "base": "nucleus centroMedialis",
+  "hemisphere": "L",
+  "parent": "nucleus centroMedialis",
+  "color": [
+   166,
+   191,
+   24
+  ]
+ },
+ {
+  "id": 702,
+  "name": "nucleus centroMedialis Right",
+  "base": "nucleus centroMedialis",
+  "hemisphere": "R",
+  "parent": "nucleus centroMedialis",
+  "color": [
+   166,
+   191,
+   24
+  ]
+ },
+ {
+  "id": 711,
+  "name": "lateral ventricles Left",
+  "base": "lateral ventricles",
+  "hemisphere": "L",
+  "parent": "lateral ventricles",
+  "color": [
+   191,
+   155,
+   53
+  ]
+ },
+ {
+  "id": 712,
+  "name": "lateral ventricles Right",
+  "base": "lateral ventricles",
+  "hemisphere": "R",
+  "parent": "lateral ventricles",
+  "color": [
+   191,
+   155,
+   53
+  ]
+ },
+ {
+  "id": 721,
+  "name": "Internal capsule Left",
+  "base": "Internal capsule",
+  "hemisphere": "L",
+  "parent": "Internal capsule",
+  "color": [
+   191,
+   126,
+   24
+  ]
+ },
+ {
+  "id": 722,
+  "name": "Internal capsule Right",
+  "base": "Internal capsule",
+  "hemisphere": "R",
+  "parent": "Internal capsule",
+  "color": [
+   191,
+   126,
+   24
+  ]
+ },
+ {
+  "id": 731,
+  "name": "Stria Terminalis Left",
+  "base": "Stria Terminalis",
+  "hemisphere": "L",
+  "parent": "Stria Terminalis",
+  "color": [
+   10,
+   191,
+   188
+  ]
+ },
+ {
+  "id": 732,
+  "name": "Stria Terminalis Right",
+  "base": "Stria Terminalis",
+  "hemisphere": "R",
+  "parent": "Stria Terminalis",
+  "color": [
+   10,
+   191,
+   188
+  ]
+ },
+ {
+  "id": 741,
+  "name": "Amygdala Left",
+  "base": "Amygdala",
+  "hemisphere": "L",
+  "parent": "Amygdala",
+  "color": [
+   191,
+   67,
+   68
+  ]
+ },
+ {
+  "id": 742,
+  "name": "Amygdala Right",
+  "base": "Amygdala",
+  "hemisphere": "R",
+  "parent": "Amygdala",
+  "color": [
+   191,
+   67,
+   68
+  ]
+ },
+ {
+  "id": 751,
+  "name": "Hippocampus Left",
+  "base": "Hippocampus",
+  "hemisphere": "L",
+  "parent": "Hippocampus",
+  "color": [
+   10,
+   191,
+   99
+  ]
+ },
+ {
+  "id": 752,
+  "name": "Hippocampus Right",
+  "base": "Hippocampus",
+  "hemisphere": "R",
+  "parent": "Hippocampus",
+  "color": [
+   10,
+   191,
+   99
+  ]
+ },
+ {
+  "id": 761,
+  "name": "Putamen Left",
+  "base": "Putamen",
+  "hemisphere": "L",
+  "parent": "Putamen",
+  "color": [
+   191,
+   10,
+   147
+  ]
+ },
+ {
+  "id": 762,
+  "name": "Putamen Right",
+  "base": "Putamen",
+  "hemisphere": "R",
+  "parent": "Putamen",
+  "color": [
+   191,
+   10,
+   147
+  ]
+ },
+ {
+  "id": 771,
+  "name": "Claustrum Left",
+  "base": "Claustrum",
+  "hemisphere": "L",
+  "parent": "Claustrum",
+  "color": [
+   99,
+   24,
+   191
+  ]
+ },
+ {
+  "id": 772,
+  "name": "Claustrum Right",
+  "base": "Claustrum",
+  "hemisphere": "R",
+  "parent": "Claustrum",
+  "color": [
+   99,
+   24,
+   191
+  ]
+ },
+ {
+  "id": 781,
+  "name": "Caudate Left",
+  "base": "Caudate",
+  "hemisphere": "L",
+  "parent": "Caudate",
+  "color": [
+   38,
+   191,
+   43
+  ]
+ },
+ {
+  "id": 782,
+  "name": "Caudate Right",
+  "base": "Caudate",
+  "hemisphere": "R",
+  "parent": "Caudate",
+  "color": [
+   38,
+   191,
+   43
+  ]
+ },
+ {
+  "id": 791,
+  "name": "Periaqueductal grey substance Left",
+  "base": "Periaqueductal grey substance",
+  "hemisphere": "L",
+  "parent": "Periaqueductal grey substance",
+  "color": [
+   67,
+   162,
+   191
+  ]
+ },
+ {
+  "id": 792,
+  "name": "Periaqueductal grey substance Right",
+  "base": "Periaqueductal grey substance",
+  "hemisphere": "R",
+  "parent": "Periaqueductal grey substance",
+  "color": [
+   67,
+   162,
+   191
+  ]
+ },
+ {
+  "id": 801,
+  "name": "Optical pathway Left",
+  "base": "Optical pathway",
+  "hemisphere": "L",
+  "parent": "Optical pathway",
+  "color": [
+   191,
+   53,
+   107
+  ]
+ },
+ {
+  "id": 802,
+  "name": "Optical pathway Right",
+  "base": "Optical pathway",
+  "hemisphere": "R",
+  "parent": "Optical pathway",
+  "color": [
+   191,
+   53,
+   107
+  ]
+ },
+ {
+  "id": 811,
+  "name": "Lateral Septum Left",
+  "base": "Lateral Septum",
+  "hemisphere": "L",
+  "parent": "Lateral Septum",
+  "color": [
+   191,
+   127,
+   67
+  ]
+ },
+ {
+  "id": 812,
+  "name": "Lateral Septum Right",
+  "base": "Lateral Septum",
+  "hemisphere": "R",
+  "parent": "Lateral Septum",
+  "color": [
+   191,
+   127,
+   67
+  ]
+ },
+ {
+  "id": 821,
+  "name": "Hypothalamic nuclei Left",
+  "base": "Hypothalamic nuclei",
+  "hemisphere": "L",
+  "parent": "Hypothalamic nuclei",
+  "color": [
+   24,
+   191,
+   154
+  ]
+ },
+ {
+  "id": 822,
+  "name": "Hypothalamic nuclei Right",
+  "base": "Hypothalamic nuclei",
+  "hemisphere": "R",
+  "parent": "Hypothalamic nuclei",
+  "color": [
+   24,
+   191,
+   154
+  ]
+ },
+ {
+  "id": 831,
+  "name": "Pineal gland Left",
+  "base": "Pineal gland",
+  "hemisphere": "L",
+  "parent": "Pineal gland",
+  "color": [
+   21,
+   10,
+   191
+  ]
+ },
+ {
+  "id": 832,
+  "name": "Pineal gland Right",
+  "base": "Pineal gland",
+  "hemisphere": "R",
+  "parent": "Pineal gland",
+  "color": [
+   21,
+   10,
+   191
+  ]
+ },
+ {
+  "id": 841,
+  "name": "White matter bundles Left",
+  "base": "White matter bundles",
+  "hemisphere": "L",
+  "parent": "White matter bundles",
+  "color": [
+   67,
+   88,
+   191
+  ]
+ },
+ {
+  "id": 842,
+  "name": "White matter bundles Right",
+  "base": "White matter bundles",
+  "hemisphere": "R",
+  "parent": "White matter bundles",
+  "color": [
+   67,
+   88,
+   191
+  ]
+ },
+ {
+  "id": 851,
+  "name": "Nucleus of vertical limb of diagonal band Left",
+  "base": "Nucleus of vertical limb of diagonal band",
+  "hemisphere": "L",
+  "parent": "Nucleus of vertical limb of diagonal band",
+  "color": [
+   24,
+   191,
+   162
+  ]
+ },
+ {
+  "id": 852,
+  "name": "Nucleus of vertical limb of diagonal band Right",
+  "base": "Nucleus of vertical limb of diagonal band",
+  "hemisphere": "R",
+  "parent": "Nucleus of vertical limb of diagonal band",
+  "color": [
+   24,
+   191,
+   162
+  ]
+ },
+ {
+  "id": 861,
+  "name": "Septum Left",
+  "base": "Septum",
+  "hemisphere": "L",
+  "parent": "Septum",
+  "color": [
+   158,
+   38,
+   191
+  ]
+ },
+ {
+  "id": 862,
+  "name": "Septum Right",
+  "base": "Septum",
+  "hemisphere": "R",
+  "parent": "Septum",
+  "color": [
+   158,
+   38,
+   191
+  ]
+ },
+ {
+  "id": 871,
+  "name": "Anterior commissure Left",
+  "base": "Anterior commissure",
+  "hemisphere": "L",
+  "parent": "Anterior commissure",
+  "color": [
+   67,
+   191,
+   86
+  ]
+ },
+ {
+  "id": 872,
+  "name": "Anterior commissure Right",
+  "base": "Anterior commissure",
+  "hemisphere": "R",
+  "parent": "Anterior commissure",
+  "color": [
+   67,
+   191,
+   86
+  ]
+ },
+ {
+  "id": 881,
+  "name": "Fornix Left",
+  "base": "Fornix",
+  "hemisphere": "L",
+  "parent": "Fornix",
+  "color": [
+   191,
+   24,
+   103
+  ]
+ },
+ {
+  "id": 882,
+  "name": "Fornix Right",
+  "base": "Fornix",
+  "hemisphere": "R",
+  "parent": "Fornix",
+  "color": [
+   191,
+   24,
+   103
+  ]
+ },
+ {
+  "id": 891,
+  "name": "Hypothalamic paraventricular nucleus Left",
+  "base": "Hypothalamic paraventricular nucleus",
+  "hemisphere": "L",
+  "parent": "Hypothalamic paraventricular nucleus",
+  "color": [
+   191,
+   148,
+   53
+  ]
+ },
+ {
+  "id": 892,
+  "name": "Hypothalamic paraventricular nucleus Right",
+  "base": "Hypothalamic paraventricular nucleus",
+  "hemisphere": "R",
+  "parent": "Hypothalamic paraventricular nucleus",
+  "color": [
+   191,
+   148,
+   53
+  ]
+ },
+ {
+  "id": 901,
+  "name": "Nucleus Accumbens Left",
+  "base": "Nucleus Accumbens",
+  "hemisphere": "L",
+  "parent": "Nucleus Accumbens",
+  "color": [
+   157,
+   191,
+   24
+  ]
+ },
+ {
+  "id": 902,
+  "name": "Nucleus Accumbens Right",
+  "base": "Nucleus Accumbens",
+  "hemisphere": "R",
+  "parent": "Nucleus Accumbens",
+  "color": [
+   157,
+   191,
+   24
+  ]
+ },
+ {
+  "id": 911,
+  "name": "Corpus Callosum Left",
+  "base": "Corpus Callosum",
+  "hemisphere": "L",
+  "parent": "Corpus Callosum",
+  "color": [
+   191,
+   38,
+   142
+  ]
+ },
+ {
+  "id": 912,
+  "name": "Corpus Callosum Right",
+  "base": "Corpus Callosum",
+  "hemisphere": "R",
+  "parent": "Corpus Callosum",
+  "color": [
+   191,
+   38,
+   142
+  ]
+ },
+ {
+  "id": 921,
+  "name": "Central canal Left",
+  "base": "Central canal",
+  "hemisphere": "L",
+  "parent": "Central canal",
+  "color": [
+   57,
+   53,
+   191
+  ]
+ },
+ {
+  "id": 922,
+  "name": "Central canal Right",
+  "base": "Central canal",
+  "hemisphere": "R",
+  "parent": "Central canal",
+  "color": [
+   57,
+   53,
+   191
+  ]
+ },
+ {
+  "id": 931,
+  "name": "Preoptic hypothalamic area Left",
+  "base": "Preoptic hypothalamic area",
+  "hemisphere": "L",
+  "parent": "Preoptic hypothalamic area",
+  "color": [
+   151,
+   38,
+   191
+  ]
+ },
+ {
+  "id": 932,
+  "name": "Preoptic hypothalamic area Right",
+  "base": "Preoptic hypothalamic area",
+  "hemisphere": "R",
+  "parent": "Preoptic hypothalamic area",
+  "color": [
+   151,
+   38,
+   191
+  ]
+ },
+ {
+  "id": 941,
+  "name": "Striatum Left",
+  "base": "Striatum",
+  "hemisphere": "L",
+  "parent": "Striatum",
+  "color": [
+   67,
+   191,
+   154
+  ]
+ },
+ {
+  "id": 942,
+  "name": "Striatum Right",
+  "base": "Striatum",
+  "hemisphere": "R",
+  "parent": "Striatum",
+  "color": [
+   67,
+   191,
+   154
+  ]
+ },
+ {
+  "id": 951,
+  "name": "Subfornical Organ Left",
+  "base": "Subfornical Organ",
+  "hemisphere": "L",
+  "parent": "Subfornical Organ",
+  "color": [
+   38,
+   174,
+   191
+  ]
+ },
+ {
+  "id": 952,
+  "name": "Subfornical Organ Right",
+  "base": "Subfornical Organ",
+  "hemisphere": "R",
+  "parent": "Subfornical Organ",
+  "color": [
+   38,
+   174,
+   191
+  ]
+ },
+ {
+  "id": 961,
+  "name": "Arbor Vitae Left",
+  "base": "Arbor Vitae",
+  "hemisphere": "L",
+  "parent": "Arbor Vitae",
+  "color": [
+   191,
+   38,
+   66
+  ]
+ },
+ {
+  "id": 962,
+  "name": "Arbor Vitae Right",
+  "base": "Arbor Vitae",
+  "hemisphere": "R",
+  "parent": "Arbor Vitae",
+  "color": [
+   191,
+   38,
+   66
+  ]
+ },
+ {
+  "id": 971,
+  "name": "Medulla Oblongata Left",
+  "base": "Medulla Oblongata",
+  "hemisphere": "L",
+  "parent": "Medulla Oblongata",
+  "color": [
+   53,
+   123,
+   191
+  ]
+ },
+ {
+  "id": 972,
+  "name": "Medulla Oblongata Right",
+  "base": "Medulla Oblongata",
+  "hemisphere": "R",
+  "parent": "Medulla Oblongata",
+  "color": [
+   53,
+   123,
+   191
+  ]
+ },
+ {
+  "id": 981,
+  "name": "Pons Left",
+  "base": "Pons",
+  "hemisphere": "L",
+  "parent": "Pons",
+  "color": [
+   77,
+   191,
+   53
+  ]
+ },
+ {
+  "id": 982,
+  "name": "Pons Right",
+  "base": "Pons",
+  "hemisphere": "R",
+  "parent": "Pons",
+  "color": [
+   77,
+   191,
+   53
+  ]
+ },
+ {
+  "id": 991,
+  "name": "MidBrain Left",
+  "base": "MidBrain",
+  "hemisphere": "L",
+  "parent": "MidBrain",
+  "color": [
+   191,
+   10,
+   57
+  ]
+ },
+ {
+  "id": 992,
+  "name": "MidBrain Right",
+  "base": "MidBrain",
+  "hemisphere": "R",
+  "parent": "MidBrain",
+  "color": [
+   191,
+   10,
+   57
+  ]
+ },
+ {
+  "id": 1000,
+  "name": "Pituitary",
+  "base": "Pituitary",
+  "hemisphere": null,
+  "parent": "Pituitary",
+  "color": [
+   53,
+   55,
+   191
+  ]
+ },
+ {
+  "id": 1010,
+  "name": "3rd ventricle",
+  "base": "3rd ventricle",
+  "hemisphere": null,
+  "parent": "3rd ventricle",
+  "color": [
+   191,
+   183,
+   38
+  ]
+ },
+ {
+  "id": 1021,
+  "name": "Rhinocele Left",
+  "base": "Rhinocele",
+  "hemisphere": "L",
+  "parent": "Rhinocele",
+  "color": [
+   38,
+   92,
+   191
+  ]
+ },
+ {
+  "id": 1022,
+  "name": "Rhinocele Right",
+  "base": "Rhinocele",
+  "hemisphere": "R",
+  "parent": "Rhinocele",
+  "color": [
+   38,
+   92,
+   191
+  ]
+ }
+]

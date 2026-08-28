@@ -1,0 +1,2678 @@
+[
+ {
+  "id": 9999,
+  "name": "Clear Label",
+  "base": "Clear Label",
+  "hemisphere": null,
+  "parent": "Clear Label",
+  "color": [
+   0,
+   0,
+   0
+  ]
+ },
+ {
+  "id": 1,
+  "name": "corticofugal tract and corona radiata",
+  "base": "corticofugal tract and corona radiata",
+  "hemisphere": null,
+  "parent": "corticofugal tract and corona radiata",
+  "color": [
+   10,
+   191,
+   81
+  ]
+ },
+ {
+  "id": 3,
+  "name": "Subthalamic nucleus",
+  "base": "Subthalamic nucleus",
+  "hemisphere": null,
+  "parent": "Subthalamic nucleus",
+  "color": [
+   107,
+   67,
+   191
+  ]
+ },
+ {
+  "id": 4,
+  "name": "Molecular cell layer of the cerebellum",
+  "base": "Molecular cell layer of the cerebellum",
+  "hemisphere": null,
+  "parent": "Molecular cell layer of the cerebellum",
+  "color": [
+   38,
+   191,
+   50
+  ]
+ },
+ {
+  "id": 5,
+  "name": "Cerebellum, unspecified",
+  "base": "Cerebellum, unspecified",
+  "hemisphere": null,
+  "parent": "Cerebellum, unspecified",
+  "color": [
+   191,
+   73,
+   53
+  ]
+ },
+ {
+  "id": 6,
+  "name": "alveus of the hippocampus",
+  "base": "alveus of the hippocampus",
+  "hemisphere": null,
+  "parent": "alveus of the hippocampus",
+  "color": [
+   10,
+   191,
+   188
+  ]
+ },
+ {
+  "id": 7,
+  "name": "inferior cerebellar peduncle",
+  "base": "inferior cerebellar peduncle",
+  "hemisphere": null,
+  "parent": "inferior cerebellar peduncle",
+  "color": [
+   53,
+   55,
+   191
+  ]
+ },
+ {
+  "id": 10,
+  "name": "Cingulate area 2",
+  "base": "Cingulate area 2",
+  "hemisphere": null,
+  "parent": "Cingulate area 2",
+  "color": [
+   38,
+   92,
+   191
+  ]
+ },
+ {
+  "id": 32,
+  "name": "Entopeduncular nucleus",
+  "base": "Entopeduncular nucleus",
+  "hemisphere": null,
+  "parent": "Entopeduncular nucleus",
+  "color": [
+   191,
+   168,
+   38
+  ]
+ },
+ {
+  "id": 33,
+  "name": "Ventricular system, unspecified",
+  "base": "Ventricular system, unspecified",
+  "hemisphere": null,
+  "parent": "Ventricular system, unspecified",
+  "color": [
+   67,
+   88,
+   191
+  ]
+ },
+ {
+  "id": 34,
+  "name": "medial lemniscus, unspecified",
+  "base": "medial lemniscus, unspecified",
+  "hemisphere": null,
+  "parent": "medial lemniscus, unspecified",
+  "color": [
+   67,
+   191,
+   148
+  ]
+ },
+ {
+  "id": 35,
+  "name": "facial nerve, unspecified",
+  "base": "facial nerve, unspecified",
+  "hemisphere": null,
+  "parent": "facial nerve, unspecified",
+  "color": [
+   91,
+   191,
+   53
+  ]
+ },
+ {
+  "id": 36,
+  "name": "anterior commissure, anterior limb",
+  "base": "anterior commissure, anterior limb",
+  "hemisphere": null,
+  "parent": "anterior commissure, anterior limb",
+  "color": [
+   45,
+   191,
+   10
+  ]
+ },
+ {
+  "id": 37,
+  "name": "anterior commissure, posterior limb",
+  "base": "anterior commissure, posterior limb",
+  "hemisphere": null,
+  "parent": "anterior commissure, posterior limb",
+  "color": [
+   53,
+   191,
+   96
+  ]
+ },
+ {
+  "id": 38,
+  "name": "ventral hippocampal commissure",
+  "base": "ventral hippocampal commissure",
+  "hemisphere": null,
+  "parent": "ventral hippocampal commissure",
+  "color": [
+   67,
+   168,
+   191
+  ]
+ },
+ {
+  "id": 40,
+  "name": "Septal region",
+  "base": "Septal region",
+  "hemisphere": null,
+  "parent": "Septal region",
+  "color": [
+   38,
+   191,
+   118
+  ]
+ },
+ {
+  "id": 41,
+  "name": "optic nerve",
+  "base": "optic nerve",
+  "hemisphere": null,
+  "parent": "optic nerve",
+  "color": [
+   152,
+   191,
+   53
+  ]
+ },
+ {
+  "id": 42,
+  "name": "optic tract and optic chiasm",
+  "base": "optic tract and optic chiasm",
+  "hemisphere": null,
+  "parent": "optic tract and optic chiasm",
+  "color": [
+   189,
+   24,
+   191
+  ]
+ },
+ {
+  "id": 43,
+  "name": "Pineal gland",
+  "base": "Pineal gland",
+  "hemisphere": null,
+  "parent": "Pineal gland",
+  "color": [
+   117,
+   191,
+   10
+  ]
+ },
+ {
+  "id": 45,
+  "name": "Spinal cord",
+  "base": "Spinal cord",
+  "hemisphere": null,
+  "parent": "Spinal cord",
+  "color": [
+   191,
+   67,
+   80
+  ]
+ },
+ {
+  "id": 46,
+  "name": "commissure of the superior colliculus",
+  "base": "commissure of the superior colliculus",
+  "hemisphere": null,
+  "parent": "commissure of the superior colliculus",
+  "color": [
+   126,
+   53,
+   191
+  ]
+ },
+ {
+  "id": 47,
+  "name": "Brainstem, unspecified",
+  "base": "Brainstem, unspecified",
+  "hemisphere": null,
+  "parent": "Brainstem, unspecified",
+  "color": [
+   182,
+   191,
+   24
+  ]
+ },
+ {
+  "id": 48,
+  "name": "Hypothalamic region, unspecified",
+  "base": "Hypothalamic region, unspecified",
+  "hemisphere": null,
+  "parent": "Hypothalamic region, unspecified",
+  "color": [
+   19,
+   191,
+   10
+  ]
+ },
+ {
+  "id": 50,
+  "name": "Superficial gray layer of the superior colliculus",
+  "base": "Superficial gray layer of the superior colliculus",
+  "hemisphere": null,
+  "parent": "Superficial gray layer of the superior colliculus",
+  "color": [
+   191,
+   67,
+   141
+  ]
+ },
+ {
+  "id": 51,
+  "name": "Periaqueductal gray",
+  "base": "Periaqueductal gray",
+  "hemisphere": null,
+  "parent": "Periaqueductal gray",
+  "color": [
+   191,
+   10,
+   165
+  ]
+ },
+ {
+  "id": 52,
+  "name": "fornix",
+  "base": "fornix",
+  "hemisphere": null,
+  "parent": "fornix",
+  "color": [
+   191,
+   188,
+   67
+  ]
+ },
+ {
+  "id": 53,
+  "name": "mammillotegmental tract",
+  "base": "mammillotegmental tract",
+  "hemisphere": null,
+  "parent": "mammillotegmental tract",
+  "color": [
+   10,
+   105,
+   191
+  ]
+ },
+ {
+  "id": 54,
+  "name": "commissural stria terminalis",
+  "base": "commissural stria terminalis",
+  "hemisphere": null,
+  "parent": "commissural stria terminalis",
+  "color": [
+   135,
+   191,
+   10
+  ]
+ },
+ {
+  "id": 55,
+  "name": "Deeper layers of the superior colliculus",
+  "base": "Deeper layers of the superior colliculus",
+  "hemisphere": null,
+  "parent": "Deeper layers of the superior colliculus",
+  "color": [
+   24,
+   191,
+   55
+  ]
+ },
+ {
+  "id": 56,
+  "name": "Periventricular gray",
+  "base": "Periventricular gray",
+  "hemisphere": null,
+  "parent": "Periventricular gray",
+  "color": [
+   53,
+   191,
+   178
+  ]
+ },
+ {
+  "id": 57,
+  "name": "genu of the facial nerve",
+  "base": "genu of the facial nerve",
+  "hemisphere": null,
+  "parent": "genu of the facial nerve",
+  "color": [
+   38,
+   84,
+   191
+  ]
+ },
+ {
+  "id": 58,
+  "name": "Pontine nuclei",
+  "base": "Pontine nuclei",
+  "hemisphere": null,
+  "parent": "Pontine nuclei",
+  "color": [
+   191,
+   10,
+   156
+  ]
+ },
+ {
+  "id": 59,
+  "name": "fimbria of the hippocampus",
+  "base": "fimbria of the hippocampus",
+  "hemisphere": null,
+  "parent": "fimbria of the hippocampus",
+  "color": [
+   191,
+   36,
+   24
+  ]
+ },
+ {
+  "id": 60,
+  "name": "fasciculus retroflexus",
+  "base": "fasciculus retroflexus",
+  "hemisphere": null,
+  "parent": "fasciculus retroflexus",
+  "color": [
+   119,
+   53,
+   191
+  ]
+ },
+ {
+  "id": 61,
+  "name": "stria medullaris thalami",
+  "base": "stria medullaris thalami",
+  "hemisphere": null,
+  "parent": "stria medullaris thalami",
+  "color": [
+   36,
+   191,
+   10
+  ]
+ },
+ {
+  "id": 62,
+  "name": "stria terminalis",
+  "base": "stria terminalis",
+  "hemisphere": null,
+  "parent": "stria terminalis",
+  "color": [
+   38,
+   182,
+   191
+  ]
+ },
+ {
+  "id": 63,
+  "name": "posterior commissure",
+  "base": "posterior commissure",
+  "hemisphere": null,
+  "parent": "posterior commissure",
+  "color": [
+   191,
+   183,
+   38
+  ]
+ },
+ {
+  "id": 64,
+  "name": "Glomerular layer of the accessory olfactory bulb",
+  "base": "Glomerular layer of the accessory olfactory bulb",
+  "hemisphere": null,
+  "parent": "Glomerular layer of the accessory olfactory bulb",
+  "color": [
+   41,
+   191,
+   38
+  ]
+ },
+ {
+  "id": 65,
+  "name": "Glomerular layer of the olfactory bulb",
+  "base": "Glomerular layer of the olfactory bulb",
+  "hemisphere": null,
+  "parent": "Glomerular layer of the olfactory bulb",
+  "color": [
+   191,
+   155,
+   53
+  ]
+ },
+ {
+  "id": 66,
+  "name": "Olfactory bulb, unspecified",
+  "base": "Olfactory bulb, unspecified",
+  "hemisphere": null,
+  "parent": "Olfactory bulb, unspecified",
+  "color": [
+   157,
+   191,
+   24
+  ]
+ },
+ {
+  "id": 67,
+  "name": "corpus callosum and associated subcortical white matter",
+  "base": "corpus callosum and associated subcortical white matter",
+  "hemisphere": null,
+  "parent": "corpus callosum and associated subcortical white matter",
+  "color": [
+   144,
+   191,
+   10
+  ]
+ },
+ {
+  "id": 68,
+  "name": "brachium of the superior colliculus",
+  "base": "brachium of the superior colliculus",
+  "hemisphere": null,
+  "parent": "brachium of the superior colliculus",
+  "color": [
+   30,
+   10,
+   191
+  ]
+ },
+ {
+  "id": 69,
+  "name": "inferior colliculus, commissure",
+  "base": "inferior colliculus, commissure",
+  "hemisphere": null,
+  "parent": "inferior colliculus, commissure",
+  "color": [
+   173,
+   191,
+   53
+  ]
+ },
+ {
+  "id": 70,
+  "name": "Central canal",
+  "base": "Central canal",
+  "hemisphere": null,
+  "parent": "Central canal",
+  "color": [
+   126,
+   191,
+   10
+  ]
+ },
+ {
+  "id": 71,
+  "name": "Interpeduncular nucleus",
+  "base": "Interpeduncular nucleus",
+  "hemisphere": null,
+  "parent": "Interpeduncular nucleus",
+  "color": [
+   24,
+   191,
+   137
+  ]
+ },
+ {
+  "id": 72,
+  "name": "ascending fibers of the facial nerve",
+  "base": "ascending fibers of the facial nerve",
+  "hemisphere": null,
+  "parent": "ascending fibers of the facial nerve",
+  "color": [
+   191,
+   67,
+   68
+  ]
+ },
+ {
+  "id": 73,
+  "name": "anterior commissure, intrabulbar part",
+  "base": "anterior commissure, intrabulbar part",
+  "hemisphere": null,
+  "parent": "anterior commissure, intrabulbar part",
+  "color": [
+   191,
+   38,
+   149
+  ]
+ },
+ {
+  "id": 74,
+  "name": "Inferior olive",
+  "base": "Inferior olive",
+  "hemisphere": null,
+  "parent": "Inferior olive",
+  "color": [
+   191,
+   53,
+   100
+  ]
+ },
+ {
+  "id": 75,
+  "name": "Spinal trigeminal nucleus",
+  "base": "Spinal trigeminal nucleus",
+  "hemisphere": null,
+  "parent": "Spinal trigeminal nucleus",
+  "color": [
+   84,
+   191,
+   53
+  ]
+ },
+ {
+  "id": 76,
+  "name": "spinal trigeminal tract",
+  "base": "spinal trigeminal tract",
+  "hemisphere": null,
+  "parent": "spinal trigeminal tract",
+  "color": [
+   180,
+   67,
+   191
+  ]
+ },
+ {
+  "id": 77,
+  "name": "Frontal association cortex",
+  "base": "Frontal association cortex",
+  "hemisphere": null,
+  "parent": "Frontal association cortex",
+  "color": [
+   24,
+   191,
+   154
+  ]
+ },
+ {
+  "id": 78,
+  "name": "middle cerebellar peduncle",
+  "base": "middle cerebellar peduncle",
+  "hemisphere": null,
+  "parent": "middle cerebellar peduncle",
+  "color": [
+   57,
+   53,
+   191
+  ]
+ },
+ {
+  "id": 79,
+  "name": "transverse fibers of the pons",
+  "base": "transverse fibers of the pons",
+  "hemisphere": null,
+  "parent": "transverse fibers of the pons",
+  "color": [
+   98,
+   191,
+   53
+  ]
+ },
+ {
+  "id": 80,
+  "name": "habenular commissure",
+  "base": "habenular commissure",
+  "hemisphere": null,
+  "parent": "habenular commissure",
+  "color": [
+   136,
+   38,
+   191
+  ]
+ },
+ {
+  "id": 81,
+  "name": "Nucleus of the stria medullaris",
+  "base": "Nucleus of the stria medullaris",
+  "hemisphere": null,
+  "parent": "Nucleus of the stria medullaris",
+  "color": [
+   38,
+   191,
+   133
+  ]
+ },
+ {
+  "id": 82,
+  "name": "Basal forebrain region, unspecified",
+  "base": "Basal forebrain region, unspecified",
+  "hemisphere": null,
+  "parent": "Basal forebrain region, unspecified",
+  "color": [
+   191,
+   10,
+   49
+  ]
+ },
+ {
+  "id": 83,
+  "name": "supraoptic decussation",
+  "base": "supraoptic decussation",
+  "hemisphere": null,
+  "parent": "supraoptic decussation",
+  "color": [
+   159,
+   191,
+   53
+  ]
+ },
+ {
+  "id": 84,
+  "name": "medial lemniscus decussation",
+  "base": "medial lemniscus decussation",
+  "hemisphere": null,
+  "parent": "medial lemniscus decussation",
+  "color": [
+   117,
+   191,
+   38
+  ]
+ },
+ {
+  "id": 85,
+  "name": "pyramidal decussation",
+  "base": "pyramidal decussation",
+  "hemisphere": null,
+  "parent": "pyramidal decussation",
+  "color": [
+   112,
+   53,
+   191
+  ]
+ },
+ {
+  "id": 93,
+  "name": "Bed nucleus of the stria terminalis",
+  "base": "Bed nucleus of the stria terminalis",
+  "hemisphere": null,
+  "parent": "Bed nucleus of the stria terminalis",
+  "color": [
+   13,
+   10,
+   191
+  ]
+ },
+ {
+  "id": 94,
+  "name": "Pretectal region",
+  "base": "Pretectal region",
+  "hemisphere": null,
+  "parent": "Pretectal region",
+  "color": [
+   38,
+   174,
+   191
+  ]
+ },
+ {
+  "id": 95,
+  "name": "Cornu ammonis 3",
+  "base": "Cornu ammonis 3",
+  "hemisphere": null,
+  "parent": "Cornu ammonis 3",
+  "color": [
+   102,
+   10,
+   191
+  ]
+ },
+ {
+  "id": 96,
+  "name": "Dentate gyrus",
+  "base": "Dentate gyrus",
+  "hemisphere": null,
+  "parent": "Dentate gyrus",
+  "color": [
+   188,
+   191,
+   67
+  ]
+ },
+ {
+  "id": 97,
+  "name": "Cornu ammonis 2",
+  "base": "Cornu ammonis 2",
+  "hemisphere": null,
+  "parent": "Cornu ammonis 2",
+  "color": [
+   191,
+   60,
+   53
+  ]
+ },
+ {
+  "id": 98,
+  "name": "Cornu ammonis 1",
+  "base": "Cornu ammonis 1",
+  "hemisphere": null,
+  "parent": "Cornu ammonis 1",
+  "color": [
+   24,
+   191,
+   63
+  ]
+ },
+ {
+  "id": 99,
+  "name": "Fasciola cinereum",
+  "base": "Fasciola cinereum",
+  "hemisphere": null,
+  "parent": "Fasciola cinereum",
+  "color": [
+   191,
+   67,
+   147
+  ]
+ },
+ {
+  "id": 100,
+  "name": "Subiculum",
+  "base": "Subiculum",
+  "hemisphere": null,
+  "parent": "Subiculum",
+  "color": [
+   129,
+   10,
+   191
+  ]
+ },
+ {
+  "id": 108,
+  "name": "Postrhinal cortex",
+  "base": "Postrhinal cortex",
+  "hemisphere": null,
+  "parent": "Postrhinal cortex",
+  "color": [
+   24,
+   64,
+   191
+  ]
+ },
+ {
+  "id": 109,
+  "name": "Presubiculum",
+  "base": "Presubiculum",
+  "hemisphere": null,
+  "parent": "Presubiculum",
+  "color": [
+   49,
+   191,
+   38
+  ]
+ },
+ {
+  "id": 110,
+  "name": "Parasubiculum",
+  "base": "Parasubiculum",
+  "hemisphere": null,
+  "parent": "Parasubiculum",
+  "color": [
+   38,
+   191,
+   125
+  ]
+ },
+ {
+  "id": 112,
+  "name": "Perirhinal area 35",
+  "base": "Perirhinal area 35",
+  "hemisphere": null,
+  "parent": "Perirhinal area 35",
+  "color": [
+   162,
+   67,
+   191
+  ]
+ },
+ {
+  "id": 113,
+  "name": "Perirhinal area 36",
+  "base": "Perirhinal area 36",
+  "hemisphere": null,
+  "parent": "Perirhinal area 36",
+  "color": [
+   67,
+   191,
+   154
+  ]
+ },
+ {
+  "id": 114,
+  "name": "Medial entorhinal cortex",
+  "base": "Medial entorhinal cortex",
+  "hemisphere": null,
+  "parent": "Medial entorhinal cortex",
+  "color": [
+   53,
+   143,
+   191
+  ]
+ },
+ {
+  "id": 115,
+  "name": "Lateral entorhinal cortex",
+  "base": "Lateral entorhinal cortex",
+  "hemisphere": null,
+  "parent": "Lateral entorhinal cortex",
+  "color": [
+   191,
+   24,
+   103
+  ]
+ },
+ {
+  "id": 119,
+  "name": "Vestibular apparatus",
+  "base": "Vestibular apparatus",
+  "hemisphere": null,
+  "parent": "Vestibular apparatus",
+  "color": [
+   191,
+   176,
+   38
+  ]
+ },
+ {
+  "id": 120,
+  "name": "Cochlea",
+  "base": "Cochlea",
+  "hemisphere": null,
+  "parent": "Cochlea",
+  "color": [
+   132,
+   191,
+   38
+  ]
+ },
+ {
+  "id": 121,
+  "name": "Cochlear nerve",
+  "base": "Cochlear nerve",
+  "hemisphere": null,
+  "parent": "Cochlear nerve",
+  "color": [
+   168,
+   67,
+   191
+  ]
+ },
+ {
+  "id": 122,
+  "name": "Vestibular nerve",
+  "base": "Vestibular nerve",
+  "hemisphere": null,
+  "parent": "Vestibular nerve",
+  "color": [
+   67,
+   191,
+   135
+  ]
+ },
+ {
+  "id": 123,
+  "name": "Ventral cochlear nucleus, granule cell layer",
+  "base": "Ventral cochlear nucleus, granule cell layer",
+  "hemisphere": null,
+  "parent": "Ventral cochlear nucleus",
+  "color": [
+   24,
+   146,
+   191
+  ]
+ },
+ {
+  "id": 125,
+  "name": "4th ventricle",
+  "base": "4th ventricle",
+  "hemisphere": null,
+  "parent": "4th ventricle",
+  "color": [
+   191,
+   10,
+   147
+  ]
+ },
+ {
+  "id": 126,
+  "name": "Dorsal cochlear nucleus, molecular layer",
+  "base": "Dorsal cochlear nucleus, molecular layer",
+  "hemisphere": null,
+  "parent": "Dorsal cochlear nucleus",
+  "color": [
+   67,
+   191,
+   142
+  ]
+ },
+ {
+  "id": 127,
+  "name": "Dorsal cochlear nucleus, fusiform and granule layer",
+  "base": "Dorsal cochlear nucleus, fusiform and granule layer",
+  "hemisphere": null,
+  "parent": "Dorsal cochlear nucleus",
+  "color": [
+   67,
+   191,
+   142
+  ]
+ },
+ {
+  "id": 128,
+  "name": "Dorsal cochlear nucleus, deep core",
+  "base": "Dorsal cochlear nucleus, deep core",
+  "hemisphere": null,
+  "parent": "Dorsal cochlear nucleus, deep core",
+  "color": [
+   187,
+   53,
+   191
+  ]
+ },
+ {
+  "id": 129,
+  "name": "acoustic striae",
+  "base": "acoustic striae",
+  "hemisphere": null,
+  "parent": "acoustic striae",
+  "color": [
+   67,
+   191,
+   24
+  ]
+ },
+ {
+  "id": 130,
+  "name": "trapezoid body",
+  "base": "trapezoid body",
+  "hemisphere": null,
+  "parent": "trapezoid body",
+  "color": [
+   191,
+   67,
+   53
+  ]
+ },
+ {
+  "id": 131,
+  "name": "Nucleus of the trapezoid body",
+  "base": "Nucleus of the trapezoid body",
+  "hemisphere": null,
+  "parent": "Nucleus of the trapezoid body",
+  "color": [
+   143,
+   38,
+   191
+  ]
+ },
+ {
+  "id": 132,
+  "name": "Superior paraolivary nucleus",
+  "base": "Superior paraolivary nucleus",
+  "hemisphere": null,
+  "parent": "Superior paraolivary nucleus",
+  "color": [
+   191,
+   141,
+   10
+  ]
+ },
+ {
+  "id": 133,
+  "name": "Medial superior olive",
+  "base": "Medial superior olive",
+  "hemisphere": null,
+  "parent": "Medial superior olive",
+  "color": [
+   191,
+   53,
+   114
+  ]
+ },
+ {
+  "id": 134,
+  "name": "Lateral superior olive",
+  "base": "Lateral superior olive",
+  "hemisphere": null,
+  "parent": "Lateral superior olive",
+  "color": [
+   132,
+   53,
+   191
+  ]
+ },
+ {
+  "id": 135,
+  "name": "Superior periolivary region",
+  "base": "Superior periolivary region",
+  "hemisphere": null,
+  "parent": "Superior periolivary region",
+  "color": [
+   53,
+   68,
+   191
+  ]
+ },
+ {
+  "id": 136,
+  "name": "Ventral periolivary nuclei",
+  "base": "Ventral periolivary nuclei",
+  "hemisphere": null,
+  "parent": "Ventral periolivary nuclei",
+  "color": [
+   109,
+   191,
+   38
+  ]
+ },
+ {
+  "id": 137,
+  "name": "Lateral lemniscus, ventral nucleus",
+  "base": "Lateral lemniscus, ventral nucleus",
+  "hemisphere": null,
+  "parent": "Lateral lemniscus, ventral nucleus",
+  "color": [
+   67,
+   191,
+   68
+  ]
+ },
+ {
+  "id": 138,
+  "name": "Lateral lemniscus, intermediate nucleus",
+  "base": "Lateral lemniscus, intermediate nucleus",
+  "hemisphere": null,
+  "parent": "Lateral lemniscus, intermediate nucleus",
+  "color": [
+   191,
+   53,
+   120
+  ]
+ },
+ {
+  "id": 139,
+  "name": "Lateral lemniscus, dorsal nucleus",
+  "base": "Lateral lemniscus, dorsal nucleus",
+  "hemisphere": null,
+  "parent": "Lateral lemniscus, dorsal nucleus",
+  "color": [
+   124,
+   191,
+   38
+  ]
+ },
+ {
+  "id": 140,
+  "name": "lateral lemniscus, commissure",
+  "base": "lateral lemniscus, commissure",
+  "hemisphere": null,
+  "parent": "lateral lemniscus, commissure",
+  "color": [
+   191,
+   149,
+   10
+  ]
+ },
+ {
+  "id": 141,
+  "name": "lateral lemniscus, unspecified",
+  "base": "lateral lemniscus, unspecified",
+  "hemisphere": null,
+  "parent": "lateral lemniscus, unspecified",
+  "color": [
+   67,
+   174,
+   191
+  ]
+ },
+ {
+  "id": 142,
+  "name": "Inferior colliculus, dorsal cortex",
+  "base": "Inferior colliculus, dorsal cortex",
+  "hemisphere": null,
+  "parent": "Inferior colliculus, dorsal cortex",
+  "color": [
+   10,
+   191,
+   179
+  ]
+ },
+ {
+  "id": 143,
+  "name": "Inferior colliculus, central nucleus",
+  "base": "Inferior colliculus, central nucleus",
+  "hemisphere": null,
+  "parent": "Inferior colliculus, central nucleus",
+  "color": [
+   191,
+   80,
+   53
+  ]
+ },
+ {
+  "id": 145,
+  "name": "Inferior colliculus, external cortex",
+  "base": "Inferior colliculus, external cortex",
+  "hemisphere": null,
+  "parent": "Inferior colliculus, external cortex",
+  "color": [
+   99,
+   24,
+   191
+  ]
+ },
+ {
+  "id": 146,
+  "name": "inferior colliculus, brachium",
+  "base": "inferior colliculus, brachium",
+  "hemisphere": null,
+  "parent": "inferior colliculus, brachium",
+  "color": [
+   191,
+   53,
+   107
+  ]
+ },
+ {
+  "id": 150,
+  "name": "Medial geniculate body, marginal zone",
+  "base": "Medial geniculate body, marginal zone",
+  "hemisphere": null,
+  "parent": "Medial geniculate body, marginal zone",
+  "color": [
+   10,
+   185,
+   191
+  ]
+ },
+ {
+  "id": 151,
+  "name": "Primary auditory area",
+  "base": "Primary auditory area",
+  "hemisphere": null,
+  "parent": "Primary auditory area",
+  "color": [
+   38,
+   99,
+   191
+  ]
+ },
+ {
+  "id": 152,
+  "name": "Secondary auditory area, dorsal part",
+  "base": "Secondary auditory area, dorsal part",
+  "hemisphere": null,
+  "parent": "Secondary auditory area, dorsal part",
+  "color": [
+   191,
+   38,
+   81
+  ]
+ },
+ {
+  "id": 153,
+  "name": "Secondary auditory area, ventral part",
+  "base": "Secondary auditory area, ventral part",
+  "hemisphere": null,
+  "parent": "Secondary auditory area, ventral part",
+  "color": [
+   191,
+   38,
+   74
+  ]
+ },
+ {
+  "id": 157,
+  "name": "external medullary lamina, auditory radiation",
+  "base": "external medullary lamina, auditory radiation",
+  "hemisphere": null,
+  "parent": "external medullary lamina, auditory radiation",
+  "color": [
+   10,
+   96,
+   191
+  ]
+ },
+ {
+  "id": 158,
+  "name": "Ventral cochlear nucleus, anterior part",
+  "base": "Ventral cochlear nucleus, anterior part",
+  "hemisphere": null,
+  "parent": "Ventral cochlear nucleus, anterior part",
+  "color": [
+   53,
+   61,
+   191
+  ]
+ },
+ {
+  "id": 159,
+  "name": "Ventral cochlear nucleus, posterior part",
+  "base": "Ventral cochlear nucleus, posterior part",
+  "hemisphere": null,
+  "parent": "Ventral cochlear nucleus, posterior part",
+  "color": [
+   191,
+   158,
+   10
+  ]
+ },
+ {
+  "id": 160,
+  "name": "Ventral cochlear nucleus, cap area",
+  "base": "Ventral cochlear nucleus, cap area",
+  "hemisphere": null,
+  "parent": "Ventral cochlear nucleus, cap area",
+  "color": [
+   75,
+   191,
+   24
+  ]
+ },
+ {
+  "id": 162,
+  "name": "Spiral ganglion",
+  "base": "Spiral ganglion",
+  "hemisphere": null,
+  "parent": "Spiral ganglion",
+  "color": [
+   166,
+   191,
+   53
+  ]
+ },
+ {
+  "id": 163,
+  "name": "Nucleus sagulum",
+  "base": "Nucleus sagulum",
+  "hemisphere": null,
+  "parent": "Nucleus sagulum",
+  "color": [
+   191,
+   148,
+   53
+  ]
+ },
+ {
+  "id": 164,
+  "name": "Reticular (pre)thalamic nucleus, auditory segment",
+  "base": "Reticular (pre)thalamic nucleus, auditory segment",
+  "hemisphere": null,
+  "parent": "Reticular (pre)thalamic nucleus, auditory segment",
+  "color": [
+   75,
+   38,
+   191
+  ]
+ },
+ {
+  "id": 180,
+  "name": "lateral olfactory tract",
+  "base": "lateral olfactory tract",
+  "hemisphere": null,
+  "parent": "lateral olfactory tract",
+  "color": [
+   174,
+   67,
+   191
+  ]
+ },
+ {
+  "id": 181,
+  "name": "Piriform cortex, layer 1",
+  "base": "Piriform cortex, layer 1",
+  "hemisphere": null,
+  "parent": "Piriform cortex",
+  "color": [
+   24,
+   56,
+   191
+  ]
+ },
+ {
+  "id": 182,
+  "name": "Piriform cortex, layer 2",
+  "base": "Piriform cortex, layer 2",
+  "hemisphere": null,
+  "parent": "Piriform cortex",
+  "color": [
+   24,
+   56,
+   191
+  ]
+ },
+ {
+  "id": 183,
+  "name": "Piriform cortex, layer 3",
+  "base": "Piriform cortex, layer 3",
+  "hemisphere": null,
+  "parent": "Piriform cortex",
+  "color": [
+   24,
+   56,
+   191
+  ]
+ },
+ {
+  "id": 184,
+  "name": "Nucleus accumbens, core",
+  "base": "Nucleus accumbens, core",
+  "hemisphere": null,
+  "parent": "Nucleus accumbens, core",
+  "color": [
+   120,
+   10,
+   191
+  ]
+ },
+ {
+  "id": 187,
+  "name": "Substantia nigra, reticular part",
+  "base": "Substantia nigra, reticular part",
+  "hemisphere": null,
+  "parent": "Substantia nigra, reticular part",
+  "color": [
+   191,
+   38,
+   66
+  ]
+ },
+ {
+  "id": 188,
+  "name": "Substantia nigra, compact part",
+  "base": "Substantia nigra, compact part",
+  "hemisphere": null,
+  "parent": "Substantia nigra, compact part",
+  "color": [
+   191,
+   38,
+   157
+  ]
+ },
+ {
+  "id": 189,
+  "name": "Substantia nigra, lateral part",
+  "base": "Substantia nigra, lateral part",
+  "hemisphere": null,
+  "parent": "Substantia nigra, lateral part",
+  "color": [
+   38,
+   167,
+   191
+  ]
+ },
+ {
+  "id": 192,
+  "name": "Nucleus accumbens, shell",
+  "base": "Nucleus accumbens, shell",
+  "hemisphere": null,
+  "parent": "Nucleus accumbens, shell",
+  "color": [
+   191,
+   127,
+   67
+  ]
+ },
+ {
+  "id": 193,
+  "name": "Ventral pallidum",
+  "base": "Ventral pallidum",
+  "hemisphere": null,
+  "parent": "Ventral pallidum",
+  "color": [
+   67,
+   162,
+   191
+  ]
+ },
+ {
+  "id": 195,
+  "name": "Globus pallidus external, medial part",
+  "base": "Globus pallidus external, medial part",
+  "hemisphere": null,
+  "parent": "Globus pallidus external, medial part",
+  "color": [
+   191,
+   161,
+   38
+  ]
+ },
+ {
+  "id": 196,
+  "name": "Ventral tegmental area",
+  "base": "Ventral tegmental area",
+  "hemisphere": null,
+  "parent": "Ventral tegmental area",
+  "color": [
+   38,
+   106,
+   191
+  ]
+ },
+ {
+  "id": 197,
+  "name": "Caudate putamen",
+  "base": "Caudate putamen",
+  "hemisphere": null,
+  "parent": "Caudate putamen",
+  "color": [
+   191,
+   53,
+   182
+  ]
+ },
+ {
+  "id": 198,
+  "name": "Globus pallidus external, lateral part",
+  "base": "Globus pallidus external, lateral part",
+  "hemisphere": null,
+  "parent": "Globus pallidus external, lateral part",
+  "color": [
+   95,
+   67,
+   191
+  ]
+ },
+ {
+  "id": 199,
+  "name": "Ventral striatal region, unspecified",
+  "base": "Ventral striatal region, unspecified",
+  "hemisphere": null,
+  "parent": "Ventral striatal region, unspecified",
+  "color": [
+   174,
+   191,
+   24
+  ]
+ },
+ {
+  "id": 200,
+  "name": "Reticular (pre)thalamic nucleus, unspecified",
+  "base": "Reticular (pre)thalamic nucleus, unspecified",
+  "hemisphere": null,
+  "parent": "Reticular (pre)thalamic nucleus, unspecified",
+  "color": [
+   191,
+   167,
+   10
+  ]
+ },
+ {
+  "id": 201,
+  "name": "Peripeduncular nucleus",
+  "base": "Peripeduncular nucleus",
+  "hemisphere": null,
+  "parent": "Peripeduncular nucleus",
+  "color": [
+   191,
+   121,
+   67
+  ]
+ },
+ {
+  "id": 204,
+  "name": "Pregeniculate nucleus",
+  "base": "Pregeniculate nucleus",
+  "hemisphere": null,
+  "parent": "Pregeniculate nucleus",
+  "color": [
+   127,
+   191,
+   67
+  ]
+ },
+ {
+  "id": 205,
+  "name": "Dorsal lateral geniculate nucleus",
+  "base": "Dorsal lateral geniculate nucleus",
+  "hemisphere": null,
+  "parent": "Dorsal lateral geniculate nucleus",
+  "color": [
+   24,
+   191,
+   47
+  ]
+ },
+ {
+  "id": 206,
+  "name": "Lateral habenular nucleus",
+  "base": "Lateral habenular nucleus",
+  "hemisphere": null,
+  "parent": "Lateral habenular nucleus",
+  "color": [
+   53,
+   191,
+   103
+  ]
+ },
+ {
+  "id": 207,
+  "name": "Medial habenular nucleus",
+  "base": "Medial habenular nucleus",
+  "hemisphere": null,
+  "parent": "Medial habenular nucleus",
+  "color": [
+   191,
+   10,
+   75
+  ]
+ },
+ {
+  "id": 208,
+  "name": "Posterior intralaminar nucleus",
+  "base": "Posterior intralaminar nucleus",
+  "hemisphere": null,
+  "parent": "Posterior intralaminar nucleus",
+  "color": [
+   173,
+   24,
+   191
+  ]
+ },
+ {
+  "id": 210,
+  "name": "Posterior thalamic nuclear group, triangular part",
+  "base": "Posterior thalamic nuclear group, triangular part",
+  "hemisphere": null,
+  "parent": "Posterior thalamic nuclear group, triangular part",
+  "color": [
+   67,
+   94,
+   191
+  ]
+ },
+ {
+  "id": 211,
+  "name": "Parataenial thalamic nucleus",
+  "base": "Parataenial thalamic nucleus",
+  "hemisphere": null,
+  "parent": "Parataenial thalamic nucleus",
+  "color": [
+   191,
+   10,
+   173
+  ]
+ },
+ {
+  "id": 213,
+  "name": "Anterodorsal thalamic nucleus",
+  "base": "Anterodorsal thalamic nucleus",
+  "hemisphere": null,
+  "parent": "Anterodorsal thalamic nucleus",
+  "color": [
+   38,
+   191,
+   110
+  ]
+ },
+ {
+  "id": 214,
+  "name": "Anteroventral thalamic nucleus, dorsomedial part",
+  "base": "Anteroventral thalamic nucleus, dorsomedial part",
+  "hemisphere": null,
+  "parent": "Anteroventral thalamic nucleus, dorsomedial part",
+  "color": [
+   191,
+   126,
+   24
+  ]
+ },
+ {
+  "id": 215,
+  "name": "Anteroventral thalamic nucleus, ventrolateral part",
+  "base": "Anteroventral thalamic nucleus, ventrolateral part",
+  "hemisphere": null,
+  "parent": "Anteroventral thalamic nucleus, ventrolateral part",
+  "color": [
+   121,
+   191,
+   67
+  ]
+ },
+ {
+  "id": 216,
+  "name": "Rhomboid thalamic nucleus",
+  "base": "Rhomboid thalamic nucleus",
+  "hemisphere": null,
+  "parent": "Rhomboid thalamic nucleus",
+  "color": [
+   24,
+   48,
+   191
+  ]
+ },
+ {
+  "id": 218,
+  "name": "Xiphoid thalamic nucleus",
+  "base": "Xiphoid thalamic nucleus",
+  "hemisphere": null,
+  "parent": "Xiphoid thalamic nucleus",
+  "color": [
+   191,
+   53,
+   175
+  ]
+ },
+ {
+  "id": 219,
+  "name": "Reuniens thalamic nucleus",
+  "base": "Reuniens thalamic nucleus",
+  "hemisphere": null,
+  "parent": "Reuniens thalamic nucleus",
+  "color": [
+   10,
+   191,
+   170
+  ]
+ },
+ {
+  "id": 221,
+  "name": "Ventromedial thalamic nucleus",
+  "base": "Ventromedial thalamic nucleus",
+  "hemisphere": null,
+  "parent": "Ventromedial thalamic nucleus",
+  "color": [
+   74,
+   24,
+   191
+  ]
+ },
+ {
+  "id": 222,
+  "name": "Submedius thalamic nucleus",
+  "base": "Submedius thalamic nucleus",
+  "hemisphere": null,
+  "parent": "Submedius thalamic nucleus",
+  "color": [
+   91,
+   191,
+   24
+  ]
+ },
+ {
+  "id": 223,
+  "name": "Angular thalamic nucleus",
+  "base": "Angular thalamic nucleus",
+  "hemisphere": null,
+  "parent": "Angular thalamic nucleus",
+  "color": [
+   191,
+   67,
+   135
+  ]
+ },
+ {
+  "id": 227,
+  "name": "Ventral posteromedial thalamic nucleus",
+  "base": "Ventral posteromedial thalamic nucleus",
+  "hemisphere": null,
+  "parent": "Ventral posteromedial thalamic nucleus",
+  "color": [
+   191,
+   182,
+   67
+  ]
+ },
+ {
+  "id": 228,
+  "name": "Laterodorsal thalamic nucleus, dorsomedial part",
+  "base": "Laterodorsal thalamic nucleus, dorsomedial part",
+  "hemisphere": null,
+  "parent": "Laterodorsal thalamic nucleus, dorsomedial part",
+  "color": [
+   191,
+   53,
+   189
+  ]
+ },
+ {
+  "id": 229,
+  "name": "Laterodorsal thalamic nucleus, ventrolateral part",
+  "base": "Laterodorsal thalamic nucleus, ventrolateral part",
+  "hemisphere": null,
+  "parent": "Laterodorsal thalamic nucleus, ventrolateral part",
+  "color": [
+   38,
+   189,
+   191
+  ]
+ },
+ {
+  "id": 230,
+  "name": "Posterior thalamic nucleus",
+  "base": "Posterior thalamic nucleus",
+  "hemisphere": null,
+  "parent": "Posterior thalamic nucleus",
+  "color": [
+   10,
+   15,
+   191
+  ]
+ },
+ {
+  "id": 231,
+  "name": "Ventrolateral thalamic nucleus",
+  "base": "Ventrolateral thalamic nucleus",
+  "hemisphere": null,
+  "parent": "Ventrolateral thalamic nucleus",
+  "color": [
+   191,
+   69,
+   10
+  ]
+ },
+ {
+  "id": 232,
+  "name": "Mediodorsal thalamic nucleus, lateral part",
+  "base": "Mediodorsal thalamic nucleus, lateral part",
+  "hemisphere": null,
+  "parent": "Mediodorsal thalamic nucleus, lateral part",
+  "color": [
+   24,
+   39,
+   191
+  ]
+ },
+ {
+  "id": 233,
+  "name": "Mediodorsal thalamic nucleus, central part",
+  "base": "Mediodorsal thalamic nucleus, central part",
+  "hemisphere": null,
+  "parent": "Mediodorsal thalamic nucleus, central part",
+  "color": [
+   166,
+   191,
+   24
+  ]
+ },
+ {
+  "id": 235,
+  "name": "Zona incerta, dorsal part",
+  "base": "Zona incerta, dorsal part",
+  "hemisphere": null,
+  "parent": "Zona incerta, dorsal part",
+  "color": [
+   10,
+   87,
+   191
+  ]
+ },
+ {
+  "id": 236,
+  "name": "Zona incerta, ventral part",
+  "base": "Zona incerta, ventral part",
+  "hemisphere": null,
+  "parent": "Zona incerta, ventral part",
+  "color": [
+   67,
+   180,
+   191
+  ]
+ },
+ {
+  "id": 238,
+  "name": "Zona incerta, A13 dopamine cells",
+  "base": "Zona incerta, A13 dopamine cells",
+  "hemisphere": null,
+  "parent": "Zona incerta, A13 dopamine cells",
+  "color": [
+   191,
+   110,
+   24
+  ]
+ },
+ {
+  "id": 239,
+  "name": "pretectothalamic lamina",
+  "base": "pretectothalamic lamina",
+  "hemisphere": null,
+  "parent": "pretectothalamic lamina",
+  "color": [
+   10,
+   191,
+   90
+  ]
+ },
+ {
+  "id": 240,
+  "name": "Mediodorsal thalamic nucleus, medial part",
+  "base": "Mediodorsal thalamic nucleus, medial part",
+  "hemisphere": null,
+  "parent": "Mediodorsal thalamic nucleus, medial part",
+  "color": [
+   24,
+   138,
+   191
+  ]
+ },
+ {
+  "id": 242,
+  "name": "Paraventricular thalamic nuclei (anterior and posterior)",
+  "base": "Paraventricular thalamic nuclei (anterior and posterior)",
+  "hemisphere": null,
+  "parent": "Paraventricular thalamic nuclei (anterior and posterior)",
+  "color": [
+   21,
+   10,
+   191
+  ]
+ },
+ {
+  "id": 246,
+  "name": "Paracentral thalamic nucleus",
+  "base": "Paracentral thalamic nucleus",
+  "hemisphere": null,
+  "parent": "Paracentral thalamic nucleus",
+  "color": [
+   113,
+   67,
+   191
+  ]
+ },
+ {
+  "id": 247,
+  "name": "Central medial thalamic nucleus",
+  "base": "Central medial thalamic nucleus",
+  "hemisphere": null,
+  "parent": "Central medial thalamic nucleus",
+  "color": [
+   182,
+   191,
+   67
+  ]
+ },
+ {
+  "id": 248,
+  "name": "Central lateral thalamic nucleus",
+  "base": "Central lateral thalamic nucleus",
+  "hemisphere": null,
+  "parent": "Central lateral thalamic nucleus",
+  "color": [
+   191,
+   10,
+   66
+  ]
+ },
+ {
+  "id": 249,
+  "name": "external medullary lamina, unspecified",
+  "base": "external medullary lamina, unspecified",
+  "hemisphere": null,
+  "parent": "external medullary lamina, unspecified",
+  "color": [
+   181,
+   24,
+   191
+  ]
+ },
+ {
+  "id": 254,
+  "name": "Anteromedial thalamic nucleus",
+  "base": "Anteromedial thalamic nucleus",
+  "hemisphere": null,
+  "parent": "Anteromedial thalamic nucleus",
+  "color": [
+   191,
+   24,
+   119
+  ]
+ },
+ {
+  "id": 255,
+  "name": "Interanteromedial thalamic nucleus",
+  "base": "Interanteromedial thalamic nucleus",
+  "hemisphere": null,
+  "parent": "Interanteromedial thalamic nucleus",
+  "color": [
+   77,
+   191,
+   53
+  ]
+ },
+ {
+  "id": 257,
+  "name": "Zona incerta, rostral part",
+  "base": "Zona incerta, rostral part",
+  "hemisphere": null,
+  "parent": "Zona incerta, rostral part",
+  "color": [
+   115,
+   191,
+   67
+  ]
+ },
+ {
+  "id": 260,
+  "name": "Intermediodorsal thalamic nucleus",
+  "base": "Intermediodorsal thalamic nucleus",
+  "hemisphere": null,
+  "parent": "Intermediodorsal thalamic nucleus",
+  "color": [
+   67,
+   191,
+   86
+  ]
+ },
+ {
+  "id": 266,
+  "name": "Ventral posterior nucleus of the thalamus, parvicellular part",
+  "base": "Ventral posterior nucleus of the thalamus, parvicellular part",
+  "hemisphere": null,
+  "parent": "Ventral posterior nucleus of the thalamus, parvicellular part",
+  "color": [
+   191,
+   24,
+   127
+  ]
+ },
+ {
+  "id": 267,
+  "name": "Parafascicular thalamic nucleus",
+  "base": "Parafascicular thalamic nucleus",
+  "hemisphere": null,
+  "parent": "Parafascicular thalamic nucleus",
+  "color": [
+   191,
+   93,
+   38
+  ]
+ },
+ {
+  "id": 268,
+  "name": "Retroreuniens thalamic nucleus",
+  "base": "Retroreuniens thalamic nucleus",
+  "hemisphere": null,
+  "parent": "Retroreuniens thalamic nucleus",
+  "color": [
+   191,
+   60,
+   10
+  ]
+ },
+ {
+  "id": 270,
+  "name": "superior cerebellar peduncle and prerubral field",
+  "base": "superior cerebellar peduncle and prerubral field",
+  "hemisphere": null,
+  "parent": "superior cerebellar peduncle and prerubral field",
+  "color": [
+   191,
+   100,
+   38
+  ]
+ },
+ {
+  "id": 272,
+  "name": "Intergeniculate leaflet",
+  "base": "Intergeniculate leaflet",
+  "hemisphere": null,
+  "parent": "Intergeniculate leaflet",
+  "color": [
+   91,
+   24,
+   191
+  ]
+ },
+ {
+  "id": 278,
+  "name": "Subparafascicular nucleus",
+  "base": "Subparafascicular nucleus",
+  "hemisphere": null,
+  "parent": "Subparafascicular nucleus",
+  "color": [
+   10,
+   114,
+   191
+  ]
+ },
+ {
+  "id": 280,
+  "name": "Fields of Forel",
+  "base": "Fields of Forel",
+  "hemisphere": null,
+  "parent": "Fields of Forel",
+  "color": [
+   158,
+   38,
+   191
+  ]
+ },
+ {
+  "id": 281,
+  "name": "Subgeniculate nucleus",
+  "base": "Subgeniculate nucleus",
+  "hemisphere": null,
+  "parent": "Subgeniculate nucleus",
+  "color": [
+   191,
+   24,
+   28
+  ]
+ },
+ {
+  "id": 282,
+  "name": "Ethmoid-Limitans nucleus",
+  "base": "Ethmoid-Limitans nucleus",
+  "hemisphere": null,
+  "parent": "Ethmoid-Limitans nucleus",
+  "color": [
+   53,
+   191,
+   185
+  ]
+ },
+ {
+  "id": 283,
+  "name": "Lateral posterior thalamic nucleus, lateral part",
+  "base": "Lateral posterior thalamic nucleus, lateral part",
+  "hemisphere": null,
+  "parent": "Lateral posterior thalamic nucleus, lateral part",
+  "color": [
+   191,
+   10,
+   57
+  ]
+ },
+ {
+  "id": 284,
+  "name": "Zona incerta, A11 dopamine cells",
+  "base": "Zona incerta, A11 dopamine cells",
+  "hemisphere": null,
+  "parent": "Zona incerta, A11 dopamine cells",
+  "color": [
+   133,
+   191,
+   67
+  ]
+ },
+ {
+  "id": 285,
+  "name": "Lateral posterior thalamic nucleus, mediorostral part",
+  "base": "Lateral posterior thalamic nucleus, mediorostral part",
+  "hemisphere": null,
+  "parent": "Lateral posterior thalamic nucleus, mediorostral part",
+  "color": [
+   191,
+   118,
+   24
+  ]
+ },
+ {
+  "id": 286,
+  "name": "Lateral posterior thalamic nucleus, mediocaudal part",
+  "base": "Lateral posterior thalamic nucleus, mediocaudal part",
+  "hemisphere": null,
+  "parent": "Lateral posterior thalamic nucleus, mediocaudal part",
+  "color": [
+   111,
+   10,
+   191
+  ]
+ },
+ {
+  "id": 287,
+  "name": "Zona incerta, caudal part",
+  "base": "Zona incerta, caudal part",
+  "hemisphere": null,
+  "parent": "Zona incerta, caudal part",
+  "color": [
+   83,
+   24,
+   191
+  ]
+ },
+ {
+  "id": 290,
+  "name": "intramedullary thalamic area",
+  "base": "intramedullary thalamic area",
+  "hemisphere": null,
+  "parent": "intramedullary thalamic area",
+  "color": [
+   67,
+   100,
+   191
+  ]
+ },
+ {
+  "id": 291,
+  "name": "internal medullary lamina",
+  "base": "internal medullary lamina",
+  "hemisphere": null,
+  "parent": "internal medullary lamina",
+  "color": [
+   10,
+   191,
+   72
+  ]
+ },
+ {
+  "id": 293,
+  "name": "Ventral anterior thalamic nucleus",
+  "base": "Ventral anterior thalamic nucleus",
+  "hemisphere": null,
+  "parent": "Ventral anterior thalamic nucleus",
+  "color": [
+   24,
+   154,
+   191
+  ]
+ },
+ {
+  "id": 294,
+  "name": "Ventral posterolateral thalamic nucleus",
+  "base": "Ventral posterolateral thalamic nucleus",
+  "hemisphere": null,
+  "parent": "Ventral posterolateral thalamic nucleus",
+  "color": [
+   28,
+   191,
+   10
+  ]
+ },
+ {
+  "id": 295,
+  "name": "Medial geniculate body, dorsal division",
+  "base": "Medial geniculate body, dorsal division",
+  "hemisphere": null,
+  "parent": "Medial geniculate body, dorsal division",
+  "color": [
+   10,
+   191,
+   99
+  ]
+ },
+ {
+  "id": 297,
+  "name": "Medial geniculate body, medial division",
+  "base": "Medial geniculate body, medial division",
+  "hemisphere": null,
+  "parent": "Medial geniculate body, medial division",
+  "color": [
+   191,
+   51,
+   10
+  ]
+ },
+ {
+  "id": 298,
+  "name": "Medial geniculate body, ventral division",
+  "base": "Medial geniculate body, ventral division",
+  "hemisphere": null,
+  "parent": "Medial geniculate body, ventral division",
+  "color": [
+   191,
+   115,
+   67
+  ]
+ },
+ {
+  "id": 299,
+  "name": "Medial geniculate body, suprageniculate nucleus",
+  "base": "Medial geniculate body, suprageniculate nucleus",
+  "hemisphere": null,
+  "parent": "Medial geniculate body, suprageniculate nucleus",
+  "color": [
+   83,
+   191,
+   24
+  ]
+ },
+ {
+  "id": 400,
+  "name": "Ventrolateral orbital area",
+  "base": "Ventrolateral orbital area",
+  "hemisphere": null,
+  "parent": "Ventrolateral orbital area",
+  "color": [
+   53,
+   130,
+   191
+  ]
+ },
+ {
+  "id": 401,
+  "name": "Lateral orbital area",
+  "base": "Lateral orbital area",
+  "hemisphere": null,
+  "parent": "Lateral orbital area",
+  "color": [
+   191,
+   42,
+   10
+  ]
+ },
+ {
+  "id": 402,
+  "name": "Ventral orbital area",
+  "base": "Ventral orbital area",
+  "hemisphere": null,
+  "parent": "Ventral orbital area",
+  "color": [
+   191,
+   67,
+   153
+  ]
+ },
+ {
+  "id": 403,
+  "name": "Medial orbital area",
+  "base": "Medial orbital area",
+  "hemisphere": null,
+  "parent": "Medial orbital area",
+  "color": [
+   60,
+   38,
+   191
+  ]
+ },
+ {
+  "id": 404,
+  "name": "Dorsolateral orbital area",
+  "base": "Dorsolateral orbital area",
+  "hemisphere": null,
+  "parent": "Dorsolateral orbital area",
+  "color": [
+   24,
+   191,
+   71
+  ]
+ },
+ {
+  "id": 405,
+  "name": "Prelimbic area",
+  "base": "Prelimbic area",
+  "hemisphere": null,
+  "parent": "Prelimbic area",
+  "color": [
+   191,
+   38,
+   59
+  ]
+ },
+ {
+  "id": 406,
+  "name": "Secondary motor area",
+  "base": "Secondary motor area",
+  "hemisphere": null,
+  "parent": "Secondary motor area",
+  "color": [
+   68,
+   38,
+   191
+  ]
+ },
+ {
+  "id": 407,
+  "name": "Frontal association area 3",
+  "base": "Frontal association area 3",
+  "hemisphere": null,
+  "parent": "Frontal association area 3",
+  "color": [
+   53,
+   136,
+   191
+  ]
+ },
+ {
+  "id": 408,
+  "name": "Primary motor area",
+  "base": "Primary motor area",
+  "hemisphere": null,
+  "parent": "Primary motor area",
+  "color": [
+   191,
+   133,
+   67
+  ]
+ },
+ {
+  "id": 409,
+  "name": "Agranular insular cortex, ventral area",
+  "base": "Agranular insular cortex, ventral area",
+  "hemisphere": null,
+  "parent": "Agranular insular cortex, ventral area",
+  "color": [
+   191,
+   135,
+   53
+  ]
+ },
+ {
+  "id": 410,
+  "name": "Agranular insular cortex dorsal area",
+  "base": "Agranular insular cortex dorsal area",
+  "hemisphere": null,
+  "parent": "Agranular insular cortex dorsal area",
+  "color": [
+   165,
+   24,
+   191
+  ]
+ },
+ {
+  "id": 411,
+  "name": "Cingulate area 1",
+  "base": "Cingulate area 1",
+  "hemisphere": null,
+  "parent": "Cingulate area 1",
+  "color": [
+   24,
+   191,
+   162
+  ]
+ },
+ {
+  "id": 412,
+  "name": "Claustrum",
+  "base": "Claustrum",
+  "hemisphere": null,
+  "parent": "Claustrum",
+  "color": [
+   38,
+   191,
+   43
+  ]
+ },
+ {
+  "id": 413,
+  "name": "Infralimbic area",
+  "base": "Infralimbic area",
+  "hemisphere": null,
+  "parent": "Infralimbic area",
+  "color": [
+   53,
+   123,
+   191
+  ]
+ },
+ {
+  "id": 414,
+  "name": "Dysgranular insular cortex",
+  "base": "Dysgranular insular cortex",
+  "hemisphere": null,
+  "parent": "Dysgranular insular cortex",
+  "color": [
+   191,
+   78,
+   38
+  ]
+ },
+ {
+  "id": 416,
+  "name": "Granular insular cortex",
+  "base": "Granular insular cortex",
+  "hemisphere": null,
+  "parent": "Granular insular cortex",
+  "color": [
+   53,
+   38,
+   191
+  ]
+ },
+ {
+  "id": 417,
+  "name": "Primary somatosensory area, forelimb representation",
+  "base": "Primary somatosensory area, forelimb representation",
+  "hemisphere": null,
+  "parent": "Primary somatosensory area, forelimb representation",
+  "color": [
+   53,
+   191,
+   89
+  ]
+ },
+ {
+  "id": 418,
+  "name": "Primary somatosensory area, dysgranular zone",
+  "base": "Primary somatosensory area, dysgranular zone",
+  "hemisphere": null,
+  "parent": "Primary somatosensory area, dysgranular zone",
+  "color": [
+   191,
+   67,
+   86
+  ]
+ },
+ {
+  "id": 420,
+  "name": "Primary somatosensory area, face representation",
+  "base": "Primary somatosensory area, face representation",
+  "hemisphere": null,
+  "parent": "Primary somatosensory area, face representation",
+  "color": [
+   191,
+   38,
+   164
+  ]
+ },
+ {
+  "id": 422,
+  "name": "Secondary somatosensory area",
+  "base": "Secondary somatosensory area",
+  "hemisphere": null,
+  "parent": "Secondary somatosensory area",
+  "color": [
+   53,
+   191,
+   164
+  ]
+ },
+ {
+  "id": 423,
+  "name": "Primary somatosensory area, hindlimb representation",
+  "base": "Primary somatosensory area, hindlimb representation",
+  "hemisphere": null,
+  "parent": "Primary somatosensory area, hindlimb representation",
+  "color": [
+   191,
+   24,
+   111
+  ]
+ },
+ {
+  "id": 424,
+  "name": "Agranular insular cortex, posterior area",
+  "base": "Agranular insular cortex, posterior area",
+  "hemisphere": null,
+  "parent": "Agranular insular cortex, posterior area",
+  "color": [
+   24,
+   130,
+   191
+  ]
+ },
+ {
+  "id": 425,
+  "name": "Primary somatosensory area, barrel field",
+  "base": "Primary somatosensory area, barrel field",
+  "hemisphere": null,
+  "parent": "Primary somatosensory area, barrel field",
+  "color": [
+   191,
+   135,
+   24
+  ]
+ },
+ {
+  "id": 427,
+  "name": "Retrosplenial dysgranular area",
+  "base": "Retrosplenial dysgranular area",
+  "hemisphere": null,
+  "parent": "Retrosplenial dysgranular area",
+  "color": [
+   191,
+   38,
+   142
+  ]
+ },
+ {
+  "id": 429,
+  "name": "Primary somatosensory area, trunk representation",
+  "base": "Primary somatosensory area, trunk representation",
+  "hemisphere": null,
+  "parent": "Primary somatosensory area, trunk representation",
+  "color": [
+   101,
+   67,
+   191
+  ]
+ },
+ {
+  "id": 430,
+  "name": "Retrosplenial granular area",
+  "base": "Retrosplenial granular area",
+  "hemisphere": null,
+  "parent": "Retrosplenial granular area",
+  "color": [
+   191,
+   28,
+   24
+  ]
+ },
+ {
+  "id": 432,
+  "name": "Parietal association cortex, lateral area",
+  "base": "Parietal association cortex, lateral area",
+  "hemisphere": null,
+  "parent": "Parietal association cortex, lateral area",
+  "color": [
+   191,
+   67,
+   74
+  ]
+ },
+ {
+  "id": 433,
+  "name": "Parietal association cortex, medial area",
+  "base": "Parietal association cortex, medial area",
+  "hemisphere": null,
+  "parent": "Parietal association cortex, medial area",
+  "color": [
+   67,
+   191,
+   80
+  ]
+ },
+ {
+  "id": 436,
+  "name": "Parietal association cortex, posterior area",
+  "base": "Parietal association cortex, posterior area",
+  "hemisphere": null,
+  "parent": "Parietal association cortex, posterior area",
+  "color": [
+   67,
+   106,
+   191
+  ]
+ },
+ {
+  "id": 442,
+  "name": "Primary visual area",
+  "base": "Primary visual area",
+  "hemisphere": null,
+  "parent": "Primary visual area",
+  "color": [
+   67,
+   191,
+   74
+  ]
+ },
+ {
+  "id": 443,
+  "name": "Secondary visual area, lateral part",
+  "base": "Secondary visual area, lateral part",
+  "hemisphere": null,
+  "parent": "Secondary visual area, lateral part",
+  "color": [
+   191,
+   142,
+   53
+  ]
+ },
+ {
+  "id": 444,
+  "name": "Temporal association cortex",
+  "base": "Temporal association cortex",
+  "hemisphere": null,
+  "parent": "Temporal association cortex",
+  "color": [
+   151,
+   38,
+   191
+  ]
+ },
+ {
+  "id": 448,
+  "name": "Secondary visual area, medial part",
+  "base": "Secondary visual area, medial part",
+  "hemisphere": null,
+  "parent": "Secondary visual area, medial part",
+  "color": [
+   53,
+   191,
+   171
+  ]
+ },
+ {
+  "id": 500,
+  "name": "Endopiriform nucleus",
+  "base": "Endopiriform nucleus",
+  "hemisphere": null,
+  "parent": "Endopiriform nucleus",
+  "color": [
+   24,
+   191,
+   146
+  ]
+ },
+ {
+  "id": 501,
+  "name": "Amygdaloid area, unspecified",
+  "base": "Amygdaloid area, unspecified",
+  "hemisphere": null,
+  "parent": "Amygdaloid area, unspecified",
+  "color": [
+   191,
+   85,
+   38
+  ]
+ },
+ {
+  "id": 502,
+  "name": "Nucleus of the lateral olfactory tract",
+  "base": "Nucleus of the lateral olfactory tract",
+  "hemisphere": null,
+  "parent": "Nucleus of the lateral olfactory tract",
+  "color": [
+   53,
+   191,
+   83
+  ]
+ }
+]

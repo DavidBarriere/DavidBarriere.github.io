@@ -1,0 +1,1609 @@
+{
+ "3rd ventricle": {
+  "en": "The third ventricle is a narrow, midline, funnel-shaped cavity of the diencephalon, bounded anteriorly by the hypothalamus and posteriorly by the midbrain; it communicates with the lateral ventricles via the interventricular foramina and with the fourth ventricle via the cerebral aqueduct. Its ependymal lining and the surrounding periventricular tissue take part in cerebrospinal fluid circulation and in homeostatic functions such as temperature, osmolality and pituitary endocrine regulation.",
+  "fr": "Le troisième ventricule est une cavité médiane étroite, en forme d'entonnoir, du diencéphale, limitée en avant par l'hypothalamus et en arrière par le mésencéphale ; il communique avec les ventricules latéraux via les foramens interventriculaires et avec le quatrième ventricule via l'aqueduc cérébral. Sa paroi épendymaire et le tissu périventriculaire environnant participent à la circulation du liquide céphalo-rachidien et à des fonctions homéostatiques telles que la température, l'osmolalité et la régulation endocrinienne hypophysaire.",
+  "sources": [
+   {
+    "title": "Stereotactic anatomy of the third ventricle",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/38374441/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Amygdala": {
+  "en": "The amygdala is an almond-shaped complex of more than ten interconnected nuclei in the medial temporal lobe, receiving input from the orbitofrontal and piriform cortex, hypothalamus, thalamus and all sensory modalities. As a core node of the limbic system it drives the processing of emotionally salient stimuli, notably fear learning and its extinction, and its dysfunction is implicated in anxiety-related conditions.",
+  "fr": "L'amygdale est un complexe en forme d'amande regroupant plus de dix noyaux interconnectés dans le lobe temporal médian, recevant des afférences du cortex orbitofrontal, du cortex piriforme, de l'hypothalamus, du thalamus et de toutes les modalités sensorielles. Nœud central du système limbique, elle pilote le traitement des stimuli à valeur émotionnelle, notamment l'apprentissage et l'extinction de la peur, et son dysfonctionnement est impliqué dans les troubles anxieux.",
+  "sources": [
+   {
+    "title": "Unraveling the amygdala: A review of its anatomy and functions",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11953536/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Anterior commissure": {
+  "en": "The anterior commissure is a compact, transversely oriented white-matter bundle that crosses the midline anterior to the fornical columns, interconnecting the two temporal lobes, piriform cortices and amygdalae, with a smaller anterior limb serving the olfactory bulbs and tracts. It provides a bilateral communication channel supporting olfaction, and contributes to memory, emotion and interhemispheric integration of temporal-lobe information.",
+  "fr": "La commissure antérieure est un faisceau de substance blanche compact, orienté transversalement, qui croise la ligne médiane en avant des piliers du fornix, reliant les deux lobes temporaux, les cortex piriformes et les amygdales, avec un contingent antérieur plus petit desservant les bulbes et tractus olfactifs. Elle constitue un canal de communication bilatéral impliqué dans l'olfaction et contribue à la mémoire, à l'émotion et à l'intégration interhémisphérique de l'information temporale.",
+  "sources": [
+   {
+    "title": "Neuroanatomy, Anterior White Commissure",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK546614/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Anterior sigmoideus gyrus": {
+  "en": "The sigmoid gyrus is the dominant, S-shaped convolution of the sheep frontal cortex, straddling the cruciate sulcus (the ungulate homologue of the primate central sulcus); its anterior part lies rostral to this sulcus. Electrical stimulation and cytoarchitectural mapping identify this region as the sheep primary motor cortex, organized somatotopically for the control of voluntary movement.",
+  "fr": "Le gyrus sigmoïde est la circonvolution dominante, en forme de S, du cortex frontal du mouton, chevauchant le sillon cruciforme (l'homologue chez les ongulés du sillon central des primates) ; sa partie antérieure est située en avant de ce sillon. La stimulation électrique et la cartographie cytoarchitecturale identifient cette région comme le cortex moteur primaire du mouton, organisé de façon somatotopique pour le contrôle du mouvement volontaire.",
+  "sources": [
+   {
+    "title": "The ovine motor cortex: A review of functional mapping and cytoarchitecture",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0149763417300726"
+   },
+   {
+    "title": "The major and minor sulci of the brain of the sheep",
+    "url": "https://kb.osu.edu/server/api/core/bitstreams/fefde849-4bf1-5aac-8721-8a005d7eecdb/content"
+   }
+  ],
+  "status": "documented"
+ },
+ "Arbor Vitae": {
+  "en": "The arbor vitae (\"tree of life\") is the branched white-matter core of the cerebellum, most visible on midsagittal section, formed of myelinated fibers that carry sensory and motor information to and from the cerebellar cortex. It is continuous with the cerebellar peduncles and houses the deep cerebellar nuclei (dentate, interposed/globose-emboliform, and fastigial), which give rise to the cerebellum's major output projections.",
+  "fr": "L'arbre de vie (arbor vitae) est le noyau de substance blanche ramifié du cervelet, le plus visible sur une coupe médio-sagittale, formé de fibres myélinisées qui transportent l'information sensorielle et motrice vers et depuis le cortex cérébelleux. Il se prolonge avec les pédoncules cérébelleux et abrite les noyaux cérébelleux profonds (denté, interposé/globuleux-emboliforme, et fastigial), à l'origine des principales projections efférentes du cervelet.",
+  "sources": [
+   {
+    "title": "Arbor vitae (anatomy) - anatomical description",
+    "url": "https://en.wikipedia.org/wiki/Arbor_vitae_(anatomy)"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Arbor vitae"
+ },
+ "Caudate": {
+  "en": "The caudate nucleus is a C-shaped component of the dorsal striatum, receiving glutamatergic input from cortex and thalamus and dopaminergic input from the substantia nigra. It contributes to motor control, habit formation and cognitive functions such as action selection and goal-directed behaviour, with its ventral aspects also engaged in limbic/reward-related processing.",
+  "fr": "Le noyau caudé est une composante en forme de C du striatum dorsal, recevant des afférences glutamatergiques du cortex et du thalamus ainsi que des afférences dopaminergiques de la substance noire. Il contribue au contrôle moteur, à la formation d'habitudes et à des fonctions cognitives telles que la sélection de l'action et le comportement orienté vers un but, ses portions ventrales étant également impliquées dans le traitement limbique et de la récompense.",
+  "sources": [
+   {
+    "title": "The cognitive functions of the caudate nucleus",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/18824075/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Central canal": {
+  "en": "The central canal is a narrow, ependyma-lined, CSF-filled channel running the length of the spinal cord, continuous rostrally with the fourth ventricle. Its ciliated ependymal cells help circulate cerebrospinal fluid and form part of the CSF-brain barrier, and the canal's ependymal lining also serves as a reservoir of proliferative cells that respond to spinal cord injury.",
+  "fr": "Le canal central est un fin conduit tapissé d'épendyme, rempli de LCS, qui parcourt toute la longueur de la moelle épinière et se prolonge en amont avec le quatrième ventricule. Ses cellules épendymaires ciliées contribuent à la circulation du liquide céphalo-rachidien et forment une composante de la barrière LCS-cerveau ; la paroi épendymaire du canal sert également de réservoir de cellules prolifératives qui répondent à une lésion médullaire.",
+  "sources": [
+   {
+    "title": "Central canal - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Central_canal"
+   },
+   {
+    "title": "Central Canal Ependymal Cells Proliferate Extensively in Response to Traumatic Spinal Cord Injury but Not Demyelinating Lesions",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3903496/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "rat:Central canal"
+ },
+ "Cerebellum": {
+  "en": "The cerebellum sits posterior to the brainstem and comprises a highly folded cortex (molecular, Purkinje and granular layers) surrounding white matter (arbor vitae) and the deep cerebellar nuclei. Classically responsible for coordinating movement, posture, balance and motor learning via its vermal, intermediate and lateral hemispheric zones, it is now also recognized to contribute to cognitive and affective processing.",
+  "fr": "Le cervelet est situé en arrière du tronc cérébral et comprend un cortex fortement replié (couches moléculaire, des cellules de Purkinje et granulaire) entourant la substance blanche (arbor vitae) et les noyaux cérébelleux profonds. Classiquement responsable de la coordination du mouvement, de la posture, de l'équilibre et de l'apprentissage moteur via ses zones vermienne, intermédiaire et hémisphérique latérale, il est aujourd'hui également reconnu comme contribuant au traitement cognitif et affectif.",
+  "sources": [
+   {
+    "title": "Neuroanatomy, Cerebellum - StatPearls",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK538167/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "rat:Cerebellum, unspecified"
+ },
+ "CerebroSpinal fluid": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "Cingulate gyrus": {
+  "en": "The cingulate gyrus is a curved band of limbic cortex that arches around the corpus callosum, extending from beneath its rostrum to the isthmus caudally, and is cytoarchitecturally subdivided into anterior, posterior and retrosplenial sectors. It is central to the regulation of emotion, reactivity to pain, attention to sensory stimuli and memory processing, with its anterior part densely connected to the amygdala, anterior/mediodorsal thalamus and orbitofrontal cortex.",
+  "fr": "Le gyrus cingulaire est une bande incurvée de cortex limbique qui enveloppe le corps calleux, s'étendant de sa région sous-rostrale jusqu'à l'isthme en arrière, et se subdivise cytoarchitecturalement en secteurs antérieur, postérieur et rétrosplénial. Il joue un rôle central dans la régulation de l'émotion, la réactivité à la douleur, l'attention aux stimuli sensoriels et les processus mnésiques, sa partie antérieure étant densément connectée à l'amygdale, au thalamus antérieur/médiodorsal et au cortex orbitofrontal.",
+  "sources": [
+   {
+    "title": "Neuroanatomy, Cingulate Cortex",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK537077/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Claustrum": {
+  "en": "The claustrum is a thin sheet of gray matter lying between the insular cortex and the striatum (external/extreme capsules), with among the densest and most widespread reciprocal connectivity with cortex of any structure relative to its size. In the mouse it is strongly interconnected with anterior cingulate and insular cortex, and it has been proposed to coordinate cross-modal sensory integration, attention, and states such as sleep.",
+  "fr": "Le claustrum est une fine lame de substance grise située entre le cortex insulaire et le striatum (capsules externe/extrême), présentant, relativement à sa taille, l'une des connectivités réciproques avec le cortex les plus denses et les plus étendues. Chez la souris, il est fortement interconnecté avec le cortex cingulaire antérieur et le cortex insulaire, et il a été proposé qu'il coordonne l'intégration sensorielle multimodale, l'attention et certains états tels que le sommeil.",
+  "sources": [
+   {
+    "title": "Structural Connectivity of the Anterior Cingulate Cortex, Claustrum, and the Anterior Insula of the Mouse",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6276828/"
+   },
+   {
+    "title": "Changing the Cortical Conductor's Tempo: Neuromodulation of the Claustrum",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8155375/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Claustrum"
+ },
+ "Corpus Callosum": {
+  "en": "The corpus callosum is the brain's largest commissural white-matter tract, comprising roughly 200 million myelinated axons that interconnect homotopic and heterotopic regions of the two cerebral hemispheres, with a broadly anteroposterior topography (frontal/motor fibers anteriorly, visual fibers via the splenium posteriorly). It integrates and transfers sensory, motor and higher cognitive information between hemispheres, enabling coordinated bilateral brain function.",
+  "fr": "Le corps calleux est le plus important faisceau commissural de substance blanche du cerveau, comprenant environ 200 millions d'axones myélinisés qui relient des régions homotopiques et hétérotopiques des deux hémisphères cérébraux, selon une topographie globalement antéropostérieure (fibres frontales/motrices en avant, fibres visuelles via le splénium en arrière). Il intègre et transfère l'information sensorielle, motrice et cognitive supérieure entre les hémisphères, permettant un fonctionnement cérébral bilatéral coordonné.",
+  "sources": [
+   {
+    "title": "Neuroanatomy, Corpus Callosum",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK448209/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Ectolateral gyrus": {
+  "en": "The ectolateral gyrus is a cortical convolution of the sheep cerebral hemisphere lying between the lateral and suprasylvian gyri, bounded by the variable ectolateral sulcus; it forms part of the lateral/parietotemporal convexity implicated in higher-order sensory (notably auditory and somatosensory) association processing, as mapped in classical comparative sulcal anatomy of the ovine brain.",
+  "fr": "Le gyrus ectolatéral est une circonvolution corticale de l'hémisphère cérébral du mouton, situmonth entre les gyrus latéral et suprasylvien, délimitée par le sillon ectolatéral, de forme variable ; il fait partie de la convexité latérale/pariéto-temporale impliquée dans le traitement associatif sensoriel de haut niveau (notamment auditif et somatosensoriel), tel que décrit dans l'anatomie sulcale comparée classique du cerveau ovin.",
+  "sources": [
+   {
+    "title": "The major and minor sulci of the brain of the sheep",
+    "url": "https://kb.osu.edu/server/api/core/bitstreams/fefde849-4bf1-5aac-8721-8a005d7eecdb/content"
+   },
+   {
+    "title": "Thalamic projections to the posterior sylvian and posterior ectosylvian gyri of the sheep brain",
+    "url": "https://link.springer.com/article/10.1007/BF00315458"
+   }
+  ],
+  "status": "documented"
+ },
+ "Entolateral gyrus": {
+  "en": "The entolateral gyrus is a cortical convolution of the sheep cerebral hemisphere lying medial to the ectolateral gyrus, on the lateral convexity between the lateral and suprasylvian sulcal systems. Comparative sulcal-anatomy studies of the ovine brain place it within the parietotemporal association cortex, adjacent to regions receiving thalamic auditory and somatosensory projections.",
+  "fr": "Le gyrus entolatéral est une circonvolution corticale de l'hémisphère cérébral du mouton, située en dedans du gyrus ectolatéral, sur la convexité latérale entre les systèmes sulcaux latéral et suprasylvien. Les études comparées d'anatomie sulcale du cerveau ovin le situent au sein du cortex associatif pariéto-temporal, à proximité de régions recevant des projections thalamiques auditives et somatosensorielles.",
+  "sources": [
+   {
+    "title": "The major and minor sulci of the brain of the sheep",
+    "url": "https://kb.osu.edu/server/api/core/bitstreams/fefde849-4bf1-5aac-8721-8a005d7eecdb/content"
+   }
+  ],
+  "status": "documented"
+ },
+ "Ethmoidal labyrinth": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "Fornix": {
+  "en": "The fornix is the major white matter output/input pathway of the hippocampus, formed by fibers of the fimbria that arch beneath the corpus callosum to reach the septal nuclei, mammillary bodies and other diencephalic targets. It carries projections from the medial septum to the hippocampus and from the hippocampus to the diencephalon, striatum, lateral septum and prefrontal cortex, and its disruption impairs memory, including temporal sequence memory.",
+  "fr": "Le fornix est la principale voie de sortie/entrée de substance blanche de l'hippocampe, formée par les fibres de la fimbria qui s'arquent sous le corps calleux pour atteindre les noyaux septaux, les corps mamillaires et d'autres cibles diencéphaliques. Il transporte des projections du septum médian vers l'hippocampe et de l'hippocampe vers le diencéphale, le striatum, le septum latéral et le cortex préfrontal ; sa lésion altère la mémoire, y compris la mémoire de séquence temporelle.",
+  "sources": [
+   {
+    "title": "Fornix of the brain: Anatomy and functions",
+    "url": "https://www.kenhub.com/en/library/anatomy/fornix-of-the-brain"
+   },
+   {
+    "title": "A role for the fornix in temporal sequence memory",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10336598/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "rat:fornix"
+ },
+ "Frontal Sinus": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "Hippocampus": {
+  "en": "The hippocampal formation is an allocortical structure of the medial temporal lobe comprising the dentate gyrus, the CA fields (Ammon's horn) and the subiculum, interconnected via the trisynaptic circuit and communicating with cortex through the entorhinal cortex, fimbria/fornix and alveus. It is essential for spatial navigation and the encoding and consolidation of declarative (episodic and spatial) memory.",
+  "fr": "La formation hippocampique est une structure allocorticale du lobe temporal médian comprenant le gyrus denté, les champs CA (corne d'Ammon) et le subiculum, interconnectés via le circuit trisynaptique et communiquant avec le cortex par l'intermédiaire du cortex entorhinal, de la fimbria/fornix et de l'alvéus. Elle est essentielle à la navigation spatiale ainsi qu'à l'encodage et la consolidation de la mémoire déclarative (épisodique et spatiale).",
+  "sources": [
+   {
+    "title": "Anatomy and function of the hippocampal formation (mouse atlas review)",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4104804/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Hypothalamic nuclei": {
+  "en": "The hypothalamus comprises a bilateral set of roughly a dozen distinct nuclei organized into preoptic, anterior, tuberal and mammillary regions along the wall and floor of the third ventricle. Collectively these nuclei regulate the endocrine, autonomic and somatic systems, coordinating homeostatic functions such as thermoregulation, thirst, feeding, circadian rhythm, stress response and reproductive behaviour via projections to the pituitary, brainstem and spinal cord.",
+  "fr": "L'hypothalamus comprend un ensemble bilatéral d'une douzaine de noyaux distincts, organisés en régions préoptique, antérieure, tubérale et mammillaire le long de la paroi et du plancher du troisième ventricule. Collectivement, ces noyaux régulent les systèmes endocrinien, autonome et somatique, coordonnant des fonctions homéostatiques telles que la thermorégulation, la soif, l'alimentation, le rythme circadien, la réponse au stress et le comportement reproducteur, via des projections vers l'hypophyse, le tronc cérébral et la moelle épinière.",
+  "sources": [
+   {
+    "title": "Neuroanatomy, Hypothalamus",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK525993/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Hypothalamic paraventricular nucleus": {
+  "en": "The paraventricular nucleus of the hypothalamus (PVN) has been described as an 'autonomic master controller', coordinating the hypothalamic-pituitary-adrenal (HPA) axis together with sympathetic and parasympathetic outflow. Its parvocellular neurons release corticotropin-releasing hormone (CRH) to drive the HPA stress response, while its magnocellular and long-projecting neurons contribute to energy balance and other neuroendocrine functions.",
+  "fr": "Le noyau paraventriculaire de l'hypothalamus (PVN) a été décrit comme un « contrôleur autonome maître », coordonnant l'axe hypothalamo-hypophyso-surrénalien (HPA) ainsi que les activités sympathique et parasympathique. Ses neurones parvocellulaires libèrent la corticolibérine (CRH) pour déclencher la réponse de stress de l'axe HPA, tandis que ses neurones magnocellulaires et à projection longue contribuent à l'équilibre énergétique et à d'autres fonctions neuroendocriniennes.",
+  "sources": [
+   {
+    "title": "The paraventricular nucleus of the hypothalamus: a key node in the control of behavioural states",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12013795/"
+   },
+   {
+    "title": "The Paraventricular Nucleus of the Hypothalamus: Development, Function, and Human Diseases",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30052854/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Insular cortex": {
+  "en": "The insular cortex is a cortical region buried within the lateral (Sylvian) sulcus, richly interconnected with sensory, limbic and frontal areas, and is considered the primary interoceptive cortex supporting self-monitoring of internal bodily states. Its anterior portion contributes to emotional awareness, decision-making and interoception, while its posterior portion is more closely tied to somatosensory and pain processing.",
+  "fr": "Le cortex insulaire est une région corticale enfouie dans le sillon latéral (sylvien), richement connectée aux aires sensorielles, limbiques et frontales, et est considéré comme le cortex interoceptif primaire soutenant l'auto-surveillance des états corporels internes. Sa partie antérieure contribue à la conscience émotionnelle, à la prise de décision et à l'interoception, tandis que sa partie postérieure est davantage liée au traitement somatosensoriel et à la douleur.",
+  "sources": [
+   {
+    "title": "The Insular Cortex: An Interface Between Sensation, Emotion and Cognition",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11607240/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Internal auditory meatus": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "Internal capsule": {
+  "en": "The internal capsule is a large subcortical white-matter bundle that separates the caudate nucleus and thalamus from the putamen and globus pallidus, conventionally divided into anterior limb, genu, and posterior limb. It carries reciprocal fibers between the cerebral cortex and the thalamus, brainstem, and spinal cord, including thalamocortical radiations and corticofugal motor pathways.",
+  "fr": "La capsule interne est un large faisceau de substance blanche sous-corticale qui sépare le noyau caudé et le thalamus du putamen et du globus pallidus, classiquement divisée en bras antérieur, genou et bras postérieur. Elle transporte des fibres réciproques entre le cortex cérébral et le thalamus, le tronc cérébral et la moelle épinière, y compris les radiations thalamo-corticales et les voies motrices corticofuges.",
+  "sources": [
+   {
+    "title": "Neuroanatomy, Internal Capsule - StatPearls",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK542181/"
+   },
+   {
+    "title": "Organization of the Anterior Limb of the Internal Capsule in the Rat",
+    "url": "https://www.jneurosci.org/content/37/10/2539"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Internal capsule"
+ },
+ "Lateral Septum": {
+  "en": "The lateral septum is a forebrain region beneath the corpus callosum with strong efferent projections to hypothalamic and midbrain regions and reciprocal connections with the hippocampus. It is a heterogeneous mosaic of anatomically and molecularly distinct subdivisions that together modulate social behavior, anxiety, fear-memory regulation and reward-related behaviors.",
+  "fr": "Le septum latéral est une région du télencéphale située sous le corps calleux, aux fortes projections efférentes vers l'hypothalamus et le mésencéphale et aux connexions réciproques avec l'hippocampe. Il forme une mosaïque hétérogène de subdivisions anatomiquement et moléculairement distinctes qui modulent conjointement le comportement social, l'anxiété, la régulation de la mémoire de peur et les comportements liés à la récompense.",
+  "sources": [
+   {
+    "title": "Spatial Cell Atlas of Lateral Septum Reveals Changes Underlying Anxiety and Fear Learning Deficits",
+    "url": "https://www.ijbs.com/v21p6389.htm"
+   }
+  ],
+  "status": "documented"
+ },
+ "Lateral gyrus": {
+  "en": "The lateral gyrus is a named convolution of the sheep cerebral hemisphere's lateral convexity, situated between the ectolateral sulcus and the rhinal/Sylvian region in classical comparative sulcal nomenclature of the ovine brain. It forms part of the lateral temporal-parietal cortex contributing to sensory association processing.",
+  "fr": "Le gyrus latéral est une circonvolution nommée de la convexité latérale de l'hémisphère cérébral du mouton, située entre le sillon ectolatéral et la région rhinale/sylvienne dans la nomenclature sulcale comparée classique du cerveau ovin. Il fait partie du cortex temporo-pariétal latéral contribuant au traitement associatif sensoriel.",
+  "sources": [
+   {
+    "title": "The major and minor sulci of the brain of the sheep",
+    "url": "https://kb.osu.edu/server/api/core/bitstreams/fefde849-4bf1-5aac-8721-8a005d7eecdb/content"
+   }
+  ],
+  "status": "documented"
+ },
+ "Medulla Oblongata": {
+  "en": "The medulla oblongata is the most caudal segment of the brainstem, continuous with the spinal cord, containing the pyramids and olivary bodies ventrally and the caudal cranial nerve nuclei (IX-XII) and floor of the fourth ventricle dorsally. It houses vital autonomic centers controlling respiration, cardiovascular regulation, swallowing and other reflexes, while relaying ascending sensory and descending motor tracts between spinal cord and brain.",
+  "fr": "Le bulbe rachidien (medulla oblongata) est le segment le plus caudal du tronc cérébral, se poursuivant par la moelle épinière ; il contient les pyramides et les olives bulbaires en avant, et les noyaux des nerfs crâniens caudaux (IX-XII) ainsi que le plancher du quatrième ventricule en arrière. Il abrite des centres autonomes vitaux contrôlant la respiration, la régulation cardiovasculaire, la déglutition et d'autres réflexes, tout en relayant les voies sensitives ascendantes et motrices descendantes entre la moelle épinière et l'encéphale.",
+  "sources": [
+   {
+    "title": "Neuroanatomy, Medulla Oblongata",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK551589/"
+   }
+  ],
+  "status": "documented"
+ },
+ "MidBrain": {
+  "en": "The midbrain (mesencephalon) is the smallest brainstem segment, situated between the pons and the diencephalon, and is divided into a dorsal tectum (superior and inferior colliculi, mediating visual and auditory reflexes) and a ventral tegmentum containing the periaqueductal gray, red nucleus, substantia nigra, ventral tegmental area and oculomotor nuclei. Its reticular formation contributes to arousal, sleep and pain modulation, and it is a key relay for extrapyramidal motor control.",
+  "fr": "Le mésencéphale est le plus petit segment du tronc cérébral, situé entre le pont et le diencéphale ; il se divise en un tectum dorsal (colliculus supérieurs et inférieurs, médiant les réflexes visuels et auditifs) et un tegmentum ventral contenant la substance grise périaqueducale, le noyau rouge, la substance noire, l'aire tegmentale ventrale et les noyaux oculomoteurs. Sa formation réticulée contribue à l'éveil, au sommeil et à la modulation de la douleur, et il constitue un relais clé du contrôle moteur extrapyramidal.",
+  "sources": [
+   {
+    "title": "Neuroanatomy, Mesencephalon Midbrain",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK551509/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Nucleus Accumbens": {
+  "en": "The nucleus accumbens (NAc) is a ventral striatal structure and a central node of the brain's reward circuitry, converting motivational and emotional signals into action. Distinct NAc neuronal populations and afferent pathways process reward and aversion in parallel: neurons receiving basolateral amygdala input promote positive reinforcement by disinhibiting ventral tegmental area dopamine neurons, whereas neurons receiving paraventricular thalamic input mediate aversion. Prolonged stress or drug exposure can produce maladaptive NAc function linked to anxiety, depression, anhedonia and addiction.",
+  "fr": "Le noyau accumbens (NAc) est une structure du striatum ventral et un nœud central du circuit de la récompense, qui convertit les signaux motivationnels et émotionnels en action. Des populations neuronales et des voies afférentes distinctes du NAc traitent en parallèle récompense et aversion : les neurones recevant une afférence de l'amygdale basolatérale favorisent le renforcement positif en désinhibant les neurones dopaminergiques de l'aire tegmentale ventrale, tandis que ceux recevant une afférence du thalamus paraventriculaire médient l'aversion. Un stress prolongé ou une exposition à des drogues peuvent entraîner un fonctionnement inadapté du NAc, associé à l'anxiété, la dépression, l'anhédonie et l'addiction.",
+  "sources": [
+   {
+    "title": "The nucleus accumbens in reward and aversion processing: insights and implications",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11341389/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Nucleus accumbens"
+ },
+ "Nucleus of vertical limb of diagonal band": {
+  "en": "The nucleus of the vertical limb of the diagonal band (Broca's diagonal band, part of the Ch2/Ch3 cholinergic cell groups) is a basal forebrain structure whose cholinergic and GABAergic neurons project mainly to the hippocampus via the vertical limb, forming the septo-hippocampal pathway. This projection modulates hippocampal arousal, attention and memory encoding.",
+  "fr": "Le noyau de la branche verticale de la bandelette diagonale (bandelette diagonale de Broca, groupes cholinergiques Ch2/Ch3) est une structure du télencéphale basal dont les neurones cholinergiques et GABAergiques projettent principalement vers l'hippocampe via la branche verticale, formant la voie septo-hippocampique. Cette projection module l'éveil hippocampique, l'attention et l'encodage mnésique.",
+  "sources": [
+   {
+    "title": "The Basal Forebrain Cholinergic Nuclei and Their Relevance to Schizophrenia and Other Psychotic Disorders",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9299093/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Occipital lobe": {
+  "en": "The occipital lobe is the caudal-most cerebral lobe, containing the primary visual cortex (V1) around the calcarine sulcus and surrounding visual association areas (V2-V5). It is primarily responsible for visual processing, including visuospatial analysis, depth and distance perception, color and motion analysis, and object/face recognition.",
+  "fr": "Le lobe occipital est le lobe cérébral le plus postérieur, contenant le cortex visuel primaire (V1) autour du sillon calcarin et les aires visuelles associatives environnantes (V2-V5). Il est principalement responsable du traitement visuel, incluant l'analyse visuospatiale, la perception de la profondeur et de la distance, l'analyse des couleurs et du mouvement, ainsi que la reconnaissance des objets et des visages.",
+  "sources": [
+   {
+    "title": "Neuroanatomy, Occipital Lobe",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK544320/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Olfactory bulb": {
+  "en": "The olfactory bulb is the first relay station for olfactory information, located at the most rostral end of the forebrain. It receives direct input from olfactory sensory neurons in the nasal epithelium and, through local circuits involving mitral/tufted cells and diverse interneurons, performs an initial spatial and temporal analysis of odor information before relaying it to olfactory cortex.",
+  "fr": "Le bulbe olfactif est le premier relais de l'information olfactive, situé à l'extrémité la plus rostrale du cerveau antérieur. Il reçoit une entrée directe des neurones sensoriels olfactifs de l'épithélium nasal et, via des circuits locaux impliquant les cellules mitrales/à panache et divers interneurones, effectue une première analyse spatiale et temporelle de l'information odorante avant de la relayer vers le cortex olfactif.",
+  "sources": [
+   {
+    "title": "Development of the mammalian main olfactory bulb",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8918810/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "rat:Olfactory bulb, unspecified"
+ },
+ "Olfactory tract": {
+  "en": "The olfactory tract is a bundle of second-order axons (from mitral and tufted cells) running from the olfactory bulb caudally along the olfactory sulcus to the olfactory trigone, where it diverges into lateral, medial and intermediate striae. The lateral stria, the largest, carries the bulk of information destined for the primary olfactory (piriform) cortex, while the medial stria mediates autonomic responses to smell such as salivation and gastric secretion.",
+  "fr": "Le tractus olfactif est un faisceau d'axones de second ordre (issus des cellules mitrales et à pinceau) cheminant depuis le bulbe olfactif, le long du sillon olfactif, jusqu'au trigone olfactif, où il se divise en stries latérale, médiane et intermédiaire. La strie latérale, la plus volumineuse, transporte l'essentiel de l'information destinée au cortex olfactif primaire (piriforme), tandis que la strie médiane médie les réponses autonomes à l'odeur telles que la salivation et la sécrétion gastrique.",
+  "sources": [
+   {
+    "title": "Neuroanatomy, Cranial Nerve 1 (Olfactory)",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK556051/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Optical pathway": {
+  "en": "The optic (visual) pathway is the continuous chain of neural structures conveying visual information from the retina to the primary visual cortex: optic nerve, optic chiasm (where nasal-hemiretina fibers decussate), optic tract, lateral geniculate nucleus, optic radiation, and occipital cortex. Damage at any point along this pathway produces characteristic, localizing visual field deficits.",
+  "fr": "La voie optique (visuelle) est la chaîne continue de structures nerveuses acheminant l'information visuelle de la rétine jusqu'au cortex visuel primaire : nerf optique, chiasma optique (où décussent les fibres de l'hémirétine nasale), tractus optique, corps genouillé latéral, radiations optiques et cortex occipital. Une lésion à tout niveau de cette voie produit des déficits caractéristiques du champ visuel, permettant sa localisation.",
+  "sources": [
+   {
+    "title": "Neuroanatomy, Visual Pathway",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK553189/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Orbital gyrus": {
+  "en": "The orbital gyri form the orbitofrontal cortex on the ventral surface of the frontal lobe, overlying the orbit. This region integrates sensory, emotional and cognitive signals to support value-based, goal-directed behaviour, with lateral orbitofrontal cortex more engaged in evaluating punishers and medial orbitofrontal cortex in monitoring reward value.",
+  "fr": "Les gyri orbitaires forment le cortex orbitofrontal, à la face ventrale du lobe frontal, au-dessus de l'orbite. Cette région intègre des signaux sensoriels, émotionnels et cognitifs pour soutenir un comportement orienté vers un but fondé sur la valeur, le cortex orbitofrontal latéral étant davantage impliqué dans l'évaluation des stimuli punitifs et sa partie médiane dans le suivi de la valeur de récompense.",
+  "sources": [
+   {
+    "title": "Role and Functions of the Human Orbitofrontal Cortex",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41186438/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Orbitofrontal gyrus": {
+  "en": "The orbitofrontal gyrus lies on the ventral (orbital) surface of the frontal lobe and constitutes the core of the orbitofrontal cortex, a region evaluating the hedonic value of stimuli across sensory modalities (visual, gustatory, olfactory, somatosensory) to guide flexible, reward-based decision-making. It is densely connected with the amygdala, temporal cortex and prefrontal association areas, and its disruption produces social disinhibition and impaired behavioural adaptation to feedback.",
+  "fr": "Le gyrus orbitofrontal est situé sur la face ventrale (orbitaire) du lobe frontal et constitue le cœur du cortex orbitofrontal, une région évaluant la valeur hédonique des stimuli à travers les modalités sensorielles (visuelle, gustative, olfactive, somesthésique) pour guider une prise de décision flexible fondée sur la récompense. Il est densément connecté à l'amygdale, au cortex temporal et aux aires associatives préfrontales, et sa lésion entraîne une désinhibition sociale et une altération de l'adaptation comportementale au retour d'information.",
+  "sources": [
+   {
+    "title": "Role and Functions of the Human Orbitofrontal Cortex",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41186438/"
+   },
+   {
+    "title": "The functional neuroanatomy of the human orbitofrontal cortex: evidence from neuroimaging and neuropsychology",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/15157726/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Periaqueductal grey substance": {
+  "en": "The periaqueductal gray (PAG), surrounding the cerebral aqueduct in the midbrain, is an integration center regulating pain, defensive and aggressive behavior, anxiety, cardiovascular responses, respiration and sleep-wake states. It is organized into four longitudinal columns (dorsomedial, dorsolateral, lateral and ventrolateral); dorsal PAG activity is generally associated with active escape/flight responses and ventral, ventrolateral PAG activity with passive freezing responses to threat, and the PAG plays an essential role in both predatory and anti-predator defensive behaviors.",
+  "fr": "La substance grise périaqueducale (PAG), entourant l'aqueduc cérébral dans le mésencéphale, est un centre d'intégration régulant la douleur, les comportements défensifs et agressifs, l'anxiété, les réponses cardiovasculaires, la respiration et les états de veille-sommeil. Elle est organisée en quatre colonnes longitudinales (dorsomédiane, dorsolatérale, latérale et ventrolatérale) ; l'activité de la PAG dorsale est généralement associée aux réponses actives de fuite, tandis que l'activité de la PAG ventrale (ventrolatérale) est associée aux réponses passives d'immobilisation face à la menace, et la PAG joue un rôle essentiel tant dans les comportements de prédation que de défense anti-prédateur.",
+  "sources": [
+   {
+    "title": "The contribution of periaqueductal gray in the regulation of physiological and pathological behaviors",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11034386/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Periaqueductal gray"
+ },
+ "Pineal gland": {
+  "en": "The pineal gland is a neuroendocrine organ that produces melatonin at night in pinealocytes, under control of sympathetic input driven by the suprachiasmatic nucleus. Melatonin secretion, which peaks during darkness and troughs during the day, synchronizes circadian rhythms throughout the body and feeds back onto the suprachiasmatic nucleus.",
+  "fr": "La glande pinéale est un organe neuroendocrinien qui produit de la mélatonine la nuit au niveau des pinéalocytes, sous le contrôle d'une innervation sympathique pilotée par le noyau suprachiasmatique. La sécrétion de mélatonine, maximale pendant l'obscurité et minimale le jour, synchronise les rythmes circadiens dans tout l'organisme et rétroagit sur le noyau suprachiasmatique.",
+  "sources": [
+   {
+    "title": "Physiology of the Pineal Gland and Melatonin - Endotext",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK550972/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "rat:Pineal gland"
+ },
+ "Pituitary": {
+  "en": "The pituitary gland sits in the sella turcica below the hypothalamus, to which it is connected by the pituitary stalk, and comprises an anterior lobe (adenohypophysis) and a posterior lobe (neurohypophysis). The anterior lobe secretes peptide/glycoprotein hormones (ACTH, TSH, growth hormone, FSH/LH, prolactin) under hypothalamic control to regulate growth, metabolism, reproduction and stress responses, while the posterior lobe releases the hypothalamically-synthesized hormones oxytocin and vasopressin (antidiuretic hormone).",
+  "fr": "L'hypophyse est logée dans la selle turcique sous l'hypothalamus, auquel elle est reliée par la tige pituitaire, et comprend un lobe antérieur (adénohypophyse) et un lobe postérieur (neurohypophyse). Le lobe antérieur sécrète des hormones peptidiques/glycoprotéiques (ACTH, TSH, hormone de croissance, FSH/LH, prolactine) sous contrôle hypothalamique pour réguler la croissance, le métabolisme, la reproduction et les réponses au stress, tandis que le lobe postérieur libère l'ocytocine et la vasopressine (hormone antidiurétique), synthétisées dans l'hypothalamus.",
+  "sources": [
+   {
+    "title": "Physiology, Pituitary Gland - StatPearls",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK459247/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Pons": {
+  "en": "The pons is the middle segment of the brainstem, between the midbrain and medulla oblongata, marked ventrally by a prominent bulge formed by transverse pontocerebellar fibers that connect the pons to the cerebellum via the middle cerebellar peduncle. It relays information between the cerebral cortex and cerebellum, houses several cranial nerve nuclei (V-VIII), and contributes to respiratory and sleep-related regulatory centers.",
+  "fr": "Le pont (protubérance annulaire) est le segment moyen du tronc cérébral, entre le mésencéphale et le bulbe rachidien, marqué du côté ventral par un renflement formé par les fibres ponto-cérébelleuses transversales qui relient le pont au cervelet via le pédoncule cérébelleux moyen. Il relaie l'information entre le cortex cérébral et le cervelet, abrite plusieurs noyaux de nerfs crâniens (V à VIII), et contribue aux centres de régulation respiratoire et du sommeil.",
+  "sources": [
+   {
+    "title": "Sheep Brain Dissection Guide - Neuroanatomical Terms of Reference, University of Delaware",
+    "url": "https://www1.udel.edu/psych/sgallagh/NeuroscienceLab/Dissection.doc"
+   }
+  ],
+  "status": "documented"
+ },
+ "Postcruciate gyrus": {
+  "en": "The postcruciate gyrus lies immediately posterior to the cruciate sulcus and corresponds to the primary somatosensory cortex (comparable to the postcentral gyrus). In carnivore and ungulate comparative neuroanatomy this region is also termed the posterior sigmoid gyrus.",
+  "fr": "Le gyrus postcruciforme se situe immédiatement en arrière du sillon cruciforme et correspond au cortex somatosensoriel primaire (comparable au gyrus postcentral). En neuroanatomie comparée des carnivores et ongulés, cette région est aussi appelée gyrus sigmoïde postérieur.",
+  "sources": [
+   {
+    "title": "Sheep Brain Anatomy Lab Manual, Amherst College",
+    "url": "https://www.amherst.edu/system/files/media/0212/sheeplab_2006.doc"
+   },
+   {
+    "title": "Comparative neuroimaging of the carnivoran brain: Neocortical sulcal anatomy",
+    "url": "https://elifesciences.org/articles/100851"
+   }
+  ],
+  "status": "documented"
+ },
+ "Posterior sigmoideus gyrus": {
+  "en": "The posterior sigmoid gyrus, separated from the anterior sigmoid gyrus by the cruciate sulcus, contains the primary motor and somatosensory cortical representations in gyrencephalic mammals such as sheep and carnivores (cats, dogs, ferrets), corresponding to the postcruciate/postcentral region.",
+  "fr": "Le gyrus sigmoïde postérieur, séparé du gyrus sigmoïde antérieur par le sillon cruciforme, contient les représentations corticales motrices et somatosensorielles primaires chez les mammifères gyrencéphales tels que le mouton et les carnivores (chats, chiens, furets), correspondant à la région postcruciforme/postcentrale.",
+  "sources": [
+   {
+    "title": "Comparative neuroimaging of the carnivoran brain: Neocortical sulcal anatomy",
+    "url": "https://elifesciences.org/articles/100851"
+   }
+  ],
+  "status": "documented"
+ },
+ "Posterior sylvian gyrus": {
+  "en": "The posterior sylvian gyrus is the caudal portion of the sylvian gyrus, positioned along the posterior part of the lateral (sylvian) fissure near the temporal and parietal lobe boundary. Like the rest of the perisylvian cortex, it is associated with auditory and higher-order temporal-lobe association processing.",
+  "fr": "Le gyrus sylvien postérieur est la portion caudale du gyrus sylvien, situé le long de la partie postérieure de la scissure latérale (sylvienne), près de la limite entre les lobes temporal et pariétal. Comme le reste du cortex périsylvien, il est associé au traitement auditif et associatif de haut niveau du lobe temporal.",
+  "sources": [
+   {
+    "title": "Sheep Brain Dissection Guide - Neuroanatomical Terms of Reference, University of Delaware",
+    "url": "https://www1.udel.edu/psych/sgallagh/NeuroscienceLab/Dissection.doc"
+   }
+  ],
+  "status": "documented"
+ },
+ "Prahippocampal cortex": {
+  "en": "The parahippocampal cortex (likely intended by \"Prahippocampal cortex\") borders the hippocampus in the medial temporal lobe and forms a principal route for cortical spatial and contextual information to reach the hippocampus. It is critical for spatial and episodic memory, including memory for the spatial configuration of a scene, and for contextual associative memory more broadly.",
+  "fr": "Le cortex parahippocampique (probablement visé par « Prahippocampal cortex ») borde l'hippocampe dans le lobe temporal médian et constitue une voie principale par laquelle l'information corticale spatiale et contextuelle atteint l'hippocampe. Il est essentiel à la mémoire spatiale et épisodique, y compris la mémoire de la configuration spatiale d'une scène, et plus largement à la mémoire associative contextuelle.",
+  "sources": [
+   {
+    "title": "The Parahippocampal Cortex and its Functional Connection with the Hippocampus are Critical for Nonnavigational Spatial Memory in Macaques",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7945022/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Precruciate gyrus": {
+  "en": "The precruciate gyrus lies immediately anterior to the cruciate sulcus, the sheep-brain landmark equivalent to the central sulcus/fissure of Rolando, and corresponds to the primary motor cortex (comparable to the precentral gyrus). In carnivore and ungulate comparative neuroanatomy this region is also termed the anterior sigmoid gyrus, containing premotor and primary motor representations.",
+  "fr": "Le gyrus précruciforme se situe immédiatement en avant du sillon cruciforme, le repère du cerveau du mouton équivalent au sillon central (scissure de Rolando), et correspond au cortex moteur primaire (comparable au gyrus précentral). En neuroanatomie comparée des carnivores et ongulés, cette région est aussi appelée gyrus sigmoïde antérieur, contenant les représentations prémotrices et motrices primaires.",
+  "sources": [
+   {
+    "title": "Sheep Brain Anatomy Lab Manual, Amherst College",
+    "url": "https://www.amherst.edu/system/files/media/0212/sheeplab_2006.doc"
+   },
+   {
+    "title": "Comparative neuroimaging of the carnivoran brain: Neocortical sulcal anatomy",
+    "url": "https://elifesciences.org/articles/100851"
+   }
+  ],
+  "status": "documented"
+ },
+ "Preoptic hypothalamic area": {
+  "en": "The preoptic area, at the rostral end of the hypothalamus, is a key integration center for thermoregulation and sleep: warm-sensitive preoptic neurons drive heat-loss responses and project to downstream effector regions (e.g. the dorsomedial hypothalamus and raphe pallidus), and the region is essential for the tight physiological coupling between falling body temperature and sleep onset.",
+  "fr": "L'aire préoptique, à l'extrémité rostrale de l'hypothalamus, est un centre d'intégration clé pour la thermorégulation et le sommeil : les neurones préoptiques sensibles à la chaleur déclenchent les réponses de perte de chaleur et projettent vers des régions effectrices en aval (par exemple l'hypothalamus dorsomédian et le raphé pallidus) ; cette région est essentielle au couplage physiologique étroit entre la baisse de température corporelle et l'endormissement.",
+  "sources": [
+   {
+    "title": "Role of the Preoptic Area in Sleep and Thermoregulation",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8280336/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Putamen": {
+  "en": "The putamen, together with the caudate nucleus, forms the dorsal striatum, and together with the globus pallidus forms the lentiform nucleus. It is a principal input station of the basal ganglia, receiving cortical, thalamic and dopaminergic (nigral) afferents, and is centrally involved in motor learning and control (including speech articulation), with putaminal dysfunction implicated in Parkinson's disease, Huntington's disease and dystonia.",
+  "fr": "Le putamen, avec le noyau caudé, forme le striatum dorsal, et avec le globus pallidus il forme le noyau lenticulaire. C'est une station d'entrée majeure des ganglions de la base, recevant des afférences corticales, thalamiques et dopaminergiques (nigrales), et il est central dans l'apprentissage et le contrôle moteur (y compris l'articulation de la parole) ; son dysfonctionnement est impliqué dans la maladie de Parkinson, la maladie de Huntington et la dystonie.",
+  "sources": [
+   {
+    "title": "Neuroanatomy, Putamen - StatPearls",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK542170/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Rectus gyrus": {
+  "en": "The rectus gyrus (gyrus rectus, straight gyrus) runs along the medial, inferior surface of the frontal lobe, bounded medially by the longitudinal fissure and laterally by the olfactory sulcus, which carries the olfactory bulb and tract. Together with the adjacent orbitofrontal cortex it participates in olfactory processing.",
+  "fr": "Le gyrus rectus (gyrus droit) longe la surface médiane et inférieure du lobe frontal, limité en dedans par la scissure longitudinale et en dehors par le sillon olfactif, qui héberge le bulbe et le tractus olfactifs. Avec le cortex orbitofrontal adjacent, il participe au traitement olfactif.",
+  "sources": [
+   {
+    "title": "Straight gyrus - Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Straight_gyrus"
+   }
+  ],
+  "status": "documented"
+ },
+ "Rhinocele": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "Septum": {
+  "en": "The septal region lies medially beneath the corpus callosum, between the two lateral ventricles, and includes the septum pellucidum (a thin sheet of tissue separating the ventricles) as well as deeper septal nuclei that are heavily interconnected with the hippocampus via the fornix. It is a key node of the limbic system, contributing (via cholinergic and GABAergic septohippocampal projections) to hippocampal theta rhythm generation and to memory, motivation and emotional regulation.",
+  "fr": "La région septale se situe médialement sous le corps calleux, entre les deux ventricules latéraux, et comprend le septum pellucidum (une fine lame de tissu séparant les ventricules) ainsi que des noyaux septaux plus profonds, fortement interconnectés avec l'hippocampe via le fornix. C'est un nœud clé du système limbique qui contribue, via les projections septo-hippocampiques cholinergiques et GABAergiques, à la génération du rythme thêta hippocampique ainsi qu'à la mémoire, la motivation et la régulation émotionnelle.",
+  "sources": [
+   {
+    "title": "Sheep Brain Dissection Guide - Neuroanatomical Terms of Reference, University of Delaware",
+    "url": "https://www1.udel.edu/psych/sgallagh/NeuroscienceLab/Dissection.doc"
+   }
+  ],
+  "status": "documented"
+ },
+ "Skull": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "Soft Tissue": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "Stria Terminalis": {
+  "en": "The stria terminalis is a major fiber tract that arches from the amygdala (chiefly the medial and central nuclei) along the floor of the lateral ventricle to terminate mainly in the bed nucleus of the stria terminalis and hypothalamus, forming one of the principal amygdalo-hypothalamic communication pathways involved in emotional and social behavior.",
+  "fr": "Le stria terminalis est un tractus fibreux majeur qui s'arque depuis l'amygdale (principalement les noyaux médian et central) le long du plancher du ventricule latéral pour se terminer surtout dans le noyau du lit du stria terminalis et l'hypothalamus, constituant l'une des principales voies de communication amygdalo-hypothalamique impliquées dans le comportement émotionnel et social.",
+  "sources": [
+   {
+    "title": "Afferent connections to the bed nucleus of the stria terminalis",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/7188024/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Stria terminalis"
+ },
+ "Striatum": {
+  "en": "The striatum (caudate + putamen, plus ventral striatum) is the principal input structure of the basal ganglia, receiving convergent excitatory projections from nearly the entire cerebral cortex and thalamus as well as dopaminergic input from the midbrain. It integrates this information to select and shape motor, cognitive and motivational programs, acting as the first stage of the cortico-basal ganglia-thalamocortical loops.",
+  "fr": "Le striatum (noyau caudé + putamen, ainsi que le striatum ventral) est la principale structure d'entrée des ganglions de la base ; il reçoit des projections excitatrices convergentes de la quasi-totalité du cortex cérébral et du thalamus, ainsi qu'une afférence dopaminergique issue du mésencéphale. Il intègre ces informations pour sélectionner et façonner les programmes moteurs, cognitifs et motivationnels, constituant la première étape des boucles cortico-baso-thalamo-corticales.",
+  "sources": [
+   {
+    "title": "Neuroanatomy, Putamen - StatPearls",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK542170/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Subfornical Organ": {
+  "en": "The subfornical organ is a sensory circumventricular organ located at the interventricular foramen, positioned to directly sample circulating blood signals (osmolality, angiotensin II, sodium) because it lacks a complete blood-brain barrier. Distinct subfornical organ cell populations drive different modalities of thirst, linking it to hydromineral homeostasis.",
+  "fr": "L'organe subfornical est un organe circumventriculaire sensoriel situé au niveau du foramen interventriculaire, positionné pour détecter directement des signaux sanguins circulants (osmolalité, angiotensine II, sodium) car il est dépourvu de barrière hémato-encéphalique complète. Des populations cellulaires distinctes de l'organe subfornical déclenchent différentes modalités de soif, le reliant à l'homéostasie hydrominérale.",
+  "sources": [
+   {
+    "title": "The cellular basis of distinct thirst modalities",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33057193/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Subfornical organ"
+ },
+ "Suprasylvius gyrus": {
+  "en": "The suprasylvian gyrus lies along the suprasylvian fissure, a long sulcus not present in the human brain that, in species such as the sheep, separates the parietal from the temporal lobe. It contributes to visual and somatosensory association processing, a role documented in comparable gyri of other gyrencephalic mammals such as carnivores.",
+  "fr": "Le gyrus suprasylvien longe le sillon suprasylvien, un long sillon absent chez l'humain qui, chez des espèces comme le mouton, sépare le lobe pariétal du lobe temporal. Il participe au traitement associatif visuel et somatosensoriel, un rôle documenté pour des gyri comparables chez d'autres mammifères gyrencéphales tels que les carnivores.",
+  "sources": [
+   {
+    "title": "Sheep Brain Dissection Guide - Neuroanatomical Terms of Reference, University of Delaware",
+    "url": "https://www1.udel.edu/psych/sgallagh/NeuroscienceLab/Dissection.doc"
+   }
+  ],
+  "status": "documented"
+ },
+ "Sylvian gyrus": {
+  "en": "The sylvian gyrus lies along the lateral (sylvian) fissure that separates the frontal and parietal lobes from the temporal lobe in the sheep brain, a landmark comparable to the lateral sulcus of the human brain. It forms part of the perisylvian cortex associated with auditory and multimodal sensory processing of the temporal lobe.",
+  "fr": "Le gyrus sylvien longe la scissure latérale (sylvienne) qui sépare les lobes frontal et pariétal du lobe temporal dans le cerveau du mouton, un repère comparable au sillon latéral du cerveau humain. Il fait partie du cortex périsylvien associé au traitement auditif et sensoriel multimodal du lobe temporal.",
+  "sources": [
+   {
+    "title": "Sheep Brain Dissection Guide - Neuroanatomical Terms of Reference, University of Delaware",
+    "url": "https://www1.udel.edu/psych/sgallagh/NeuroscienceLab/Dissection.doc"
+   }
+  ],
+  "status": "documented"
+ },
+ "Temporal gyrus": {
+  "en": "Gyri of the temporal lobe house the primary and association auditory cortices: the (transverse) superior temporal gyrus region receives tonotopically-organized input from the medial geniculate nucleus via the auditory radiation, while surrounding association cortex integrates auditory information and, on the inferior surface, contributes to visual object processing.",
+  "fr": "Les gyri du lobe temporal abritent les cortex auditifs primaire et associatif : la région du gyrus temporal supérieur (transverse) reçoit une afférence organisée de façon tonotopique en provenance du noyau géniculé médian via les radiations auditives, tandis que le cortex associatif environnant intègre l'information auditive et, sur sa face inférieure, participe au traitement visuel des objets.",
+  "sources": [
+   {
+    "title": "Neuroanatomy, Temporal Lobe - StatPearls",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK519512/"
+   }
+  ],
+  "status": "documented"
+ },
+ "White matter bundles": {
+  "en": "This label groups compact fiber tracts of cerebral white matter — bundles of myelinated axons (e.g. association, commissural and projection fibers) that connect cortical and subcortical regions to one another rather than performing local computation themselves. Myelination increases conduction velocity and supports the long-range communication that underlies coordinated brain function.",
+  "fr": "Ce label regroupe des faisceaux compacts de substance blanche cérébrale — des ensembles d'axones myélinisés (fibres d'association, commissurales et de projection) qui relient les régions corticales et sous-corticales entre elles plutôt que d'assurer un traitement local propre. La myélinisation augmente la vitesse de conduction et soutient la communication à longue distance qui sous-tend le fonctionnement coordonné du cerveau.",
+  "sources": [
+   {
+    "title": "Neuroanatomy, White Matter - StatPearls",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK542218/"
+   }
+  ],
+  "status": "documented"
+ },
+ "lateral ventricles": {
+  "en": "The lateral ventricles are the two largest cavities of the brain's ventricular system, one within each cerebral hemisphere, lined by ependyma and containing a choroid plexus that produces cerebrospinal fluid (CSF). CSF from the lateral ventricles flows through the interventricular foramina into the third ventricle, providing cushioning, nutrient supply, and waste clearance for the brain.",
+  "fr": "Les ventricules latéraux sont les deux plus grandes cavités du système ventriculaire cérébral, une dans chaque hémisphère, tapissées d'épendyme et contenant un plexus choroïde produisant le liquide céphalo-rachidien (LCR). Le LCR des ventricules latéraux s'écoule par les foramens interventriculaires vers le troisième ventricule, assurant amortissement mécanique, apport de nutriments et élimination des déchets pour le cerveau.",
+  "sources": [
+   {
+    "title": "Neuroanatomy, Choroid Plexus",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK538156/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Lateral Ventricle"
+ },
+ "thalamus AD": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus ADC": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus AHP": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus AM": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus AV": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus CD": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus CEN": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus CF": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus CM": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus CMm": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus CMmL": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus FMT": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus FR": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus GC": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus GL": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus GLV": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus GM": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus Hb": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus I": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus IML": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus IMd": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus IV": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus LD": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus LME": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus LP": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus MD": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus MV": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus NCL": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus NHDM": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus NHVM": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus NI": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus NPC": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus NPV": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus PVT": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus Pf": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus Pta": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus Pul": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus RET": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus Re": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus Rh": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus SG": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus StM": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus VA": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus VL": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus VM": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus VPL": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus VPM": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus XX": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "thalamus ZI": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "Corpus Mamillare Lateralis": {
+  "en": "The lateral mammillary nucleus is part of the mammillary body complex at the base of the diencephalon and, together with the dorsal tegmental nucleus, forms an attractor-integrator network that generates the head-direction signal — neurons that fire according to the animal's directional heading. Its activity precedes and is necessary for the head-direction signal subsequently relayed to the anterior thalamic nuclei and hippocampal formation, supporting spatial orientation and navigation.",
+  "fr": "Le noyau mammillaire latéral fait partie du complexe des corps mammillaires à la base du diencéphale et forme, avec le noyau tegmental dorsal, un réseau attracteur-intégrateur générant le signal de direction de la tête — des neurones dont la décharge est corrélée à l'orientation directionnelle de l'animal. Son activité précède et est nécessaire au signal de direction de la tête ensuite relayé aux noyaux thalamiques antérieurs et à la formation hippocampique, soutenant l'orientation spatiale et la navigation.",
+  "sources": [
+   {
+    "title": "Role of the Lateral Mammillary Nucleus in the Rat Head Direction Circuit",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/9883731/"
+   },
+   {
+    "title": "Visual Landmark Information Gains Control of the Head Direction Signal at the Lateral Mammillary Nuclei",
+    "url": "https://www.jneurosci.org/content/35/4/1354"
+   }
+  ],
+  "status": "documented"
+ },
+ "Fasciculus Retroflexus": {
+  "en": "The fasciculus retroflexus (habenulo-interpeduncular tract) is the principal efferent bundle of the habenula, carrying topographically organized axons from the medial and lateral habenula to the interpeduncular nucleus (and beyond, to midbrain monoamine centers). This medial habenula-interpeduncular pathway is critical for inhibitory control and cognitive flexibility, and its disruption in mice produces impulsivity, compulsive-like behavior, anxiety and impaired spatial memory.",
+  "fr": "Le faisceau rétroflexe (tractus habénulo-interpédonculaire) est le principal faisceau efférent de l'habénula, transportant des axones organisés topographiquement depuis l'habénula médiane et latérale vers le noyau interpédonculaire (et au-delà, vers les centres monoaminergiques mésencéphaliques). Cette voie habénula médiane-noyau interpédonculaire est essentielle au contrôle inhibiteur et à la flexibilité cognitive ; sa perturbation chez la souris entraîne impulsivité, comportements de type compulsif, anxiété et altération de la mémoire spatiale.",
+  "sources": [
+   {
+    "title": "Genetic dissection of medial habenula-interpeduncular nucleus pathway function in mice",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3594921/"
+   },
+   {
+    "title": "Terminal patterns of the fasciculus retroflexus in the interpeduncular nucleus of the mouse: a Golgi study",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/7692763/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Fasciculus retroflexus"
+ },
+ "Hypothalamic periventricular nuclei": {
+  "en": "The periventricular hypothalamic nuclei form a thin cell layer immediately adjacent to the third ventricle, extending from the preoptic region caudally. They are chiefly involved in neuroendocrine regulation, producing hypophysiotropic hormones (including somatostatin and dopamine) that act on the anterior pituitary, and contribute to circadian coordination and the stress response.",
+  "fr": "Les noyaux hypothalamiques périventriculaires forment une fine couche cellulaire immédiatement adjacente au troisième ventricule, s'étendant depuis la région préoptique vers l'arrière. Ils sont principalement impliqués dans la régulation neuroendocrine, produisant des hormones hypophysiotropes (dont la somatostatine et la dopamine) agissant sur l'hypophyse antérieure, et contribuent à la coordination circadienne et à la réponse au stress.",
+  "sources": [
+   {
+    "title": "Cyto- and Chemoarchitecture of the Hypothalamic Paraventricular Nucleus in the C57BL/6J Male Mouse",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4104804/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Lamina Medulary External": {
+  "en": "The external medullary lamina is a thin fiber layer, composed largely of corticothalamic and thalamocortical axons, that separates the thalamic reticular nucleus from the rest of the dorsal thalamus. Rather than being a processing nucleus itself, it marks the boundary of the reticular nucleus, whose GABAergic projections modulate thalamocortical signal flow and rhythmic thalamocortical activity.",
+  "fr": "La lame médullaire externe est une fine couche de fibres, composée en grande partie d'axones corticothalamiques et thalamocorticaux, qui sépare le noyau réticulaire du thalamus du reste du thalamus dorsal. Plutôt qu'un noyau de traitement en soi, elle marque la limite du noyau réticulaire, dont les projections GABAergiques modulent le flux des signaux thalamocorticaux et l'activité rythmique thalamocorticale.",
+  "sources": [
+   {
+    "title": "Functional Diversity of Thalamic Reticular Subnetworks",
+    "url": "https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2018.00041/full"
+   }
+  ],
+  "status": "documented"
+ },
+ "Nuclei Paraventricularis Thalami": {
+  "en": "The paraventricular nucleus of the thalamus (PVT) is a midline thalamic nucleus embedded in feeding, reward, arousal and stress circuits: it integrates ascending arousal/stress signals from brainstem and hypothalamus with cortical, hippocampal and amygdalar inputs. Its projections, notably to the nucleus accumbens, modulate reward-seeking, threat avoidance, wakefulness and the retrieval of fear- and reward-related memories.",
+  "fr": "Le noyau paraventriculaire du thalamus (PVT) est un noyau thalamique médian au cœur des circuits de l'alimentation, de la récompense, de l'éveil et du stress : il intègre les signaux ascendants d'éveil/stress issus du tronc cérébral et de l'hypothalamus avec des afférences corticales, hippocampiques et amygdaliennes. Ses projections, notamment vers le noyau accumbens, modulent la recherche de récompense, l'évitement des menaces, l'éveil et la récupération des souvenirs liés à la peur et à la récompense.",
+  "sources": [
+   {
+    "title": "The Function of Paraventricular Thalamic Circuitry in Adaptive Control of Feeding Behavior",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8110711/"
+   },
+   {
+    "title": "The Paraventricular Thalamic Nucleus and Its Projections in Regulating Reward and Context Associations",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10883411/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Nucleus InterVentralis": {
+  "en": "The nucleus interventralis corresponds to the ventral intermediate nucleus (Vim) of the ventral thalamus, lying between the ventral anterior/ventral lateral and ventral posterior nuclear groups. It relays cerebellar and, to a lesser extent, pallidal information related to movement, projecting to primary motor cortex, and is a key clinical target for stereotactic and deep-brain-stimulation treatment of tremor.",
+  "fr": "Le nucleus interventralis correspond au noyau ventral intermédiaire (Vim) du thalamus ventral, situé entre les groupes nucléaires ventral antérieur/ventral latéral et ventral postérieur. Il relaie une information d'origine cérébelleuse, et dans une moindre mesure pallidale, liée au mouvement, en projetant vers le cortex moteur primaire, et constitue une cible clinique clé pour le traitement stéréotaxique et par stimulation cérébrale profonde du tremblement.",
+  "sources": [
+   {
+    "title": "Staged Deep Brain Stimulation of Ventral Intermediate Nucleus of the Thalamus for Suppression of Essential Tremors",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6703004/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Nucleus Medialis pars Dorsalis": {
+  "en": "This structure corresponds to a dorsal subdivision of the mediodorsal thalamic nucleus (MD), a large associative thalamic nucleus reciprocally connected with prefrontal cortex and receiving afferents from the amygdala, ventral pallidum and piriform cortex. Together with prefrontal cortex, the mediodorsal nucleus supports associative recognition memory, adaptive decision-making and the detection of contingencies between actions and their consequences.",
+  "fr": "Cette structure correspond à une subdivision dorsale du noyau thalamique médiodorsal (MD), un vaste noyau thalamique associatif connecté de façon réciproque au cortex préfrontal et recevant des afférences de l'amygdale, du pallidum ventral et du cortex piriforme. Avec le cortex préfrontal, le noyau médiodorsal soutient la mémoire de reconnaissance associative, la prise de décision adaptative et la détection des contingences entre actions et conséquences.",
+  "sources": [
+   {
+    "title": "The medial dorsal thalamic nucleus and the medial prefrontal cortex of the rat function together to support associative recognition and recency but not item recognition",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3533127/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Nucleus anterior dorsalis": {
+  "en": "The anterodorsal thalamic nucleus (ADn) is the obligatory thalamic relay of head-direction (HD) signals to cortex, with a majority of its neurons functioning as head-direction cells whose firing correlates with the animal's directional heading. It receives HD information generated by reciprocal connections between the dorsal tegmental and lateral mammillary nuclei and relays it, together with the postsubiculum, to retrosplenial cortex, supporting spatial navigation and orientation.",
+  "fr": "Le noyau thalamique antérodorsal (ADn) est le relais thalamique obligatoire des signaux de direction de la tête (head-direction, HD) vers le cortex, la majorité de ses neurones fonctionnant comme des cellules de direction de la tête dont la décharge est corrélée à l'orientation de l'animal. Il reçoit l'information HD générée par les connexions réciproques entre les noyaux tegmental dorsal et mammillaire latéral et la relaie, avec le postsubiculum, vers le cortex rétrosplénial, soutenant la navigation spatiale et l'orientation.",
+  "sources": [
+   {
+    "title": "Coordinated head direction representations in mouse anterodorsal thalamic nucleus and retrosplenial cortex",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10932540/"
+   },
+   {
+    "title": "Single-cell persistent activity in anterodorsal thalamus",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3117030/"
+   }
+  ],
+  "status": "documented"
+ },
+ "Zona Incerta": {
+  "en": "The zona incerta (ZI) is a largely GABAergic, inhibitory subthalamic region with extensive connections throughout the brain. Its functions have been grouped into four broad categories — sensory integration, control of behavioral output, motivational drive, and neural plasticity — and its GABAergic neurons robustly signal the occurrence, though not necessarily the direction, of exploratory and goal-directed movements; the ZI is also an established deep-brain-stimulation target for alleviating parkinsonian motor symptoms.",
+  "fr": "La zona incerta (ZI) est une région sous-thalamique majoritairement GABAergique et inhibitrice, dotée de connexions étendues dans l'ensemble du cerveau. Ses fonctions ont été regroupées en quatre grandes catégories — intégration sensorielle, contrôle de la sortie comportementale, motivation, et plasticité neuronale — et ses neurones GABAergiques signalent de façon robuste la survenue (mais pas nécessairement la direction) des mouvements exploratoires et orientés vers un but ; la ZI constitue également une cible établie de stimulation cérébrale profonde pour soulager les symptômes moteurs parkinsoniens.",
+  "sources": [
+   {
+    "title": "Zona Incerta: An Integrative Node for Global Behavioral Modulation",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7439563/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Zona incerta"
+ },
+ "area Hypothalamica Posterioris": {
+  "en": "The posterior hypothalamic nucleus lies in the caudal hypothalamus near the mammillary bodies and, together with the tuberomammillary nucleus, is part of a region providing strong outputs to arousal systems. It contributes to thermoregulation (heat conservation via vasoconstriction and shivering) and, through neighboring histaminergic tuberomammillary neurons, to the maintenance of wakefulness.",
+  "fr": "Le noyau hypothalamique postérieur se situe dans l'hypothalamus caudal, près des corps mamillaires, et fait partie, avec le noyau tubéromamillaire, d'une région fournissant de fortes efférences vers les systèmes d'éveil. Il contribue à la thermorégulation (conservation de la chaleur par vasoconstriction et frisson) et, via les neurones histaminergiques tubéromamillaires voisins, au maintien de l'éveil.",
+  "sources": [
+   {
+    "title": "Posterior nucleus of hypothalamus",
+    "url": "https://en.wikipedia.org/wiki/Posterior_nucleus_of_hypothalamus"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Posterior hypothalamic nucleus"
+ },
+ "campi Foreli": {
+  "en": "The fields of Forel (H fields) are white-matter regions of the subthalamus, medial to the zona incerta, containing crossing cortico-, pallido- and hypothalamofugal fibers together with rubrothalamic and dentatothalamic fibers en route between the thalamus, basal ganglia and brainstem/spinal cord. Because of this dense fiber traffic, the region (together with the zona incerta) is a therapeutic target for deep brain stimulation in movement disorders such as tremor and tics.",
+  "fr": "Les champs de Forel (champs H) sont des régions de substance blanche du subthalamus, situées en dedans de la zona incerta, contenant des fibres cortico-, pallido- et hypothalamo-fuges croisées, ainsi que des fibres rubro-thalamiques et dentato-thalamiques en transit entre le thalamus, les ganglions de la base et le tronc cérébral/la moelle épinière. En raison de ce trafic dense de fibres, cette région (avec la zona incerta) constitue une cible thérapeutique de stimulation cérébrale profonde dans les troubles du mouvement tels que le tremblement et les tics.",
+  "sources": [
+   {
+    "title": "Deep Brain Stimulation of the H Fields of Forel Alleviates Tics in Tourette Syndrome",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5468420/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Fields of Forel"
+ },
+ "corpus Geniculatum Laterale pars Ventralis": {
+  "en": "The ventral lateral geniculate nucleus (LGv), together with the adjacent intergeniculate leaflet, is a thalamic structure that mediates non-image-forming visual functions rather than conscious vision. It receives direct retinal input from diverse retinal ganglion cell types and contributes to circadian entrainment (notably non-photic phase shifting via neuropeptide Y) and to visuomotor behaviors such as visually guided approach, via broad spatial integration and projections to the superior colliculus.",
+  "fr": "Le noyau géniculé latéral ventral (LGv), avec la lame intergéniculée adjacente, est une structure thalamique qui assure des fonctions visuelles non formatrices d'image plutôt que la vision consciente. Il reçoit une afférence rétinienne directe de divers types de cellules ganglionnaires rétiniennes et contribue à l'entraînement circadien (notamment aux décalages de phase non photiques via le neuropeptide Y) ainsi qu'à des comportements visuomoteurs comme l'approche guidée visuellement, grâce à une large intégration spatiale et des projections vers le colliculus supérieur.",
+  "sources": [
+   {
+    "title": "Pattern of Driver-Like Input onto Neurons of the Mouse Ventral Lateral Geniculate Nucleus",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9850909/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Ventral part of the lateral geniculate complex"
+ },
+ "corpus Geniculatum Medialis": {
+  "en": "The dorsal division of the medial geniculate complex is part of the non-lemniscal (non-primary) auditory thalamus. Rather than simple tonotopic frequency coding, it relays complex, multimodal auditory signals and contributes to integrating auditory information with other sensory modalities before relaying it to non-primary auditory cortex.",
+  "fr": "La division dorsale du complexe géniculé médian appartient au thalamus auditif non lemniscal (non primaire). Plutôt qu'un simple codage tonotopique de la fréquence, elle relaie des signaux auditifs complexes et multimodaux et contribue à intégrer l'information auditive à d'autres modalités sensorielles avant de la transmettre au cortex auditif non primaire.",
+  "sources": [
+   {
+    "title": "Exploring functions for the non-lemniscal auditory thalamus",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4631820/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Medial geniculate complex, dorsal part"
+ },
+ "corpus Geniculatum pars Lateralis": {
+  "en": "The core of the dorsal lateral geniculate nucleus (dLGN) occupies the larger, deeper portion of the nucleus and receives input from both eyes (mainly contralateral) via retinal ganglion cells with classic center-surround receptive fields, relaying this information to primary visual cortex.",
+  "fr": "Le noyau (« core ») du corps genouillé latéral dorsal (dLGN) occupe la portion la plus large et la plus profonde du noyau ; il reçoit des afférences des deux yeux (principalement controlatérales) via des cellules ganglionnaires rétiniennes aux champs récepteurs classiques centre-pourtour, et relaie cette information vers le cortex visuel primaire.",
+  "sources": [
+   {
+    "title": "Organization of the dorsal lateral geniculate nucleus in the mouse",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28965501/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Dorsal part of the lateral geniculate complex, core"
+ },
+ "corpus Mamillare mediane": {
+  "en": "The medial mammillary nucleus, of which this is a subdivision, receives strong hippocampal input and shows theta-rhythmic neuronal firing thought to relay hippocampal activity onward to the anterior thalamic nuclei, contributing to the mammillary body's established role in memory processing.",
+  "fr": "Le noyau mammillaire médian, dont cette structure est une subdivision, reçoit une forte afférence hippocampique et présente une activité neuronale rythmée au thêta, censée relayer l'activité hippocampique vers les noyaux thalamiques antérieurs, contribuant au rôle établi des corps mammillaires dans le traitement de la mémoire.",
+  "sources": [
+   {
+    "title": "How do mammillary body inputs contribute to anterior thalamic function?",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4462591/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Medial mammillary nucleus, median part"
+ },
+ "corpus Mamillare pars Medialis": {
+  "en": "The medial mammillary nucleus receives strong hippocampal input and shows neuronal firing rhythmically modulated at the theta frequency, thought to relay hippocampal theta-related activity onward to the anterior thalamic nuclei. Lesion studies link it to spatial working memory deficits, forming one of two parallel mammillary body memory systems.",
+  "fr": "Le noyau mammillaire médian reçoit une forte afférence hippocampique et présente une activité neuronale modulée au rythme thêta, censée relayer l'activité thêta hippocampique vers les noyaux thalamiques antérieurs. Des études de lésion l'associent à des déficits de mémoire de travail spatiale, formant l'un des deux systèmes mnésiques parallèles des corps mammillaires.",
+  "sources": [
+   {
+    "title": "How do mammillary body inputs contribute to anterior thalamic function?",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4462591/"
+   },
+   {
+    "title": "The mammillary bodies: two memory systems in one?",
+    "url": "https://www.nature.com/articles/nrn1299"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Medial mammillary nucleus, medial part"
+ },
+ "fasciculus MamilloThalamicus": {
+  "en": "The mammillothalamic tract is a compact white-matter bundle carrying a bidirectional pathway between the mammillary bodies and the anterior thalamic nuclei. It relays information central to the hippocampal-diencephalic memory system, and its damage (e.g. in thalamic stroke or Korsakoff syndrome) is strongly associated with anterograde amnesia and memory deficits.",
+  "fr": "Le tractus mammillo-thalamique est un faisceau compact de substance blanche assurant une liaison bidirectionnelle entre les corps mammillaires et les noyaux thalamiques antérieurs. Il relaie des informations centrales au système de mémoire hippocampo-diencéphalique, et son atteinte (par exemple lors d'un accident vasculaire thalamique ou du syndrome de Korsakoff) est fortement associée à une amnésie antérograde et à des troubles de la mémoire.",
+  "sources": [
+   {
+    "title": "A reappraisal of the role of the mammillothalamic tract in memory deficits following stroke in the thalamus",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12612100/"
+   },
+   {
+    "title": "Neuroanatomy, Mammillary Bodies - StatPearls",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK537192/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Mammillothalamic tract"
+ },
+ "internal Medulary Lamina": {
+  "en": "The internal medullary lamina is a Y-shaped sheet of myelinated fibers within the thalamus that divides its gray matter into medial, lateral and anterior nuclear groups and carries interconnecting fibers between thalamic nuclei. Neurons embedded within it form the intralaminar nuclear complex, implicated in arousal and integrative cognitive, sensory and motor functions.",
+  "fr": "La lame médullaire interne est une lame de fibres myélinisées en forme de Y au sein du thalamus, qui divise sa substance grise en groupes nucléaires médian, latéral et antérieur et transporte des fibres reliant les noyaux thalamiques entre eux. Les neurones qui y sont enchâssés forment le complexe des noyaux intralaminaires, impliqué dans l'éveil et des fonctions cognitives, sensorielles et motrices intégratives.",
+  "sources": [
+   {
+    "title": "Medullary laminae of thalamus",
+    "url": "https://en.wikipedia.org/wiki/Medullary_laminae_of_thalamus"
+   },
+   {
+    "title": "Internal medullary lamina of thalamus",
+    "url": "https://www.imaios.com/en/e-anatomy/anatomical-structures/internal-medullary-lamina-of-thalamus-1553803924"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "rat:internal medullary lamina"
+ },
+ "lamina Medulary External": {
+  "en": "The external medullary lamina is a thin fiber layer, composed largely of corticothalamic and thalamocortical axons, that separates the thalamic reticular nucleus from the rest of the dorsal thalamus. Rather than being a processing nucleus itself, it marks the boundary of the reticular nucleus, which uses GABAergic projections to modulate thalamocortical signal flow and rhythmic thalamocortical activity.",
+  "fr": "La lame médullaire externe est une fine couche de fibres, composée en grande partie d'axones corticothalamiques et thalamocorticaux, qui sépare le noyau réticulaire du thalamus du reste du thalamus dorsal. Plutôt qu'un noyau de traitement en soi, elle marque la limite du noyau réticulaire, lequel utilise des projections GABAergiques pour moduler le flux des signaux thalamocorticaux et l'activité rythmique thalamocorticale.",
+  "sources": [
+   {
+    "title": "Functional Diversity of Thalamic Reticular Subnetworks",
+    "url": "https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2018.00041/full"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:External medullary lamina of the thalamus"
+ },
+ "nucleus Anterior Medialis": {
+  "en": "The anteromedial thalamic nucleus is one of the three anterior thalamic nuclei, interconnected with the hippocampal formation, mammillary bodies and cingulate/retrosplenial cortex. In rats, lesions that extend into the anteromedial nucleus (beyond the anterodorsal and anteroventral nuclei alone) produce markedly more severe spatial learning and memory impairments, indicating a particularly important contribution to the anterior thalamic nuclei's role in episodic and spatial memory.",
+  "fr": "Le noyau thalamique antéromédian est l'un des trois noyaux thalamiques antérieurs, interconnecté avec la formation hippocampique, les corps mamillaires et le cortex cingulaire/rétrosplénial. Chez le rat, les lésions s'étendant au noyau antéromédian (au-delà des seuls noyaux antérodorsal et antéroventral) provoquent des troubles de l'apprentissage et de la mémoire spatiale nettement plus sévères, indiquant une contribution particulièrement importante au rôle des noyaux thalamiques antérieurs dans la mémoire épisodique et spatiale.",
+  "sources": [
+   {
+    "title": "The anterior thalamus provides a subcortical circuit supporting memory and spatial navigation",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3757326/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "rat:Anteromedial thalamic nucleus"
+ },
+ "nucleus Anterior Ventralis": {
+  "en": "The anteroventral thalamic nucleus (AV) is one of the three anterior thalamic nuclei and, together with the hippocampus and cortex, supports episodic and spatial memory. AV is specifically necessary for working-memory maintenance: aged mice show reduced anteroventral neuron excitability that correlates with working-memory impairment, and directly activating these neurons in aged mice improves working memory.",
+  "fr": "Le noyau thalamique antéroventral (AV) est l'un des trois noyaux thalamiques antérieurs et, avec l'hippocampe et le cortex, soutient la mémoire épisodique et spatiale. L'AV est spécifiquement nécessaire au maintien de la mémoire de travail : les souris âgées présentent une excitabilité réduite des neurones antéroventraux corrélée à un déficit de mémoire de travail, et l'activation directe de ces neurones chez des souris âgées améliore la mémoire de travail.",
+  "sources": [
+   {
+    "title": "Anterior thalamic circuits crucial for working memory",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9171768/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Anteroventral nucleus of thalamus"
+ },
+ "nucleus Centralis Dorsalis": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "nucleus Centralis Lateralis": {
+  "en": "The central lateral (CL) nucleus is one of the rostral intralaminar thalamic nuclei, situated within the internal medullary lamina. It receives convergent input from cortex, superior colliculus and brainstem arousal systems and sends thalamocortical and thalamostriatal projections to frontal/cingulate cortex and striatum, placing it in a circuit that links arousal, cognition and action selection.",
+  "fr": "Le noyau central latéral (CL) est l'un des noyaux thalamiques intralaminaires rostraux, situé dans la lame médullaire interne. Il reçoit des afférences convergentes du cortex, du colliculus supérieur et des systèmes d'éveil du tronc cérébral, et envoie des projections thalamo-corticales et thalamo-striatales vers le cortex frontal/cingulaire et le striatum, l'inscrivant dans un circuit reliant éveil, cognition et sélection de l'action.",
+  "sources": [
+   {
+    "title": "Rostral Intralaminar Thalamus Engagement in Cognition and Behavior",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8082140/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Central lateral nucleus of the thalamus"
+ },
+ "nucleus Centrum Medianum": {
+  "en": "The centromedian nucleus (CM) is one of the caudal intralaminar thalamic nuclei, lying medially within the internal medullary lamina next to the parafascicular nucleus. It receives input from the globus pallidus interna, cerebellum and brainstem reticular formation and projects diffusely to frontal cortex and striatum, contributing to arousal, attention, sensory processing and motor control; in humans it is an established deep-brain-stimulation target for generalized drug-resistant epilepsy.",
+  "fr": "Le noyau centromédian (CM) est l'un des noyaux thalamiques intralaminaires caudaux, situé en position médiane dans la lame médullaire interne, à proximité du noyau parafasciculaire. Il reçoit des afférences du globus pallidus interne, du cervelet et de la formation réticulée du tronc cérébral, et projette de façon diffuse vers le cortex frontal et le striatum, contribuant à l'éveil, l'attention, le traitement sensoriel et le contrôle moteur ; chez l'humain, c'est une cible établie de stimulation cérébrale profonde pour l'épilepsie généralisée pharmacorésistante.",
+  "sources": [
+   {
+    "title": "Centromedian Nucleus of the Thalamus Deep Brain Stimulation for Genetic Generalized Epilepsy: A Case Report and Review of Literature",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9164300/"
+   },
+   {
+    "title": "The centromedian nucleus: Anatomy, physiology, and clinical implications",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0967586819300165"
+   }
+  ],
+  "status": "documented"
+ },
+ "nucleus Habenulae": {
+  "en": "The habenula is a small, bilateral epithalamic structure on the dorsal diencephalic midline, comprising medial and lateral subdivisions; its main afferent tract is the stria medullaris and its main efferent tract the fasciculus retroflexus, which together link it to the septum, hypothalamus, basal forebrain and midbrain monoaminergic centers. Through this connectivity it regulates dopaminergic, serotonergic and noradrenergic systems and is implicated in reward processing, motivation, behavioral adaptation and stress-related behavior.",
+  "fr": "L'habenula est une petite structure épithalamique bilatérale située sur la ligne médiane dorsale du diencéphale, comprenant des subdivisions médiale et latérale ; sa principale afférence est la stria medullaris et sa principale efférence le fasciculus retroflexus, qui la relient au septum, à l'hypothalamus, au prosencéphale basal et aux centres monoaminergiques du mésencéphale. Par cette connectivité, elle régule les systèmes dopaminergique, sérotoninergique et noradrénergique, et est impliquée dans le traitement de la récompense, la motivation, l'adaptation comportementale et les comportements liés au stress.",
+  "sources": [
+   {
+    "title": "The habenula: from stress evasion to value-based decision-making",
+    "url": "https://www.nature.com/articles/nrn2866"
+   }
+  ],
+  "status": "documented"
+ },
+ "nucleus InterAnteroMedialis": {
+  "en": "The interanteromedial nucleus (IAM) is a midline cell group of the rodent anterior thalamic nuclear complex, recognized as a fourth nucleus alongside the anteromedial, anteroventral, and anterodorsal nuclei. It gives rise to particularly dense projections to prelimbic cortex and contributes to the anterior thalamic system supporting spatial and non-spatial memory via cingulate and retrosplenial connections.",
+  "fr": "Le noyau interantéromédian (IAM) est un groupe cellulaire médian du complexe thalamique antérieur du rongeur, reconnu comme un quatrième noyau aux côtés des noyaux antéromédian, antéroventral et antérodorsal. Il envoie des projections particulièrement denses vers le cortex prélimbique et contribue au système thalamique antérieur soutenant la mémoire spatiale et non spatiale via ses connexions cingulaires et rétrosplénialles.",
+  "sources": [
+   {
+    "title": "The anterior thalamic nuclei and nucleus reuniens: So similar but so different",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7738755/"
+   },
+   {
+    "title": "Organisation of cingulum bundle fibres connecting the anterior thalamic nuclei with the rodent anterior cingulate and retrosplenial cortices",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7488606/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Interanteromedial nucleus of the thalamus"
+ },
+ "nucleus InterMediodorsalis": {
+  "en": "The intermediodorsal nucleus (IMD) is a small midline thalamic nucleus that lies between and separates the two halves of the mediodorsal nucleus. As part of the midline thalamic group it receives brainstem afferents and is thought to participate, together with the mediodorsal nucleus, in relaying limbic and arousal-related information to prefrontal and other cortical areas.",
+  "fr": "Le noyau intermédiodorsal (IMD) est un petit noyau thalamique de la ligne médiane situé entre les deux moitiés du noyau médiodorsal, qu'il sépare. En tant que membre du groupe thalamique médian, il reçoit des afférences du tronc cérébral et participerait, avec le noyau médiodorsal, au relais d'informations limbiques et liées à l'éveil vers le cortex préfrontal et d'autres aires corticales.",
+  "sources": [
+   {
+    "title": "The Anatomical and Functional Heterogeneity of the Mediodorsal Thalamus",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7563683/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Intermediodorsal nucleus of the thalamus"
+ },
+ "nucleus Interstitialis": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "nucleus Lateralis pars Dorsalis": {
+  "en": "The lateral dorsal nucleus (LD) is structurally related to the anterior thalamic nuclei and receives substantial visual cortical input, projecting mainly to parietal and cingulate/retrosplenial cortex and limbic forebrain targets. Lesion studies in rats show it contributes to spatial learning and memory, with more severe impairment when LD damage is combined with anterior thalamic nucleus damage.",
+  "fr": "Le noyau dorsal latéral (LD) est structurellement apparenté aux noyaux thalamiques antérieurs et reçoit d'importantes afférences du cortex visuel, projetant principalement vers le cortex pariétal et cingulaire/rétrosplénial ainsi que vers des cibles limbiques du prosencéphale. Des études de lésion chez le rat montrent qu'il contribue à l'apprentissage et à la mémoire spatiale, avec une atteinte plus sévère lorsque la lésion du LD est combinée à celle des noyaux thalamiques antérieurs.",
+  "sources": [
+   {
+    "title": "The role of the laterodorsal nucleus of the thalamus in spatial learning and memory in the rat",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12429394/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Lateral dorsal nucleus of thalamus"
+ },
+ "nucleus Lateralis pars Posterioris": {
+  "en": "The lateral posterior nucleus (LP) is the rodent homolog of the primate pulvinar and, like it, is reciprocally connected with essentially all visual cortical areas while also receiving a strong input from the superior colliculus. Mouse LP contributes to visual saliency detection, visually guided behavior, and multisensory processing of aversive stimuli, with retinotopically organized responses that partly derive from melanopsin-expressing retinal ganglion cells.",
+  "fr": "Le noyau postérieur latéral (LP) est l'homologue chez le rongeur du pulvinar des primates et, comme lui, est réciproquement connecté à pratiquement toutes les aires corticales visuelles tout en recevant une forte afférence du colliculus supérieur. Le LP de la souris contribue à la détection de la saillance visuelle, aux comportements guidés par la vision et au traitement multisensoriel des stimuli aversifs, avec des réponses organisées rétinotopiquement dérivant en partie de cellules ganglionnaires rétiniennes exprimant la mélanopsine.",
+  "sources": [
+   {
+    "title": "Visual input to the mouse lateral posterior and posterior thalamic nuclei: photoreceptive origins and retinotopic order",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4818601/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Lateral posterior nucleus of the thalamus"
+ },
+ "nucleus Medialis pars Ventralis": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "nucleus ParaCentralis": {
+  "en": "The paracentral nucleus is part of the rostral intralaminar thalamic group, together with the central medial and central lateral nuclei. It projects to occipitotemporal and prefrontal cortex and, like other intralaminar nuclei, receives ascending input from brainstem arousal systems, contributing to cortical arousal, attention and sensorimotor integration.",
+  "fr": "Le noyau paracentral fait partie du groupe intralaminaire rostral du thalamus, avec les noyaux central médian et central latéral. Il projette vers les cortex occipitotemporal et préfrontal et, comme les autres noyaux intralaminaires, reçoit des afférences ascendantes des systèmes d'éveil du tronc cérébral, contribuant à l'éveil cortical, à l'attention et à l'intégration sensorimotrice.",
+  "sources": [
+   {
+    "title": "Rostral Intralaminar Thalamus Engagement in Cognition and Behavior",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8082140/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "rat:Paracentral thalamic nucleus"
+ },
+ "nucleus Parafascicularis": {
+  "en": "The parafascicular nucleus (Pf) is a caudal intralaminar thalamic nucleus that receives input from basal ganglia output nuclei and projects densely to the striatum (particularly onto cholinergic interneurons), subthalamic nucleus and cortex. Through this reciprocal connectivity with the basal ganglia, the Pf contributes to behavioral flexibility and response selection, and its activity is disrupted in parkinsonian states.",
+  "fr": "Le noyau parafasciculaire (Pf) est un noyau thalamique intralaminaire caudal qui reçoit des afférences des noyaux de sortie des ganglions de la base et projette massivement vers le striatum (en particulier sur les interneurones cholinergiques), le noyau sous-thalamique et le cortex. Par cette connectivité réciproque avec les ganglions de la base, le Pf contribue à la flexibilité comportementale et à la sélection de la réponse, et son activité est perturbée dans les états parkinsoniens.",
+  "sources": [
+   {
+    "title": "Parafascicular Thalamic Nucleus Activity in a Rat Model of Parkinson's Disease",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2727617/"
+   },
+   {
+    "title": "Functional Interactions Between the Parafascicular Thalamic Nucleus and Motor Cortex Are Altered in Hemiparkinsonian Rat",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9168077/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "rat:Parafascicular thalamic nucleus"
+ },
+ "nucleus Pretectalis anterior": {
+  "en": "The anterior pretectal nucleus is a diencephalic nucleus at the pretectum-thalamus transition zone, morphologically divided into a cell-dense dorsal (pars compacta) and a fiber-dense ventral (pars reticulata) part. It receives nociceptive afferents and, via projections to the posterior thalamic nucleus and zona incerta, forms part of a descending antinociceptive pathway: its stimulation produces measurable pain-inhibitory effects in behavioral nociception tests.",
+  "fr": "Le noyau prétectal antérieur est un noyau diencéphalique situé à la zone de transition entre le prétectum et le thalamus, morphologiquement divisé en une partie dorsale dense en cellules (pars compacta) et une partie ventrale dense en fibres (pars reticulata). Il reçoit des afférences nociceptives et, via ses projections vers le noyau thalamique postérieur et la zona incerta, fait partie d'une voie descendante antinociceptive : sa stimulation produit des effets inhibiteurs de la douleur mesurables dans des tests comportementaux de nociception.",
+  "sources": [
+   {
+    "title": "The role of the anterior pretectal nucleus in pain modulation: A comprehensive review",
+    "url": "https://onlinelibrary.wiley.com/doi/10.1111/ejn.15255"
+   }
+  ],
+  "status": "documented"
+ },
+ "nucleus Reticularis": {
+  "en": "The thalamic reticular nucleus (TRN) is a thin shell of GABAergic neurons surrounding the dorsal thalamus that does not project to cortex directly but instead inhibits thalamocortical relay neurons, earning its description as the 'guardian of the gateway' between thalamus and cortex. By gating which information streams pass from thalamus to cortex, the TRN can suppress irrelevant sensory input, and it contains parvalbumin- and somatostatin-expressing neuron subpopulations thought to serve distinct functional roles.",
+  "fr": "Le noyau réticulaire du thalamus (TRN) est une fine coque de neurones GABAergiques entourant le thalamus dorsal, qui ne projette pas directement vers le cortex mais inhibe les neurones thalamocorticaux de relais, ce qui lui vaut d'être décrit comme le « gardien de la porte » entre thalamus et cortex. En filtrant les flux d'information qui passent du thalamus au cortex, le TRN peut supprimer les entrées sensorielles non pertinentes, et il comprend des sous-populations neuronales exprimant la parvalbumine ou la somatostatine, aux rôles fonctionnels vraisemblablement distincts.",
+  "sources": [
+   {
+    "title": "Distinct thalamic reticular cell types differentially modulate normal and pathological cortical rhythms",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5557038/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Reticular nucleus of the thalamus"
+ },
+ "nucleus Reuniens": {
+  "en": "The nucleus reuniens is a small midline thalamic nucleus that bidirectionally connects the medial prefrontal cortex and the hippocampus, acting as a critical relay coordinating activity between these two structures. It is required for encoding and retrieving precise, hippocampal-dependent contextual and spatial memories, and it synchronizes prefrontal-hippocampal theta and beta oscillations during memory and fear-extinction tasks.",
+  "fr": "Le noyau reuniens est un petit noyau thalamique médian qui relie de façon bidirectionnelle le cortex préfrontal médian et l'hippocampe, agissant comme un relais essentiel qui coordonne l'activité entre ces deux structures. Il est nécessaire à l'encodage et à la récupération de souvenirs contextuels et spatiaux précis dépendant de l'hippocampe, et il synchronise les oscillations thêta et bêta préfronto-hippocampiques lors de tâches de mémoire et d'extinction de la peur.",
+  "sources": [
+   {
+    "title": "Thalamic nucleus reuniens coordinates prefrontal-hippocampal synchrony to suppress extinguished fear",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10582091/"
+   },
+   {
+    "title": "The anterior thalamic nuclei and nucleus reuniens: So similar but so different",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7738755/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "rat:Reuniens thalamic nucleus"
+ },
+ "nucleus Rhomboideus": {
+  "en": "The rhomboid nucleus is a ventral midline thalamic nucleus, closely associated with the adjacent nucleus reuniens, that is reciprocally connected with the hippocampus and the medial prefrontal cortex. Together with reuniens it forms a major anatomical link supporting hippocampal-prefrontal communication, and lesion/inactivation studies show it contributes to the persistence of spatial memory and to working-memory-dependent behavior.",
+  "fr": "Le noyau rhomboïde est un noyau thalamique médian ventral, étroitement associé au noyau reuniens voisin, qui est réciproquement connecté à l'hippocampe et au cortex préfrontal médian. Avec le reuniens, il forme un lien anatomique majeur soutenant la communication hippocampo-préfrontale ; des études de lésion et d'inactivation montrent qu'il contribue à la persistance de la mémoire spatiale et aux comportements dépendant de la mémoire de travail.",
+  "sources": [
+   {
+    "title": "The Ventral Midline Thalamus (Reuniens and Rhomboid Nuclei) Contributes to the Persistence of Spatial Memory in Rats",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6621274/"
+   },
+   {
+    "title": "Transient inactivation of the thalamic nucleus reuniens and rhomboid nucleus produces deficits of a working-memory dependent task",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4009727/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "rat:Rhomboid thalamic nucleus"
+ },
+ "nucleus SupraGeniculatus": {
+  "en": "The suprageniculate nucleus lies dorsal and medial to the medial geniculate body, within the posterior thalamic complex, at the junction of auditory and visual/multisensory thalamic territory. It receives input from the deep layers of the superior colliculus and from auditory midbrain centers, and projects to suprasylvian and insular cortical areas, acting as a relay for multisensory (auditory-visual) and orientation-related processing.",
+  "fr": "Le noyau supragéniculé est situé dorsalement et médialement par rapport au corps genouillé médian, au sein du complexe thalamique postérieur, à la jonction des territoires thalamiques auditif et visuel/multisensoriel. Il reçoit des afférences des couches profondes du colliculus supérieur et de centres mésencéphaliques auditifs, et projette vers des aires corticales suprasylviennes et insulaires, agissant comme un relais pour le traitement multisensoriel (audio-visuel) et lié à l'orientation.",
+  "sources": [
+   {
+    "title": "The projection pattern of the suprageniculate nucleus to the caudate nucleus in cats",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/3955362/"
+   }
+  ],
+  "status": "documented"
+ },
+ "nucleus Ventralis Medialis": {
+  "en": "The ventromedial thalamic nucleus (VM) is a matrix-type thalamic nucleus whose calbindin-positive neurons project diffusely and superficially across almost the entire neocortex, distinguishing it from point-to-point relay nuclei. VM matrix-cell activity is high during wakefulness and REM sleep and low during NREM sleep; optogenetic activation of VM rapidly awakens animals from NREM sleep and drives cortical EEG activation, establishing VM as a key node regulating cortical arousal.",
+  "fr": "Le noyau thalamique ventromédian (VM) est un noyau thalamique de type « matriciel » dont les neurones positifs pour la calbindine projettent de façon diffuse et superficielle sur la quasi-totalité du néocortex, ce qui le distingue des noyaux de relais point à point. L'activité des cellules matricielles du VM est élevée pendant l'éveil et le sommeil paradoxal et faible pendant le sommeil lent ; l'activation optogénétique du VM réveille rapidement l'animal du sommeil lent et déclenche une activation de l'EEG cortical, établissant le VM comme un nœud clé de la régulation de l'éveil cortical.",
+  "sources": [
+   {
+    "title": "Regulation of cortical activity and arousal by the matrix cells of the ventromedial thalamic nucleus",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5974306/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "rat:Ventromedial thalamic nucleus"
+ },
+ "nucleus Ventralis Posterior pars Lateralis": {
+  "en": "The ventral posterolateral nucleus (VPL) is the principal somatosensory thalamic relay for the trunk and limbs, receiving somatotopically organized ascending input via the medial lemniscus and spinothalamic tract and projecting to primary (and, from its caudal part, also secondary) somatosensory cortex. In mice, distinct rostrocaudal subdivisions of VPL show diverse thalamocortical projection motifs beyond the classical single-target relay model of cortical barrels.",
+  "fr": "Le noyau ventral postéro-latéral (VPL) est le principal relais thalamique somatosensoriel pour le tronc et les membres ; il reçoit une afférence ascendante organisée somatotopiquement via le lemnisque médian et le faisceau spinothalamique, et projette vers le cortex somatosensoriel primaire (et, depuis sa partie caudale, également secondaire). Chez la souris, des subdivisions rostro-caudales distinctes du VPL présentent des motifs de projection thalamocorticale variés, allant au-delà du modèle classique de relais à cible unique vers les tonneaux corticaux.",
+  "sources": [
+   {
+    "title": "Beyond Barrels: Diverse Thalamocortical Projection Motifs in the Mouse Ventral Posterior Complex",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11502235/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Ventral posterolateral nucleus of the thalamus"
+ },
+ "nucleus Ventralis Posterior pars Medialis": {
+  "en": "The ventral posteromedial nucleus (VPM), together with its lateral counterpart (VPL), forms the ventral posterior thalamus, the main somatosensory relay of the thalamus, and specifically conveys somatosensory information from the face and whiskers, received via the trigeminothalamic tract, onward to primary somatosensory barrel cortex. Its parvicellular subdivision (VPMpc), known as the gustatory thalamus, additionally relays taste information from the parabrachial nucleus to gustatory cortex, and VPM neurons receive reciprocal layer-6 corticothalamic feedback that helps shape their tonic and burst firing modes.",
+  "fr": "Le noyau ventral postéromédian (VPM), avec son homologue latéral (VPL), constitue le thalamus ventral postérieur — le principal relais somatosensoriel du thalamus — et transmet spécifiquement l'information somatosensorielle de la face et des vibrisses, reçue via le tractus trigéminothalamique, vers le cortex somatosensoriel primaire (des tonneaux). Sa subdivision parvocellulaire (VPMpc), appelée thalamus gustatif, relaie en outre l'information gustative du noyau parabrachial vers le cortex gustatif, et les neurones du VPM reçoivent une rétroaction corticothalamique réciproque de la couche 6 qui contribue à façonner leurs modes de décharge toniques et en bouffées.",
+  "sources": [
+   {
+    "title": "Cortical spreading depression induces propagating activation of the thalamus ventral posteromedial nucleus in awake mice",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8903698/"
+   },
+   {
+    "title": "Gustatory thalamic neurons mediate aversive behaviors",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12475432/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Ventral posteromedial nucleus of the thalamus"
+ },
+ "nucleus Ventralis pars Anterioris": {
+  "en": "The ventral anterior (VA) thalamic nucleus is a motor thalamic nucleus and a major target of basal ganglia output, closely interconnected with cerebral motor cortex and recipient of afferents from the cerebellum and basal ganglia. It is strongly implicated in the pathophysiology of Parkinsonian motor deficits, and experimentally boosting its activity (optogenetically or via histaminergic afferents) alleviates motor deficits in dopamine-depleted rat models.",
+  "fr": "Le noyau thalamique ventral antérieur (VA) est un noyau thalamique moteur et une cible majeure des sorties des ganglions de la base, étroitement interconnecté avec le cortex moteur cérébral et recevant des afférences du cervelet et des ganglions de la base. Il est fortement impliqué dans la physiopathologie des déficits moteurs parkinsoniens, et l'augmentation expérimentale de son activité (par optogénétique ou via des afférences histaminergiques) atténue les déficits moteurs dans des modèles de rats déplétés en dopamine.",
+  "sources": [
+   {
+    "title": "Histaminergic Innervation of the Ventral Anterior Thalamic Nucleus Alleviates Motor Deficits in a 6-OHDA-Induced Rat Model of Parkinson's Disease",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11978569/"
+   },
+   {
+    "title": "Motor thalamus integration of cortical, cerebellar and basal ganglia information",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3822295/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "rat:Ventral anterior thalamic nucleus"
+ },
+ "nucleus Ventralis pars Lateralis": {
+  "en": "The ventrolateral thalamic nucleus (VL) is a motor thalamic nucleus receiving convergent input from the cerebellum, basal ganglia (via globus pallidus) and cortex, and projecting to the primary motor cortex, acting as a central integrator for motor control. Its anterior and posterior subregions carry distinct input weightings from pallidal/premotor versus motor-cortical/cerebellar sources respectively, and it shows somatotopic organization (e.g. whisker-related neurons lie anteromedial to hindpaw-related neurons).",
+  "fr": "Le noyau thalamique ventrolatéral (VL) est un noyau thalamique moteur recevant des afférences convergentes du cervelet, des ganglions de la base (via le globus pallidus) et du cortex, et projetant vers le cortex moteur primaire, agissant comme un intégrateur central pour le contrôle moteur. Ses sous-régions antérieure et postérieure reçoivent des pondérations d'afférences distinctes, respectivement pallido-prémotrices et motrico-corticales/cérébelleuses, et il présente une organisation somatotopique (par exemple, les neurones liés aux vibrisses se situent en position antéromédiane par rapport à ceux liés à la patte postérieure).",
+  "sources": [
+   {
+    "title": "Motor thalamus integration of cortical, cerebellar and basal ganglia information",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3822295/"
+   },
+   {
+    "title": "Organization and morphology of thalamocortical neurons of mouse ventral lateral thalamus",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2839898/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "rat:Ventrolateral thalamic nucleus"
+ },
+ "nucleus centroMedialis": {
+  "en": "The central medial nucleus is one of the midline/intralaminar thalamic nuclei, positioned close to the third ventricle. Together with neighboring intralaminar nuclei it relays arousal- and salience-related signals to widespread frontal and cingulate cortical areas and to the striatum, contributing to attention and behavioral flexibility.",
+  "fr": "Le noyau central médian est l'un des noyaux thalamiques médians/intralaminaires, situé près du troisième ventricule. Avec les noyaux intralaminaires voisins, il relaie des signaux liés à l'éveil et à la saillance vers de vastes territoires corticaux frontaux et cingulaires ainsi que vers le striatum, contribuant à l'attention et à la flexibilité comportementale.",
+  "sources": [
+   {
+    "title": "Rostral Intralaminar Thalamus Engagement in Cognition and Behavior",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8082140/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Central medial nucleus of the thalamus"
+ },
+ "nucleus pulvinare": {
+  "en": "The pulvinar is the largest thalamic nucleus, forming a posterior expansion of the thalamus with medial, lateral and inferior subdivisions. As a higher-order ('second-order') nucleus it receives little direct sensory input, instead being densely interconnected with visual, parietal and temporal cortex and with the superior colliculus, and it coordinates cortico-cortical synchronization underlying visuospatial attention, visual salience detection and multimodal cognitive processing.",
+  "fr": "Le pulvinar est le plus grand noyau thalamique ; il forme une expansion postérieure du thalamus comportant des subdivisions médiale, latérale et inférieure. Noyau de « second ordre », il reçoit peu d'afférences sensorielles directes et est en revanche massivement interconnecté avec les cortex visuel, pariétal et temporal ainsi qu'avec le colliculus supérieur ; il coordonne la synchronisation cortico-corticale sous-tendant l'attention visuospatiale, la détection de la saillance visuelle et le traitement cognitif multimodal.",
+  "sources": [
+   {
+    "title": "The dorsal lateral geniculate nucleus and the pulvinar as essential partners for visual cortical functions",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10498387/"
+   },
+   {
+    "title": "Neuronal Activity in the Rat Pulvinar Correlates with Multiple Higher-Order Cognitive Functions",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7157601/"
+   }
+  ],
+  "status": "documented"
+ },
+ "nucleus ventralis Medularis": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "paraventricular hypothalamic nucleus": {
+  "en": "The paraventricular nucleus of the hypothalamus (PVN) has been described as an 'autonomic master controller', coordinating the hypothalamic-pituitary-adrenal (HPA) axis together with sympathetic and parasympathetic outflow. Its parvocellular neurons release corticotropin-releasing hormone (CRH) to drive the HPA stress response, while its magnocellular and long-projecting neurons contribute to energy balance and other neuroendocrine functions; overall, the PVN integrates internal and external signals to regulate physiological and behavioral states essential for survival.",
+  "fr": "Le noyau paraventriculaire de l'hypothalamus (PVN) a été décrit comme un « contrôleur autonome maître », coordonnant l'axe hypothalamo-hypophyso-surrénalien (HPA) ainsi que les activités sympathique et parasympathique. Ses neurones parvocellulaires libèrent la corticolibérine (CRH) pour déclencher la réponse de stress de l'axe HPA, tandis que ses neurones magnocellulaires et à projection longue contribuent à l'équilibre énergétique et à d'autres fonctions neuroendocriniennes ; globalement, le PVN intègre des signaux internes et externes pour réguler des états physiologiques et comportementaux essentiels à la survie.",
+  "sources": [
+   {
+    "title": "The paraventricular nucleus of the hypothalamus: a key node in the control of behavioural states",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12013795/"
+   },
+   {
+    "title": "The Paraventricular Nucleus of the Hypothalamus: Development, Function, and Human Diseases",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30052854/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Paraventricular hypothalamic nucleus"
+ },
+ "periventricular area of thalamus": {
+  "en": "",
+  "fr": "",
+  "sources": [],
+  "status": "pending"
+ },
+ "periventricular hypothalamic nucleus": {
+  "en": "The paraventricular nucleus of the hypothalamus (PVN) has been described as an 'autonomic master controller', coordinating the hypothalamic-pituitary-adrenal (HPA) axis together with sympathetic and parasympathetic outflow. Its parvocellular neurons release corticotropin-releasing hormone (CRH) to drive the HPA stress response, while its magnocellular and long-projecting neurons contribute to energy balance and other neuroendocrine functions; overall, the PVN integrates internal and external signals to regulate physiological and behavioral states essential for survival.",
+  "fr": "Le noyau paraventriculaire de l'hypothalamus (PVN) a été décrit comme un « contrôleur autonome maître », coordonnant l'axe hypothalamo-hypophyso-surrénalien (HPA) ainsi que les activités sympathique et parasympathique. Ses neurones parvocellulaires libèrent la corticolibérine (CRH) pour déclencher la réponse de stress de l'axe HPA, tandis que ses neurones magnocellulaires et à projection longue contribuent à l'équilibre énergétique et à d'autres fonctions neuroendocriniennes ; globalement, le PVN intègre des signaux internes et externes pour réguler des états physiologiques et comportementaux essentiels à la survie.",
+  "sources": [
+   {
+    "title": "The paraventricular nucleus of the hypothalamus: a key node in the control of behavioural states",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12013795/"
+   },
+   {
+    "title": "The Paraventricular Nucleus of the Hypothalamus: Development, Function, and Human Diseases",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30052854/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Paraventricular hypothalamic nucleus"
+ },
+ "stria Medullaris Thalami": {
+  "en": "The stria medullaris thalami is a discrete white matter tract running along the superomedial border of the thalamus that carries fibers from the septal nuclei, lateral preoptic-hypothalamic region and anterior thalamic nuclei to the habenula. It gives the forebrain a direct route to influence midbrain monoaminergic output, since the habenula relays these signals onward via the fasciculus retroflexus.",
+  "fr": "La stria medullaris thalami est un faisceau de substance blanche distinct longeant le bord supéro-médial du thalamus, transportant des fibres des noyaux septaux, de la région préoptique-hypothalamique latérale et des noyaux thalamiques antérieurs vers l'habenula. Elle offre au prosencéphale une voie directe pour influencer la production monoaminergique mésencéphalique, l'habenula relayant ensuite ces signaux via le faisceau rétroflexe.",
+  "sources": [
+   {
+    "title": "Awakening Neuropsychiatric Research Into the Stria Medullaris",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5952041/"
+   },
+   {
+    "title": "Efferent fibers of the habenula and stria medullaris thalami in rats",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/4903155/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "rat:stria medullaris thalami"
+ },
+ "zona Incerta": {
+  "en": "The zona incerta (ZI) is a largely GABAergic, inhibitory subthalamic region with extensive connections throughout the brain. Its functions have been grouped into four broad categories — sensory integration, control of behavioral output, motivational drive, and neural plasticity — and its GABAergic neurons robustly signal the occurrence, though not necessarily the direction, of exploratory and goal-directed movements; the ZI is also an established deep-brain-stimulation target for alleviating parkinsonian motor symptoms.",
+  "fr": "La zona incerta (ZI) est une région sous-thalamique majoritairement GABAergique et inhibitrice, dotée de connexions étendues dans l'ensemble du cerveau. Ses fonctions ont été regroupées en quatre grandes catégories — intégration sensorielle, contrôle de la sortie comportementale, motivation, et plasticité neuronale — et ses neurones GABAergiques signalent de façon robuste la survenue (mais pas nécessairement la direction) des mouvements exploratoires et orientés vers un but ; la ZI constitue également une cible établie de stimulation cérébrale profonde pour soulager les symptômes moteurs parkinsoniens.",
+  "sources": [
+   {
+    "title": "Zona Incerta: An Integrative Node for Global Behavioral Modulation",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7439563/"
+   }
+  ],
+  "status": "documented",
+  "reused_from": "mouse:Zona incerta"
+ }
+}

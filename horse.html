@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover" />
+<title>Horse — Equus caballus — Interactive brain atlas</title>
+<meta name="description" content="Interactive 3D horse (Equus caballus) brain MRI template and atlas viewer, with region-by-region descriptions." />
+<link rel="stylesheet" href="./assets/css/style.css?v=14" />
+</head>
+<body>
+<div id="app"></div>
+
+<script type="module">
+  import { initBrainViewer } from "./assets/js/viewer.js?v=12";
+
+  const V = "8";
+  initBrainViewer({
+    rootId: "app",
+    defaultLang: "en",
+    labName: "DABLab",
+    labInitials: "DAB",
+    logoUrl: null,
+    cnrsLogoUrl: "./assets/img/cnrs.svg",
+    siteHomeUrl: "./tools.html",
+    commonName: { en: "Horse", fr: "Cheval" },
+    latinName: "Equus caballus",
+    atlasName: "Turone Equine Brain Template and Atlas (TEBTA)",
+    atlasSpecs: {
+      en: "Strain: Welsh. Age: 6 months. Sex: males (11) and females (12). Number of animals: n = 23. Acquisition: 3 T. Weighting: T1. Spatial resolution: 1 mm isotropic. In vivo.",
+      fr: "Souche : Welsh. Âge : 6 mois. Sexe : mâles (11) et femelles (12). Nombre d'animaux : n = 23. Acquisition : 3 T. Pondération : T1. Résolution spatiale : 1 mm isotropique. In vivo.",
+    },
+    atlasReferences: [
+      { text: "Johnson PJ, Janvier V, Luh WM, FitzMaurice M, Southard T, Barry EF. (2019) Equine stereotaxic population average brain atlas with neuroanatomic correlation. Frontiers in Neuroanatomy 13:89. doi:10.3389/fnana.2019.00089. PMID:31636547", url: "https://doi.org/10.3389/fnana.2019.00089" },
+    ],
+    atlasInfo: {
+      en: "The Turone Equine Brain Template and Atlas (TEBTA) resources offer the preclinical neuroimaging community a unified and standardised framework for the analysis of multimodal horse brain data, allowing results to be reported within a reference atlas. The TEBTA resources were developed as part of the EquisoBrain project, a collaborative project supported and funded by the European Horizon 2020 Marie Skłodowska-Curie Actions (MSCA) (project number: 101033271, MSCA European Individual Fellowship, https://doi.org/10.3030/101033271) and the Institut Français du Cheval et de l'Équitation (IFCE).",
+      fr: "Les ressources Turone Equine Brain Template and Atlas (TEBTA) offrent à la communauté de la neuro-imagerie préclinique un cadre unifié et standardisé pour l'analyse de données multimodales du cerveau du cheval, permettant de rapporter les résultats dans un atlas de référence. Les ressources TEBTA ont été développées dans le cadre du projet EquisoBrain, un projet collaboratif soutenu et financé par le programme européen Horizon 2020 Marie Skłodowska-Curie Actions (MSCA) (numéro de projet : 101033271, bourse individuelle européenne MSCA, https://doi.org/10.3030/101033271) et par l'Institut français du cheval et de l'équitation (IFCE).",
+    },
+    templateUrl: `./data/horse/template.nii.gz?v=${V}`,
+    templateCalMin: 0,
+    templateCalMax: 27000,
+    atlasUrl: `./data/horse/atlas.nii.gz?v=${V}`,
+    atlasWithBordersUrl: `./data/horse/atlasAndBorders.nii.gz?v=${V}`,
+    lutUrl: `./data/horse/atlas_lut.json?v=${V}`,
+    regionsUrl: `./data/horse/regions.json?v=${V}`,
+    descriptionsUrl: `./data/horse/descriptions.json?v=${V}`,
+    defaultAtlasOpacity: 0.5,
+    pubmedContext: "horse brain",
+  });
+</script>
+</body>
+</html>

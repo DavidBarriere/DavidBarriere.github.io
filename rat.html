@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover" />
+<title>Rat — Rattus norvegicus — Interactive brain atlas</title>
+<meta name="description" content="Interactive 3D rat (Rattus norvegicus) brain MRI template and atlas viewer, with region-by-region descriptions." />
+<link rel="stylesheet" href="./assets/css/style.css?v=17" />
+</head>
+<body>
+<div id="app"></div>
+
+<script type="module">
+  import { initBrainViewer } from "./assets/js/viewer.js?v=15";
+
+  const V = "11";
+  initBrainViewer({
+    rootId: "app",
+    defaultLang: "en",
+    labName: "DABLab",
+    labInitials: "DAB",
+    logoUrl: null,
+    cnrsLogoUrl: "./assets/img/cnrs.svg",
+    siteHomeUrl: "./tools.html",
+    commonName: { en: "Rat", fr: "Rat" },
+    latinName: "Rattus norvegicus",
+    atlasName: "SIGMA Rat Brain Templates and Atlases",
+    atlasDownloadUrl: "https://zenodo.org/records/10635831",
+    atlasSpecs: {
+      en: "SIGMA template. Strain: Wistar. Age: 8 weeks. Sex: male. Number of animals: n = 6. Acquisition: 11.7 T. Weighting: T2*. Spatial resolution: 90 µm isotropic. Ex vivo, no contrast enhancement.\n\nWaxholm Space atlas. Strain: Wistar. Age: 12 weeks. Sex: male. Number of animals: n = 1. Acquisition: 7 T. Weighting: T2*. Spatial resolution: 39 µm isotropic. Ex vivo, no contrast enhancement.",
+      fr: "Template SIGMA. Souche : Wistar. Âge : 8 semaines. Sexe : mâles. Nombre d'animaux : n = 6. Acquisition : 11,7 T. Pondération : T2*. Résolution spatiale : 90 µm isotropique. Ex vivo, sans réhaussement.\n\nAtlas Waxholm Space. Souche : Wistar. Âge : 12 semaines. Sexe : mâles. Nombre d'animaux : n = 1. Acquisition : 7 T. Pondération : T2*. Résolution spatiale : 39 µm isotropique. Ex vivo, sans réhaussement.",
+    },
+    atlasReferences: [
+      { text: "Barrière D, Magalhães R, Novais A, Marques P, Selingue E, et al. (2019) The SIGMA rat brain templates and atlases for multimodal MRI data analysis and visualization. Nature Communications 10:5699. doi:10.1038/s41467-019-13575-7", url: "https://doi.org/10.1038/s41467-019-13575-7" },
+      { text: "Kleven H, Bjerke IE, Clascá F, et al. (2023) Waxholm Space atlas of the rat brain: a 3D atlas supporting data analysis and integration. Nature Methods 20:1822-1829. doi:10.1038/s41592-023-02034-3", url: "https://doi.org/10.1038/s41592-023-02034-3" },
+    ],
+    atlasInfo: {
+      en: "The SIGMA resources offer the preclinical neuroimaging community a unified and standardised framework for the analysis of multimodal rat brain data, allowing results to be reported in the coordinate system of the Waxholm atlas, the reference in the field. The SIGMA resources were developed as part of the SIGMA project (reference FCT-ANR/NEU-OSD/0258/2012), co-financed by the French public funding agency ANR (Agence Nationale de la Recherche, Blanc International II 2012 call), the Portuguese FCT (Fundação para a Ciência e a Tecnologia) and the Portuguese North Regional Operational Programme (ON.2 — O Novo Norte) under the National Strategic Reference Framework (QREN), through the European Regional Development Fund (FEDER), as well as by the Projecto Estratégico co-funded by FCT (PEst-C/SAU/LA0026-/2013) and the European Regional Development Fund COMPETE (FCOMP-01-0124-FEDER-037298).",
+      fr: "Les ressources SIGMA offrent à la communauté de la neuro-imagerie préclinique un cadre unifié et standardisé pour l'analyse de données multimodales du cerveau du rat, permettant de rapporter les résultats dans le système de coordonnées de l'atlas de Waxholm, qui est la référence dans le domaine. Les ressources SIGMA ont été développées dans le cadre du projet SIGMA, sous la référence FCT-ANR/NEU-OSD/0258/2012, cofinancé par l'agence française de financement public ANR (Agence Nationale de la Recherche, appel à projets Blanc International II 2012), la FCT portugaise (Fundação para a Ciência e a Tecnologia) et le Programme opérationnel régional Nord du Portugal (ON.2 — O Novo Norte) dans le cadre du Cadre de référence stratégique national (QREN), via le Fonds européen de développement régional (FEDER), ainsi que par le Projecto Estratégico cofinancé par la FCT (PEst-C/SAU/LA0026-/2013) et le Fonds européen de développement régional COMPETE (FCOMP-01-0124-FEDER-037298).",
+    },
+    templateUrl: `./data/rat/template.nii.gz?v=${V}`,
+    templateCalMin: 0,
+    templateCalMax: 27000,
+    atlasUrl: `./data/rat/atlas.nii.gz?v=${V}`,
+    atlasWithBordersUrl: `./data/rat/atlasAndBorders.nii.gz?v=${V}`,
+    lutUrl: `./data/rat/atlas_lut.json?v=${V}`,
+    regionsUrl: `./data/rat/regions.json?v=${V}`,
+    descriptionsUrl: `./data/rat/descriptions.json?v=${V}`,
+    defaultAtlasOpacity: 0.5,
+    pubmedContext: "rat brain",
+  });
+</script>
+</body>
+</html>

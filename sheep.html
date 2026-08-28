@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover" />
+<title>Sheep — Ovis aries — Interactive brain atlas</title>
+<meta name="description" content="Interactive 3D sheep (Ovis aries) brain MRI template and atlas viewer, with region-by-region descriptions." />
+<link rel="stylesheet" href="./assets/css/style.css?v=16" />
+</head>
+<body>
+<div id="app"></div>
+
+<script type="module">
+  import { initBrainViewer } from "./assets/js/viewer.js?v=14";
+
+  const V = "10";
+  initBrainViewer({
+    rootId: "app",
+    defaultLang: "en",
+    labName: "DABLab",
+    labInitials: "DAB",
+    logoUrl: null,
+    cnrsLogoUrl: "./assets/img/cnrs.svg",
+    siteHomeUrl: "./tools.html",
+    commonName: { en: "Sheep", fr: "Mouton" },
+    latinName: "Ovis aries",
+    atlasName: "Turone Sheep Brain Templates and Atlas (TSBTA)",
+    atlasDownloadUrl: "https://zenodo.org/records/10730961",
+    atlasSpecs: {
+      en: "Strain: Île-de-France. Age: 4 years. Sex: female. Number of animals: n = 17. Acquisition: 3 T. Weighting: T1/T2*. Spatial resolution: 500 µm isotropic. In vivo.",
+      fr: "Souche : Île-de-France. Âge : 4 ans. Sexe : femelles. Nombre d'animaux : n = 17. Acquisition : 3 T. Pondération : T1/T2*. Résolution spatiale : 500 µm isotropique. In vivo.",
+    },
+    atlasReferences: [
+      { text: "Ella A, Chesneau D, Porte C, Lomet D, Adriaensen H, Piégu B, Uszynski I, Poupon C, Migaud M, Delgadillo J, Aguirre-Lavin T, Lasserre O, Chemineau P, Dardente H, Keller M, Barrière DA. (2025) How the brain adapts to nature's rhythms: a year of neuroimaging in a seasonal mammal. NeuroImage 321:121494. doi:10.1016/j.neuroimage.2025.121494", url: "https://doi.org/10.1016/j.neuroimage.2025.121494" },
+      { text: "Ella A, Keller M. (2015) Construction of an MRI 3D high resolution sheep brain template. Magnetic Resonance Imaging 33(10):1329-1337. doi:10.1016/j.mri.2015.09.001", url: "https://doi.org/10.1016/j.mri.2015.09.001" },
+      { text: "Ella A, Delgadillo JA, Chemineau P, Keller M. (2017) Computation of a high-resolution MRI 3D stereotaxic atlas of the sheep brain. Journal of Comparative Neurology 525(3):676-692. doi:10.1002/cne.24079. PMID:27503489", url: "https://doi.org/10.1002/cne.24079" },
+    ],
+    atlasInfo: {
+      en: "The Turone Sheep Brain Templates and Atlas (TSBTA) resources offer the preclinical neuroimaging community a unified and standardised framework for the analysis of multimodal sheep brain data, allowing results to be reported in the coordinate system of the Ella A et al. atlas, the reference in the field. The TSBTA resources were developed as part of the ImaCervoRepro project, a collaborative project funded by the regional council of the Centre-Val de Loire (agreement 201500104011, 2015-2018).",
+      fr: "Les ressources Turone Sheep Brain Templates and Atlas (TSBTA) offrent à la communauté de la neuro-imagerie préclinique un cadre unifié et standardisé pour l'analyse de données multimodales du cerveau du mouton, permettant de rapporter les résultats dans le système de coordonnées de l'atlas de Ella A et al., qui est la référence dans le domaine. Les ressources TSBTA ont été développées dans le cadre du projet ImaCervoRepro, un projet collaboratif financé par le Conseil régional du Centre-Val de Loire (convention 201500104011, 2015-2018).",
+    },
+    templateUrl: `./data/sheep/template.nii.gz?v=${V}`,
+    templateCalMin: 0,
+    templateCalMax: 700,
+    atlasUrl: `./data/sheep/atlas.nii.gz?v=${V}`,
+    atlasWithBordersUrl: `./data/sheep/atlasAndBorders.nii.gz?v=${V}`,
+    lutUrl: `./data/sheep/atlas_lut.json?v=${V}`,
+    regionsUrl: `./data/sheep/regions.json?v=${V}`,
+    descriptionsUrl: `./data/sheep/descriptions.json?v=${V}`,
+    defaultAtlasOpacity: 0.5,
+    pubmedContext: "sheep brain",
+  });
+</script>
+</body>
+</html>

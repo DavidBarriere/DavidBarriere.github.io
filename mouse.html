@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover" />
+<title>Mouse — Mus musculus — Interactive brain atlas</title>
+<meta name="description" content="Interactive 3D mouse (Mus musculus) brain MRI template and atlas viewer, with region-by-region descriptions." />
+<link rel="stylesheet" href="./assets/css/style.css?v=52" />
+</head>
+<body>
+<div id="app"></div>
+
+<script type="module">
+  import { initBrainViewer } from "./assets/js/viewer.js?v=49";
+
+  const V = "45";
+  initBrainViewer({
+    rootId: "app",
+    defaultLang: "en",
+    labName: "DABLab",
+    labInitials: "DAB",
+    logoUrl: null,
+    cnrsLogoUrl: "./assets/img/cnrs.svg",
+    siteHomeUrl: "./tools.html",
+    commonName: { en: "Mouse", fr: "Souris" },
+    latinName: "Mus musculus",
+    atlasName: "Turone Mouse Brain Atlas and Template (TMBTA)",
+    atlasDownloadUrl: "https://zenodo.org/records/10730847",
+    atlasSpecs: {
+      en: "AMBMC template. Strain: C57BL/6J. Age: 12 weeks. Sex: male. Number of animals: n = 18. Acquisition: 16.4 T. Spatial resolution: 15 µm isotropic. Ex vivo, 0.1% Magnevist®.\n\nAllen Mouse Brain Atlas. Strain: C57BL/6J. Age: 12 weeks. Sex: male (60%) and female (40%). Acquisition: two-photon tomography. Spatial resolution: 10 µm isotropic.\n\nTurone Mouse Brain Template and Atlas (TMBTA): the template is a variant of the AMBMC template, whose resolution was reduced to 60 µm isotropic to allow MRI data analysis. The atlas is a combination of the Allen Brain Project and AMBMC atlases, chosen to find the best compromise for identifying brain territories in MRI. The hippocampus, cerebellum, neocortex, basal ganglia and diencephalon come from AMBMC, while the rest comes from the Allen Brain Project. Finally, grey matter, white matter and cerebrospinal fluid probability maps are provided for automated segmentation procedures.",
+      fr: "Template AMBMC. Souche : C57BL/6J. Âge : 12 semaines. Sexe : mâles. Nombre d'animaux : n = 18. Acquisition : 16,4 T. Résolution spatiale : 15 µm isotropique. Ex vivo, 0,1 % Magnevist®.\n\nAllen Mouse Brain Atlas. Souche : C57BL/6J. Âge : 12 semaines. Sexe : mâles (60 %) et femelles (40 %). Acquisition : tomographie biphotonique. Résolution spatiale : 10 µm isotropique.\n\nTurone Mouse Brain Template and Atlas (TMBTA) : le template est une variante du template AMBMC dont la résolution a été réduite à 60 µm isotropique pour permettre l'analyse des données IRM. L'atlas est une combinaison entre les atlas issus de l'Allen Brain Project et de l'AMBMC, afin de trouver le meilleur compromis pour l'identification des territoires cérébraux en IRM. L'hippocampe, le cervelet, le néocortex, les ganglions de la base et le diencéphale sont issus de l'AMBMC, le reste provient de l'Allen Brain Project. Enfin, des cartes de probabilité de matière grise, de matière blanche et de liquide céphalorachidien sont fournies pour les procédures de segmentation automatique.",
+    },
+    atlasReferences: [
+      { text: "Australian Mouse Brain Mapping Consortium (AMBMC)", url: "https://imaging.org.au/AMBMC/" },
+      { text: "Allen Mouse Brain Atlas", url: "https://atlas.brain-map.org/" },
+      { text: "Janke AL, Ullmann JF. (2015) Robust methods to create ex vivo minimum deformation atlases for brain mapping. Methods 73:18-26. doi:10.1016/j.ymeth.2015.01.005", url: "https://doi.org/10.1016/j.ymeth.2015.01.005" },
+      { text: "Richards K, Watson C, Buckley RF, Kurniawan ND, Yang Z, Keller MD, Beare R, Bartlett PF, Egan GF, Galloway GJ, Paxinos G, Petrou S, Reutens DC. (2011) Segmentation of the mouse hippocampal formation in magnetic resonance images. NeuroImage 58(3):732-740. doi:10.1016/j.neuroimage.2011.06.025", url: "https://doi.org/10.1016/j.neuroimage.2011.06.025" },
+      { text: "Ullmann JFP, Keller MD, Watson C, Janke AL, Kurniawan ND, Yang Z, Richards K, Paxinos G, Egan GF, Petrou S, Bartlett P, Galloway GJ, Reutens DC. (2012) Segmentation of the C57BL/6J mouse cerebellum in magnetic resonance images. NeuroImage 62(3):1408-1414. doi:10.1016/j.neuroimage.2012.05.061", url: "https://doi.org/10.1016/j.neuroimage.2012.05.061" },
+      { text: "Ullmann JFP, Watson C, Janke AL, Kurniawan ND, Reutens DC. (2013) A segmentation protocol and MRI atlas of the C57BL/6J mouse neocortex. NeuroImage. PMID: 23587687", url: "https://pubmed.ncbi.nlm.nih.gov/23587687/" },
+      { text: "Ullmann JFP, Watson C, Janke AL, Kurniawan ND, Paxinos G, Reutens DC. (2013) A segmentation protocol and MRI atlas of the C57BL/6J mouse basal ganglia. Brain Structure and Function. doi:10.1007/s00429-013-0572-0", url: "https://doi.org/10.1007/s00429-013-0572-0" },
+      { text: "Watson C, Janke AL, Hamalainen C, Bagheri SM, Paxinos G, Reutens DC, Ullmann JFP. (2017) An ontologically consistent MRI-based atlas of the mouse diencephalon. NeuroImage. doi:10.1016/j.neuroimage.2017.05.057", url: "https://doi.org/10.1016/j.neuroimage.2017.05.057" },
+    ],
+    atlasInfo: {
+      en: "The Turone Mouse Brain Template and Atlas (TMBTA) resources offer the preclinical neuroimaging community a unified and standardised framework for the analysis of multimodal mouse brain data, allowing results to be reported in the coordinate system of the Allen Brain Project atlas, the reference in the field. The TMBTA resources were developed as part of the ImaCervoRepro project, a collaborative project funded by the regional council of the Centre-Val de Loire (agreement 201500104011, 2015-2018).",
+      fr: "Les ressources Turone Mouse Brain Template and Atlas (TMBTA) offrent à la communauté de la neuro-imagerie préclinique un cadre unifié et standardisé pour l'analyse de données multimodales du cerveau de la souris, permettant de rapporter les résultats dans le système de coordonnées de l'atlas de l'Allen Brain Project, qui est la référence dans le domaine. Les ressources TMBTA ont été développées dans le cadre du projet ImaCervoRepro, un projet collaboratif financé par le Conseil régional du Centre-Val de Loire (convention 201500104011, 2015-2018).",
+    },
+    templateUrl: `./data/mouse/template.nii.gz?v=${V}`,
+    templateCalMin: 0,
+    templateCalMax: 27000,
+    atlasUrl: `./data/mouse/atlas.nii.gz?v=${V}`,
+    atlasWithBordersUrl: `./data/mouse/atlasAndBorders.nii.gz?v=${V}`,
+    lutUrl: `./data/mouse/atlas_lut.json?v=${V}`,
+    regionsUrl: `./data/mouse/regions.json?v=${V}`,
+    descriptionsUrl: `./data/mouse/descriptions.json?v=${V}`,
+    defaultAtlasOpacity: 0.5,
+    pubmedContext: "mouse brain",
+  });
+</script>
+</body>
+</html>
