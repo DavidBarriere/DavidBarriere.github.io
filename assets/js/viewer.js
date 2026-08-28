@@ -342,13 +342,28 @@ export async function initBrainViewer(config) {
 
   let bordersOn = atlasBorderedIdx > 0;
 
+  console.log("[diag] workingLut entries:", workingLut.I.length, "sample:", workingLut.I.slice(0, 3), workingLut.R.slice(0, 3), workingLut.A.slice(0, 3));
   await nv.loadVolumes(volumesToLoad);
-  nv.volumes[atlasIdx].setColormapLabel(cloneLut(workingLut));
-  nv.setOpacity(atlasIdx, bordersOn ? 0 : (config.defaultAtlasOpacity ?? 0.5));
-  if (atlasBorderedIdx > 0) {
-    nv.volumes[atlasBorderedIdx].setColormapLabel(cloneLut(workingLut));
-    nv.setOpacity(atlasBorderedIdx, bordersOn ? (config.defaultAtlasOpacity ?? 0.5) : 0);
+  console.log("[diag] nv.volumes.length:", nv.volumes.length, nv.volumes.map(v => ({ id: v.id, url: v.url, colormap: v.colormap, dims: v.hdr && v.hdr.dims })));
+  try {
+    nv.volumes[atlasIdx].setColormapLabel(cloneLut(workingLut));
+    console.log("[diag] setColormapLabel OK for atlasIdx", atlasIdx);
+  } catch (e) {
+    console.error("[diag] setColormapLabel FAILED for atlasIdx", atlasIdx, e);
   }
+  nv.setOpacity(atlasIdx, bordersOn ? 0 : (config.defaultAtlasOpacity ?? 0.5));
+  console.log("[diag] opacity atlasIdx set to", bordersOn ? 0 : (config.defaultAtlasOpacity ?? 0.5), "bordersOn:", bordersOn);
+  if (atlasBorderedIdx > 0) {
+    try {
+      nv.volumes[atlasBorderedIdx].setColormapLabel(cloneLut(workingLut));
+      console.log("[diag] setColormapLabel OK for atlasBorderedIdx", atlasBorderedIdx);
+    } catch (e) {
+      console.error("[diag] setColormapLabel FAILED for atlasBorderedIdx", atlasBorderedIdx, e);
+    }
+    nv.setOpacity(atlasBorderedIdx, bordersOn ? (config.defaultAtlasOpacity ?? 0.5) : 0);
+    console.log("[diag] opacity atlasBorderedIdx set to", bordersOn ? (config.defaultAtlasOpacity ?? 0.5) : 0);
+  }
+  console.log("[diag] gl context:", nv.gl ? "present" : "MISSING", nv.gl && nv.gl.getParameter ? nv.gl.getParameter(nv.gl.VERSION) : "n/a");
   // Multiplanar's default "auto" render pane visibility hides the 3D view
   // whenever it judges the canvas too small/narrow for it — which made the
   // 3D pane disappear on almost any window resize. Force it always-on.
