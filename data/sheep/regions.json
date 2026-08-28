@@ -1,6 +1,6 @@
 [
  {
-  "id": 9999,
+  "id": 1200,
   "name": "Clear Label",
   "base": "Clear Label",
   "hemisphere": null,
@@ -12,7 +12,7 @@
   ]
  },
  {
-  "id": 9101,
+  "id": 1101,
   "name": "Anterior sigmoideus gyrus Left",
   "base": "Anterior sigmoideus gyrus",
   "hemisphere": "L",
@@ -24,7 +24,7 @@
   ]
  },
  {
-  "id": 9102,
+  "id": 1102,
   "name": "Anterior sigmoideus gyrus Right",
   "base": "Anterior sigmoideus gyrus",
   "hemisphere": "R",
@@ -36,7 +36,7 @@
   ]
  },
  {
-  "id": 9111,
+  "id": 1111,
   "name": "Cerebellum Left",
   "base": "Cerebellum",
   "hemisphere": "L",
@@ -48,7 +48,7 @@
   ]
  },
  {
-  "id": 9112,
+  "id": 1112,
   "name": "Cerebellum Right",
   "base": "Cerebellum",
   "hemisphere": "R",
@@ -60,7 +60,7 @@
   ]
  },
  {
-  "id": 9121,
+  "id": 1121,
   "name": "Cingulate gyrus Left",
   "base": "Cingulate gyrus",
   "hemisphere": "L",
@@ -72,7 +72,7 @@
   ]
  },
  {
-  "id": 9122,
+  "id": 1122,
   "name": "Cingulate gyrus Right",
   "base": "Cingulate gyrus",
   "hemisphere": "R",
@@ -84,7 +84,7 @@
   ]
  },
  {
-  "id": 9131,
+  "id": 1131,
   "name": "Insular cortex Left",
   "base": "Insular cortex",
   "hemisphere": "L",
@@ -96,7 +96,7 @@
   ]
  },
  {
-  "id": 9132,
+  "id": 1132,
   "name": "Insular cortex Right",
   "base": "Insular cortex",
   "hemisphere": "R",

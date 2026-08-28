@@ -1,6 +1,6 @@
 [
  {
-  "id": 9999,
+  "id": 1200,
   "name": "Clear Label",
   "base": "Clear Label",
   "hemisphere": null,
@@ -12,7 +12,7 @@
   ]
  },
  {
-  "id": 9001,
+  "id": 1101,
   "name": "anterior cingulate region",
   "base": "anterior cingulate region",
   "hemisphere": null,
@@ -24,7 +24,7 @@
   ]
  },
  {
-  "id": 9002,
+  "id": 1102,
   "name": "angular region right",
   "base": "angular region",
   "hemisphere": "R",
@@ -36,7 +36,7 @@
   ]
  },
  {
-  "id": 9003,
+  "id": 1103,
   "name": "angular region left",
   "base": "angular region",
   "hemisphere": "L",
@@ -48,7 +48,7 @@
   ]
  },
  {
-  "id": 9004,
+  "id": 1104,
   "name": "anteromedial cingulate region",
   "base": "anteromedial cingulate region",
   "hemisphere": null,
@@ -60,7 +60,7 @@
   ]
  },
  {
-  "id": 9005,
+  "id": 1105,
   "name": "anterior insular region right",
   "base": "anterior insular region",
   "hemisphere": "R",
@@ -72,7 +72,7 @@
   ]
  },
  {
-  "id": 9006,
+  "id": 1106,
   "name": "anterior insular region left",
   "base": "anterior insular region",
   "hemisphere": "L",
@@ -84,7 +84,7 @@
   ]
  },
  {
-  "id": 9007,
+  "id": 1107,
   "name": "cuneus/precuneus",
   "base": "cuneus/precuneus",
   "hemisphere": null,
@@ -96,7 +96,7 @@
   ]
  },
  {
-  "id": 9008,
+  "id": 1108,
   "name": "anterior supramarginal region right",
   "base": "anterior supramarginal region",
   "hemisphere": "R",
@@ -108,7 +108,7 @@
   ]
  },
  {
-  "id": 9009,
+  "id": 1109,
   "name": "anterior supramarginal region left",
   "base": "anterior supramarginal region",
   "hemisphere": "L",
@@ -120,7 +120,7 @@
   ]
  },
  {
-  "id": 9010,
+  "id": 1110,
   "name": "frontal anteromedial region",
   "base": "frontal anteromedial region",
   "hemisphere": null,
@@ -132,7 +132,7 @@
   ]
  },
  {
-  "id": 9011,
+  "id": 1111,
   "name": "caudoposterior cingulate region right",
   "base": "caudoposterior cingulate region",
   "hemisphere": "R",
@@ -144,7 +144,7 @@
   ]
  },
  {
-  "id": 9012,
+  "id": 1112,
   "name": "caudoposterior cingulate region left",
   "base": "caudoposterior cingulate region",
   "hemisphere": "L",
@@ -156,7 +156,7 @@
   ]
  },
  {
-  "id": 9013,
+  "id": 1113,
   "name": "orbitofrontal region",
   "base": "orbitofrontal region",
   "hemisphere": null,
@@ -168,7 +168,7 @@
   ]
  },
  {
-  "id": 9014,
+  "id": 1114,
   "name": "frontal anterolateral region right",
   "base": "frontal anterolateral region",
   "hemisphere": "R",
@@ -180,7 +180,7 @@
   ]
  },
  {
-  "id": 9015,
+  "id": 1115,
   "name": "frontal anterolateral region left",
   "base": "frontal anterolateral region",
   "hemisphere": "L",
@@ -192,7 +192,7 @@
   ]
  },
  {
-  "id": 9016,
+  "id": 1116,
   "name": "posterior cingulate region",
   "base": "posterior cingulate region",
   "hemisphere": null,
@@ -204,7 +204,7 @@
   ]
  },
  {
-  "id": 9017,
+  "id": 1117,
   "name": "frontal region right",
   "base": "frontal region",
   "hemisphere": "R",
@@ -216,7 +216,7 @@
   ]
  },
  {
-  "id": 9018,
+  "id": 1118,
   "name": "frontal region left",
   "base": "frontal region",
   "hemisphere": "L",
@@ -228,7 +228,7 @@
   ]
  },
  {
-  "id": 9019,
+  "id": 1119,
   "name": "posteromedial cingulate region",
   "base": "posteromedial cingulate region",
   "hemisphere": null,
@@ -240,7 +240,7 @@
   ]
  },
  {
-  "id": 9020,
+  "id": 1120,
   "name": "inferior frontal region right",
   "base": "inferior frontal region",
   "hemisphere": "R",

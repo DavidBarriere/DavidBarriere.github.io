@@ -1,6 +1,6 @@
 [
  {
-  "id": 9999,
+  "id": 1200,
   "name": "Clear Label",
   "base": "Clear Label",
   "hemisphere": null,
@@ -12,7 +12,7 @@
   ]
  },
  {
-  "id": 9001,
+  "id": 1101,
   "name": "Anterior hypothalamic area left",
   "base": "Anterior hypothalamic area",
   "hemisphere": "L",
@@ -24,7 +24,7 @@
   ]
  },
  {
-  "id": 9002,
+  "id": 1102,
   "name": "Anterior hypothalamic area right",
   "base": "Anterior hypothalamic area",
   "hemisphere": "R",
@@ -36,7 +36,7 @@
   ]
  },
  {
-  "id": 9003,
+  "id": 1103,
   "name": "Medial hypothalamic area left",
   "base": "Medial hypothalamic area",
   "hemisphere": "L",
@@ -48,7 +48,7 @@
   ]
  },
  {
-  "id": 9004,
+  "id": 1104,
   "name": "Medial hypothalamic area right",
   "base": "Medial hypothalamic area",
   "hemisphere": "R",
@@ -60,7 +60,7 @@
   ]
  },
  {
-  "id": 9005,
+  "id": 1105,
   "name": "Mediodorsal thalamic nucleus left",
   "base": "Mediodorsal thalamic nucleus",
   "hemisphere": "L",
@@ -72,7 +72,7 @@
   ]
  },
  {
-  "id": 9006,
+  "id": 1106,
   "name": "Mediodorsal thalamic nucleus right",
   "base": "Mediodorsal thalamic nucleus",
   "hemisphere": "R",
@@ -84,7 +84,7 @@
   ]
  },
  {
-  "id": 9007,
+  "id": 1107,
   "name": "Reticular thalamic nucleus left",
   "base": "Reticular thalamic nucleus",
   "hemisphere": "L",
@@ -96,7 +96,7 @@
   ]
  },
  {
-  "id": 9008,
+  "id": 1108,
   "name": "Reticular thalamic nucleus right",
   "base": "Reticular thalamic nucleus",
   "hemisphere": "R",
@@ -108,7 +108,7 @@
   ]
  },
  {
-  "id": 9009,
+  "id": 1109,
   "name": "Laterodorsal thalamic nucleus left",
   "base": "Laterodorsal thalamic nucleus",
   "hemisphere": "L",
@@ -120,7 +120,7 @@
   ]
  },
  {
-  "id": 9010,
+  "id": 1110,
   "name": "Laterodorsal thalamic nucleus right",
   "base": "Laterodorsal thalamic nucleus",
   "hemisphere": "R",
@@ -132,7 +132,7 @@
   ]
  },
  {
-  "id": 9011,
+  "id": 1111,
   "name": "Pulvinar nuclei left",
   "base": "Pulvinar nuclei",
   "hemisphere": "L",
@@ -144,7 +144,7 @@
   ]
  },
  {
-  "id": 9012,
+  "id": 1112,
   "name": "Pulvinar nuclei right",
   "base": "Pulvinar nuclei",
   "hemisphere": "R",
@@ -156,7 +156,7 @@
   ]
  },
  {
-  "id": 9013,
+  "id": 1113,
   "name": "Ventral anterior thalamic nucleus left",
   "base": "Ventral anterior thalamic nucleus",
   "hemisphere": "L",
@@ -168,7 +168,7 @@
   ]
  },
  {
-  "id": 9014,
+  "id": 1114,
   "name": "Ventral anterior thalamic nucleus right",
   "base": "Ventral anterior thalamic nucleus",
   "hemisphere": "R",
@@ -180,7 +180,7 @@
   ]
  },
  {
-  "id": 9015,
+  "id": 1115,
   "name": "Ventral posterior thalamic nucleus left",
   "base": "Ventral posterior thalamic nucleus",
   "hemisphere": "L",
@@ -192,7 +192,7 @@
   ]
  },
  {
-  "id": 9016,
+  "id": 1116,
   "name": "Ventral posterior thalamic nucleus right",
   "base": "Ventral posterior thalamic nucleus",
   "hemisphere": "R",
@@ -204,7 +204,7 @@
   ]
  },
  {
-  "id": 9017,
+  "id": 1117,
   "name": "Geniculate nuclei left",
   "base": "Geniculate nuclei",
   "hemisphere": "L",
@@ -216,7 +216,7 @@
   ]
  },
  {
-  "id": 9018,
+  "id": 1118,
   "name": "Geniculate nuclei right",
   "base": "Geniculate nuclei",
   "hemisphere": "R",
@@ -228,7 +228,7 @@
   ]
  },
  {
-  "id": 9019,
+  "id": 1119,
   "name": "Central thalamic area left",
   "base": "Central thalamic area",
   "hemisphere": "L",
@@ -240,7 +240,7 @@
   ]
  },
  {
-  "id": 9020,
+  "id": 1120,
   "name": "Central thalamic area right",
   "base": "Central thalamic area",
   "hemisphere": "R",

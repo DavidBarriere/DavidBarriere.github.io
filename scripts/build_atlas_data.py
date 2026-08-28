@@ -349,7 +349,20 @@ def main():
              "Workaround for specific structures that render wrong near the start of the ID range "
              "(see apply_id_remap() docstring). Only pass IDs empirically confirmed broken.",
     )
+    ap.add_argument(
+        "--sentinel", type=int, default=None,
+        help="Override BACKGROUND_SENTINEL (default 9999). NiiVue's setColormapLabel scales an "
+             "internal texture with the MAXIMUM id value used, so a needlessly high sentinel "
+             "(or relocate-ids target) can silently fail to render on some browser/GPU combos "
+             "(observed: Firefox + Intel integrated graphics) even though it works fine on Chrome. "
+             "Pass the smallest safe value: strictly greater than this species' real max label id "
+             "(and greater than any --relocate-ids target).",
+    )
     args = ap.parse_args()
+
+    global BACKGROUND_SENTINEL
+    if args.sentinel is not None:
+        BACKGROUND_SENTINEL = args.sentinel
 
     out_dir = args.site_root / "data" / args.species
     out_dir.mkdir(parents=True, exist_ok=True)
