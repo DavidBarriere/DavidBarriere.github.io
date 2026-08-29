@@ -366,8 +366,8 @@ export async function initBrainViewer(config) {
   // Distinct from onLocationChange (which only fires on click/drag), so a
   // passive hover can show a name without moving the crosshair.
   let hoverIdVal = null;
-  canvas.addEventListener("mousemove", (e) => {
-    const pos = nv.getNoPaddingNoBorderCanvasRelativeMousePosition(e, nv.gl.canvas);
+  function updateHoverTooltip(clientX, clientY) {
+    const pos = nv.getNoPaddingNoBorderCanvasRelativeMousePosition({ clientX, clientY }, nv.gl.canvas);
     const dpr = nv.uiData?.dpr || window.devicePixelRatio || 1;
     const frac = nv.canvasPos2frac([pos.x * dpr, pos.y * dpr]);
     if (!frac || frac[0] < 0) {
@@ -391,14 +391,34 @@ export async function initBrainViewer(config) {
     }
     if (hoverTooltip.textContent) {
       hoverTooltip.classList.remove("hidden");
-      hoverTooltip.style.left = `${e.clientX - viewerPane.getBoundingClientRect().left + 14}px`;
-      hoverTooltip.style.top = `${e.clientY - viewerPane.getBoundingClientRect().top + 14}px`;
+      hoverTooltip.style.left = `${clientX - viewerPane.getBoundingClientRect().left + 14}px`;
+      hoverTooltip.style.top = `${clientY - viewerPane.getBoundingClientRect().top + 14}px`;
     }
-  });
+  }
+  canvas.addEventListener("mousemove", (e) => updateHoverTooltip(e.clientX, e.clientY));
   canvas.addEventListener("mouseleave", () => {
     hoverTooltip.classList.add("hidden");
     hoverIdVal = null;
   });
+  // Touch devices never fire mousemove, so hover info would otherwise never
+  // appear. Reuse the same lookup on tap/drag; keep the tooltip visible on
+  // touchend so it can actually be read after lifting the finger.
+  canvas.addEventListener(
+    "touchstart",
+    (e) => {
+      if (e.touches.length !== 1) return;
+      updateHoverTooltip(e.touches[0].clientX, e.touches[0].clientY);
+    },
+    { passive: true }
+  );
+  canvas.addEventListener(
+    "touchmove",
+    (e) => {
+      if (e.touches.length !== 1) return;
+      updateHoverTooltip(e.touches[0].clientX, e.touches[0].clientY);
+    },
+    { passive: true }
+  );
 
   loadingOverlay.classList.add("hidden");
 

@@ -625,6 +625,9 @@ input[type="checkbox"] { accent-color: var(--accent); width: 15px; height: 15px;
     grid-template-columns: 1fr;
     grid-template-rows: 52vh 1fr;
   }
+  main.layout.sidebar-hidden {
+    grid-template-rows: 1fr;
+  }
   aside.sidebar { border-left: none; border-top: 1px solid var(--border); }
   :root { --sidebar-w: 100%; }
 }
