@@ -202,7 +202,7 @@ p:last-child { margin-bottom: 0; }
 .carousel {
   position: relative;
   max-width: 760px;
-  margin: 0 auto;
+  margin: 0;
   background: #14151c;
   border: 1px solid var(--border);
   border-radius: 6px;
